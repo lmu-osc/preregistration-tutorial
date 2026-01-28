@@ -1,6 +1,6 @@
 # Tutorial Template
 
-This repo serves as the template/basis for our Quarto tutorials.
+This repository holds the training materials on preregistration for advanced learners.
 
 ## Check `CITATION.cff` Format
 
