@@ -1,23 +1,26 @@
 ---
-title: "Welcome to the TOPIC Tutorial!"
+title: "Welcome to the preregistration tutorial!"
 ---
-
-THIS IS YOUR HOME PAGE FILE. DO NOT RENAME OR DELETE THIS FILE.
-
 
 # Tutorial Overview
 
-This **self-paced tutorial** is intended to take X hours to complete.
+This **self-paced tutorial** will introduce you to the key concepts, practices and tools involved in preregistration. Preregistration is an open science practice that is increasingly adopted 
 
-The tutorial is split into the following sections:
+intended to take X hours to complete.
 
-1.  [**TOPIC1**]() talks about TOPIC1
-2.  [**TOPIC2**]() discusses TOPIC2
+The tutorial is split into the following five sections:
 
+1.  [**Introduction to preregistration**]() provides an introduction to the context of why preregistration exists as an open science practice. This section discusses key concepts and topics such as different research methodologies (e.g. qualitative, experimental, observational), confirmatory vs exploratory analysis, questionable research practices.
+2.  [**How to do a preregistration**]() briefly outlines the essential and recommended elements to include in a study preregistration, with resources to find templates by research method.
+3.  [**Challenges and opportunites of preregistration**]() explores the challenges and opportunities of doing a preregistration from an individual researcher perspective to the wider research ecosystem.  
+4.  [**Building a preregistration toolkit**]() provides opportunities to practice improving parts of a study preregistration from research questions to analysis plans.
+5.  [**Evaluating preregistration quality**]() provides guidance and resources to critically evaluate existing preregistration, to equip learners with the tools to complete their own study preregistration.
 
-::: {.callout-tip title="Recommended Software"}
-This tutorial assumes you have the following software installed:
+# Learning objectives
 
--   SOME SOFTWARE + LINK HERE
+By the end of this tutorial, you should be able to *identify* the components of a preregistration, *recognize* challenges and opportunities of preregistration, *propose* solutions to navigating barriers to implementing a preregistration and *evaluate* the quality of a preregistration
+
+::: {.callout-tip title="Prerequisites"}
+This tutorial assumes you have the following:
 
 :::
