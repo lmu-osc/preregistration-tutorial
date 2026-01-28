@@ -1,1 +1,1 @@
-Sitemap: https://lmu-osc.github.io/tutorial-template/sitemap.xml
+Sitemap: https://SaraLilMiddleton.github.io/preregistration-tutorial/sitemap.xml
