@@ -16,11 +16,18 @@ The tutorial is split into the following five sections:
 4.  [**Building a preregistration toolkit**]() provides opportunities to practice improving parts of a study preregistration from research questions to analysis plans.
 5.  [**Evaluating preregistration quality**]() provides guidance and resources to critically evaluate existing preregistration, to equip learners with the tools to complete their own study preregistration.
 
-# Learning objectives
+This tutorial will take you on a journey from:
+
+*“I am not sure what preregistration is or why it is important”*
+
+to: *“I feel empowered to adopt the principles of preregistration"*
+
 
 By the end of this tutorial, you should be able to *identify* the components of a preregistration, *recognize* challenges and opportunities of preregistration, *propose* solutions to navigating barriers to implementing a preregistration and *evaluate* the quality of a preregistration
 
 ::: {.callout-tip title="Prerequisites"}
 This tutorial assumes you have the following:
 
+Familiarity with the steps in the research life cycle, the different
+types of variables (independent, dependent and covariates)
 :::

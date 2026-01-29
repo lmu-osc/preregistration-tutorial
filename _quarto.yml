@@ -8,9 +8,9 @@ project:
 
 # Begin Website
 website:
-  title: "TUTORIAL TITLE HERE"
+  title: "Pregistration: the what, why and how?"
   page-footer: 
-    center: "Copyright, 2024 Open Science Center at LMU Munich"
+    center: "Copyright, 2026 Open Science Center at LMU Munich"
     border: false
   search:
     location: sidebar

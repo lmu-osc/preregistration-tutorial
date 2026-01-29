@@ -1,0 +1,58 @@
+---
+title: "Introduction to preregistration"
+---
+
+# What even is preregistration?
+
+::: callout-note
+## Definition
+
+The practice of producing an uneditable time-stamped document that outlines a study plan including research questions/hypotheses, research design, data analysis before data collection and analysis. A study preregistration is then uploaded onto a verified repository so that it can be publicly shared with others (possibly after an embargo period) (Nosek, 2018; Parsons et al. 2022).
+:::
+
+::: callout-warning
+## Terminology
+
+You may notice in the literature different terms relating to preregistration like *study registration*. Some researchers are advocating for a reform of terms to avoid ambiguity, as some terms can refer to different practices occurring at various stages of the research life cycle [@mayo-wilson2025].
+:::
+
+# Why did the practice of preregistration come about?
+
+### Replicability crisis
+
+### Questionable research practicess
+
+Questionable research practices (QRPs) are a set of *intentional* or *unintentional* behaviors where researchers distort study findings. Examples include p-hacking and HARKing (Parsons et al. 2022)
+
+## Approaches to research
+
+There is no single one way to do research! It all depends on what information you are trying to gather. Research can be:
+
+-   **Qualitative** (interview study, focus groups, ethnographic)
+-   **Review-based** (systematic, narrative)
+-   **Intervention/experimental** (randomized control trials, factorial design)
+-   **Observational** (case study, natural experiment, longitudinal)
+
+::: callout-note
+## What is your research approach?
+Being able to understand the different research approaches, study designs and key concepts will help provide context for the steps required to do a study registration.
+:::
+
+## What would you do?
+
+Imagine if your PhD lab mate Max came to you with this dilemma: "I've been analyzing the data from my first thesis chapter (which I really want to publish, as it will help with my chances of getting a post doc). One of my hypotheses is that X influences Y. I've measured many variables to test this hypothesis. However during the data analysis, results seem to show X has no effect on Y, unless I remove a variable. Do you have any suggestions of what I should do?"
+
+What would you recommend Max does from the options listed below?
+A)  Remove that variable from the analysis
+B)  Tweak the hypothesis to match the results
+C)  Collect more data in the hope, a larger sample size will show an effect
+D)  Try out a new statistical test to see if there is a significant effect
+E)  Leave that variable in and write up the results as they are
+
+
+We will revisit Max's dilemma throughout this tutorial and hopefully by the end you will be more confident at identifying potential issues and recognize how preregistration can help safeguard against questionable research practice and promote more credible research.
+
+
+::: callout-tip
+## Summary
+:::
