@@ -96,51 +96,51 @@
     ]
   },
   {
-    "objectID": "TOPIC1/page1.html",
-    "href": "TOPIC1/page1.html",
-    "title": "Page Title Here",
+    "objectID": "TOPIC1/page2.html",
+    "href": "TOPIC1/page2.html",
+    "title": "Hypothesis types and errors",
     "section": "",
     "text": "The headers below cause the table of contents/dropdown on the right to be visible.",
     "crumbs": [
       "Home",
       "TOPIC 1",
-      "TOPIC1 Page1 Title"
+      "TOPIC1 Page2 Title"
     ]
   },
   {
-    "objectID": "TOPIC1/page1.html#level-two",
-    "href": "TOPIC1/page1.html#level-two",
-    "title": "Page Title Here",
+    "objectID": "TOPIC1/page2.html#level-two",
+    "href": "TOPIC1/page2.html#level-two",
+    "title": "Hypothesis types and errors",
     "section": "Level Two",
     "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time",
     "crumbs": [
       "Home",
       "TOPIC 1",
-      "TOPIC1 Page1 Title"
+      "TOPIC1 Page2 Title"
     ]
   },
   {
-    "objectID": "TOPIC1/page1.html#another-level-two",
-    "href": "TOPIC1/page1.html#another-level-two",
-    "title": "Page Title Here",
+    "objectID": "TOPIC1/page2.html#another-level-two",
+    "href": "TOPIC1/page2.html#another-level-two",
+    "title": "Hypothesis types and errors",
     "section": "Another Level Two",
     "text": "Another Level Two",
     "crumbs": [
       "Home",
       "TOPIC 1",
-      "TOPIC1 Page1 Title"
+      "TOPIC1 Page2 Title"
     ]
   },
   {
-    "objectID": "TOPIC1/page1.html#level-two-1",
-    "href": "TOPIC1/page1.html#level-two-1",
-    "title": "Page Title Here",
+    "objectID": "TOPIC1/page2.html#level-two-1",
+    "href": "TOPIC1/page2.html#level-two-1",
+    "title": "Hypothesis types and errors",
     "section": "Level Two",
     "text": "Level Two",
     "crumbs": [
       "Home",
       "TOPIC 1",
-      "TOPIC1 Page1 Title"
+      "TOPIC1 Page2 Title"
     ]
   },
   {
@@ -169,59 +169,32 @@
     "href": "index.html",
     "title": "Welcome to the preregistration tutorial!",
     "section": "",
-    "text": "Tutorial Overview\nThis self-paced tutorial will introduce you to the key concepts, practices and tools involved in preregistration. Preregistration is an open science practice that is increasingly adopted\nintended to take X hours to complete.\nThe tutorial is split into the following five sections:\n\nIntroduction to preregistration provides an introduction to the context of why preregistration exists as an open science practice. This section discusses key concepts and topics such as different research methodologies (e.g. qualitative, experimental, observational), confirmatory vs exploratory analysis, questionable research practices.\nHow to do a preregistration briefly outlines the essential and recommended elements to include in a study preregistration, with resources to find templates by research method.\nChallenges and opportunites of preregistration explores the challenges and opportunities of doing a preregistration from an individual researcher perspective to the wider research ecosystem.\n\nBuilding a preregistration toolkit provides opportunities to practice improving parts of a study preregistration from research questions to analysis plans.\nEvaluating preregistration quality provides guidance and resources to critically evaluate existing preregistration, to equip learners with the tools to complete their own study preregistration.\n\n\n\nLearning objectives\nBy the end of this tutorial, you should be able to identify the components of a preregistration, recognize challenges and opportunities of preregistration, propose solutions to navigating barriers to implementing a preregistration and evaluate the quality of a preregistration\n\n\n\n\n\n\nTipPrerequisites\n\n\n\nThis tutorial assumes you have the following:\n\n\n\n\n\n\n Back to top",
+    "text": "Tutorial Overview\nThis self-paced tutorial will introduce you to the key concepts, practices and tools involved in preregistration. Preregistration is an open science practice that is increasingly adopted\nintended to take X hours to complete.\nThe tutorial is split into the following five sections:\n\nIntroduction to preregistration provides an introduction to the context of why preregistration exists as an open science practice. This section discusses key concepts and topics such as different research methodologies (e.g. qualitative, experimental, observational), confirmatory vs exploratory analysis, questionable research practices.\nHow to do a preregistration briefly outlines the essential and recommended elements to include in a study preregistration, with resources to find templates by research method.\nChallenges and opportunites of preregistration explores the challenges and opportunities of doing a preregistration from an individual researcher perspective to the wider research ecosystem.\n\nBuilding a preregistration toolkit provides opportunities to practice improving parts of a study preregistration from research questions to analysis plans.\nEvaluating preregistration quality provides guidance and resources to critically evaluate existing preregistration, to equip learners with the tools to complete their own study preregistration.\n\nThis tutorial will take you on a journey from:\n“I am not sure what preregistration is or why it is important”\nto: “I feel empowered to adopt the principles of preregistration”\nBy the end of this tutorial, you should be able to identify the components of a preregistration, recognize challenges and opportunities of preregistration, propose solutions to navigating barriers to implementing a preregistration and evaluate the quality of a preregistration\n\n\n\n\n\n\nTipPrerequisites\n\n\n\nThis tutorial assumes you have the following:\nFamiliarity with the steps in the research life cycle, the different types of variables (independent, dependent and covariates)\n\n\n\n\n\n\n Back to top",
     "crumbs": [
       "Home",
       "Overview"
     ]
   },
   {
-    "objectID": "TOPIC1/page2.html",
-    "href": "TOPIC1/page2.html",
-    "title": "Page Title Here",
+    "objectID": "TOPIC1/Introduction.html",
+    "href": "TOPIC1/Introduction.html",
+    "title": "Introduction to preregistration",
     "section": "",
-    "text": "The headers below cause the table of contents/dropdown on the right to be visible.",
-    "crumbs": [
-      "Home",
-      "TOPIC 1",
-      "TOPIC1 Page2 Title"
-    ]
+    "text": "NoteDefinition\n\n\n\nThe practice of producing an uneditable time-stamped document that outlines a study plan including research questions/hypotheses, research design, data analysis before data collection and analysis. A study preregistration is then uploaded onto a verified repository so that it can be publicly shared with others (possibly after an embargo period) (Nosek, 2018; Parsons et al. 2022).\n\n\n\n\n\n\n\n\nWarningTerminology\n\n\n\nYou may notice in the literature different terms relating to preregistration like study registration. Some researchers are advocating for a reform of terms to avoid ambiguity, as some terms can refer to different practices occurring at various stages of the research life cycle [@mayo-wilson2025]."
   },
   {
-    "objectID": "TOPIC1/page2.html#level-two",
-    "href": "TOPIC1/page2.html#level-two",
-    "title": "Page Title Here",
-    "section": "Level Two",
-    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time",
-    "crumbs": [
-      "Home",
-      "TOPIC 1",
-      "TOPIC1 Page2 Title"
-    ]
+    "objectID": "TOPIC1/Introduction.html#approaches-to-research",
+    "href": "TOPIC1/Introduction.html#approaches-to-research",
+    "title": "Introduction to preregistration",
+    "section": "Approaches to research",
+    "text": "Approaches to research\nThere is no single one way to do research! It all depends on what information you are trying to gather. Research can be:\n\nQualitative (interview study, focus groups, ethnographic)\nReview-based (systematic, narrative)\nIntervention/experimental (randomized control trials, factorial design)\nObservational (case study, natural experiment, longitudinal)\n\n\n\n\n\n\n\nNoteWhat is your research approach?\n\n\n\nBeing able to understand the different research approaches, study designs and key concepts will help provide context for the steps required to do a study registration."
   },
   {
-    "objectID": "TOPIC1/page2.html#another-level-two",
-    "href": "TOPIC1/page2.html#another-level-two",
-    "title": "Page Title Here",
-    "section": "Another Level Two",
-    "text": "Another Level Two",
-    "crumbs": [
-      "Home",
-      "TOPIC 1",
-      "TOPIC1 Page2 Title"
-    ]
-  },
-  {
-    "objectID": "TOPIC1/page2.html#level-two-1",
-    "href": "TOPIC1/page2.html#level-two-1",
-    "title": "Page Title Here",
-    "section": "Level Two",
-    "text": "Level Two",
-    "crumbs": [
-      "Home",
-      "TOPIC 1",
-      "TOPIC1 Page2 Title"
-    ]
+    "objectID": "TOPIC1/Introduction.html#what-would-you-do",
+    "href": "TOPIC1/Introduction.html#what-would-you-do",
+    "title": "Introduction to preregistration",
+    "section": "What would you do?",
+    "text": "What would you do?\nImagine if your PhD lab mate Max came to you with this dilemma: “I’ve been analyzing the data from my first thesis chapter (which I really want to publish, as it will help with my chances of getting a post doc). One of my hypotheses is that X influences Y. I’ve measured many variables to test this hypothesis. However during the data analysis, results seem to show X has no effect on Y, unless I remove a variable. Do you have any suggestions of what I should do?”\nWhat would you recommend Max does from the options listed below? A) Remove that variable from the analysis B) Tweak the hypothesis to match the results C) Collect more data in the hope, a larger sample size will show an effect D) Try out a new statistical test to see if there is a significant effect E) Leave that variable in and write up the results as they are\nWe will revisit Max’s dilemma throughout this tutorial and hopefully by the end you will be more confident at identifying potential issues and recognize how preregistration can help safeguard against questionable research practice and promote more credible research.\n\n\n\n\n\n\nTipSummary"
   },
   {
     "objectID": "LICENSE-CODE.html",
