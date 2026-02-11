@@ -1,0 +1,99 @@
+---
+title: "Frequently asked questions"
+---
+
+This section contains a collection of common misconceptions, frequently asked questions and concerns around preregistration. It is designed to be used as a reference guide which you can revisit. This collection is organized according to the stages of doing a preregistration.
+
+------------------------------------------------------------------------
+
+## Thinking about doing a preregistration
+
+*The data I am working with is descriptive, is a study preregistration still useful?*
+
+::: {.callout-tip title="Answer" collapse="true"}
+Answer
+:::
+
+*I work with secondary data and I know what my data look like, what is the point of doing a preregistration?*
+
+::: {.callout-tip title="Answer" collapse="true"}
+Answer
+:::
+
+*What is the difference between a preregistration and a registered report?*
+
+::: {.callout-tip title="Answer" collapse="true"}
+Answer
+:::
+
+*Is it true that doing a preregistration increases the risk of being scooped?*
+
+::: {.callout-tip title="Answer" collapse="true"}
+Answer
+:::
+
+## Preparing a preregistration
+
+*The data I am working with is descriptive, is a study preregistration still useful?*
+
+::: {.callout-tip title="Answer" collapse="true"}
+Answer
+:::
+
+*I work with secondary data and I know what my data look like, what is the point of doing a preregistration?*
+
+::: {.callout-tip title="Answer" collapse="true"}
+Answer
+:::
+
+*What is the difference between a preregistration and a registered report?*
+
+::: {.callout-tip title="Answer" collapse="true"}
+Answer
+:::
+
+*Is it true that doing a preregistration increases the risk of being scooped?*
+
+::: {.callout-tip title="Answer" collapse="true"}
+Answer
+:::
+
+## Submitting a preregistration
+
+*Can I modify a document in my registration?*
+
+::: {.callout-tip title="Answer" collapse="true"}
+Answer
+:::
+
+## Post preregistration: reporting research
+
+*My data collection plans changed due to unforeseen circumstances, how do I report this in my paper?*
+
+::: {.callout-tip title="Answer" collapse="true"}
+Answer
+:::
+
+*Does it matter if the author list differs from the preregistration document and the final publication?*
+
+::: {.callout-tip title="Answer" collapse="true"}
+Answer
+:::
+
+*Where can I find information on which journals accept preregistrations?*
+
+::: {.callout-tip title="Answer" collapse="true"}
+Answer
+:::
+
+*How do I publish a study coming from two preregistrations?*
+
+::: {.callout-tip title="Answer" collapse="true"}
+Answer
+:::
+
+*How do I publish a study that doesn’t cover the entire preregistration?*
+
+::: {.callout-tip title="Answer" collapse="true"}
+Answer
+:::
