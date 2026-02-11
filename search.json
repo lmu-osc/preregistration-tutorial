@@ -129,30 +129,30 @@
     ]
   },
   {
-    "objectID": "Challenges and opportunities of preregistration/page2.html",
-    "href": "Challenges and opportunities of preregistration/page2.html",
-    "title": "Page Title Here",
+    "objectID": "Challenges and opportunities of preregistration/Challenges and opportunities.html",
+    "href": "Challenges and opportunities of preregistration/Challenges and opportunities.html",
+    "title": "Challenges and opportunities",
     "section": "",
-    "text": "The headers below cause the table of contents/dropdown on the right to be visible."
+    "text": "Recap: So far we have covered…"
   },
   {
-    "objectID": "Challenges and opportunities of preregistration/page2.html#level-two",
-    "href": "Challenges and opportunities of preregistration/page2.html#level-two",
-    "title": "Page Title Here",
+    "objectID": "Challenges and opportunities of preregistration/Challenges and opportunities.html#level-two",
+    "href": "Challenges and opportunities of preregistration/Challenges and opportunities.html#level-two",
+    "title": "Challenges and opportunities",
     "section": "Level Two",
     "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time"
   },
   {
-    "objectID": "Challenges and opportunities of preregistration/page2.html#another-level-two",
-    "href": "Challenges and opportunities of preregistration/page2.html#another-level-two",
-    "title": "Page Title Here",
+    "objectID": "Challenges and opportunities of preregistration/Challenges and opportunities.html#another-level-two",
+    "href": "Challenges and opportunities of preregistration/Challenges and opportunities.html#another-level-two",
+    "title": "Challenges and opportunities",
     "section": "Another Level Two",
     "text": "Another Level Two"
   },
   {
-    "objectID": "Challenges and opportunities of preregistration/page2.html#level-two-1",
-    "href": "Challenges and opportunities of preregistration/page2.html#level-two-1",
-    "title": "Page Title Here",
+    "objectID": "Challenges and opportunities of preregistration/Challenges and opportunities.html#level-two-1",
+    "href": "Challenges and opportunities of preregistration/Challenges and opportunities.html#level-two-1",
+    "title": "Challenges and opportunities",
     "section": "Level Two",
     "text": "Level Two"
   },
@@ -259,21 +259,21 @@
     "href": "Challenges and opportunities of preregistration/FAQs.html",
     "title": "Frequently asked questions",
     "section": "",
-    "text": "This section contains a collection of common misconceptions, frequently asked questions and concerns around preregistration. It is designed to be used as a reference guide which you can revisit. This collection is organized according to the stages of doing a preregistration."
+    "text": "This section contains a collection of common misconceptions, frequently asked questions and concerns around preregistration. This collection is organized according to the stages of doing a preregistration. It is designed to be used as a reference guide which you can revisit."
   },
   {
     "objectID": "Challenges and opportunities of preregistration/FAQs.html#thinking-about-doing-a-preregistration",
     "href": "Challenges and opportunities of preregistration/FAQs.html#thinking-about-doing-a-preregistration",
     "title": "Frequently asked questions",
     "section": "Thinking about doing a preregistration",
-    "text": "Thinking about doing a preregistration\nThe data I am working with is descriptive, is a study preregistration still useful?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nI work with secondary data and I know what my data look like, what is the point of doing a preregistration?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nWhat is the difference between a preregistration and a registered report?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nIs it true that doing a preregistration increases the risk of being scooped?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer"
+    "text": "Thinking about doing a preregistration\nI’m a student starting a new project and I feel I don’t know enough to do a good preregistration, is it worth doing one?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nThe data I am working with is descriptive, is a study preregistration still useful?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nI work with secondary data and I know what my data look like, what is the point of doing a preregistration?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nIt is possible to preregister an analysis plan for studies that use secondary data! There are many benefits to preregistration of secondary data that overlap with general benefits of preregistration (e.g. distinguishing between confirmatory and exploratory analysis, mitigating researcher degrees of freedom). See a template for preregistration of secondary data by Mertens and Krypotos (2019).\n\n\n\nIs it true that doing a preregistration increases the risk of being scooped?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nConcerns around being scooped can be mitigated by putting an embargo on your preregistration which will make it private until you are ready to share it. Depending on the platform used to upload your preregistration, it can be private indefinitely (e.g. AsPredicted) or a maximum or 4 years from creation date for Open Science Foundation."
   },
   {
     "objectID": "Challenges and opportunities of preregistration/FAQs.html#preparing-a-preregistration",
     "href": "Challenges and opportunities of preregistration/FAQs.html#preparing-a-preregistration",
     "title": "Frequently asked questions",
     "section": "Preparing a preregistration",
-    "text": "Preparing a preregistration\nThe data I am working with is descriptive, is a study preregistration still useful?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nI work with secondary data and I know what my data look like, what is the point of doing a preregistration?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nWhat is the difference between a preregistration and a registered report?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nIs it true that doing a preregistration increases the risk of being scooped?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer"
+    "text": "Preparing a preregistration\nThe data I am working with is descriptive, is a study preregistration still useful?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nI work with secondary data and I know what my data look like, what is the point of doing a preregistration?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nWhat is the difference between a preregistration and a registered report?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer"
   },
   {
     "objectID": "Challenges and opportunities of preregistration/FAQs.html#submitting-a-preregistration",
@@ -287,32 +287,32 @@
     "href": "Challenges and opportunities of preregistration/FAQs.html#post-preregistration-reporting-research",
     "title": "Frequently asked questions",
     "section": "Post preregistration: reporting research",
-    "text": "Post preregistration: reporting research\nMy data collection plans changed due to unforeseen circumstances, how do I report this in my paper?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nDoes it matter if the author list differs from the preregistration document and the final publication?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nWhere can I find information on which journals accept preregistrations?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nHow do I publish a study coming from two preregistrations?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nHow do I publish a study that doesn’t cover the entire preregistration?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer"
+    "text": "Post preregistration: reporting research\nMy data collection plans changed due to unforeseen circumstances, how do I report this in my paper?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nDoes it matter if the author list differs from the preregistration document and the final publication?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nWhere can I find information on which journals accept preregistrations or registered reports?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nIncreasingly more journals are accepting study preregistrations. See this up-to-date list of particpating journals by the Center of Open Science.\n\n\n\nHow do I publish a study coming from two preregistrations?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nHow do I publish a study that doesn’t cover the entire preregistration?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer"
   },
   {
-    "objectID": "Challenges and opportunities of preregistration/page1.html",
-    "href": "Challenges and opportunities of preregistration/page1.html",
+    "objectID": "Challenges and opportunities of preregistration/page2.html",
+    "href": "Challenges and opportunities of preregistration/page2.html",
     "title": "Page Title Here",
     "section": "",
     "text": "The headers below cause the table of contents/dropdown on the right to be visible."
   },
   {
-    "objectID": "Challenges and opportunities of preregistration/page1.html#level-two",
-    "href": "Challenges and opportunities of preregistration/page1.html#level-two",
+    "objectID": "Challenges and opportunities of preregistration/page2.html#level-two",
+    "href": "Challenges and opportunities of preregistration/page2.html#level-two",
     "title": "Page Title Here",
     "section": "Level Two",
     "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time"
   },
   {
-    "objectID": "Challenges and opportunities of preregistration/page1.html#another-level-two",
-    "href": "Challenges and opportunities of preregistration/page1.html#another-level-two",
+    "objectID": "Challenges and opportunities of preregistration/page2.html#another-level-two",
+    "href": "Challenges and opportunities of preregistration/page2.html#another-level-two",
     "title": "Page Title Here",
     "section": "Another Level Two",
     "text": "Another Level Two"
   },
   {
-    "objectID": "Challenges and opportunities of preregistration/page1.html#level-two-1",
-    "href": "Challenges and opportunities of preregistration/page1.html#level-two-1",
+    "objectID": "Challenges and opportunities of preregistration/page2.html#level-two-1",
+    "href": "Challenges and opportunities of preregistration/page2.html#level-two-1",
     "title": "Page Title Here",
     "section": "Level Two",
     "text": "Level Two"
