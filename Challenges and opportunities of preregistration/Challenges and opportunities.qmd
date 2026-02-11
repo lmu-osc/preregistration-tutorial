@@ -1,0 +1,39 @@
+---
+title: "Challenges and opportunities"
+---
+
+Recap: So far we have covered...
+
+---
+
+# Benefits of preregistration
+
+
+### Improved planning and project management
+
+::: {.callout-note title="Do you remember?" collapse="true"}
+Do you remember the dilemma Max was having? Having a well thought out analysis plan with a clear decision tree would help mitigate encountering Max's situation in the future.
+:::
+
+
+###  Clearer involvement of collaborators/project partners
+
+-   You can get a badge!
+-   More benefits from a student perspective outlined by @gya2023
+
+# Level One Header
+
+## Level Two
+
+### L3
+
+### L3 Again
+
+### And one more time
+
+## Another Level Two
+
+
+# Level One Again
+
+## Level Two

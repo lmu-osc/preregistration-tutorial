@@ -2,11 +2,17 @@
 title: "Frequently asked questions"
 ---
 
-This section contains a collection of common misconceptions, frequently asked questions and concerns around preregistration. It is designed to be used as a reference guide which you can revisit. This collection is organized according to the stages of doing a preregistration.
+This section contains a collection of common misconceptions, frequently asked questions and concerns around preregistration. This collection is organized according to the stages of doing a preregistration. It is designed to be used as a reference guide which you can revisit.
 
 ------------------------------------------------------------------------
 
 ## Thinking about doing a preregistration
+
+*I'm a student starting a new project and I feel I don't know enough to do a good preregistration, is it worth doing one?*
+
+::: {.callout-tip title="Answer" collapse="true"}
+Answer
+:::
 
 *The data I am working with is descriptive, is a study preregistration still useful?*
 
@@ -17,19 +23,13 @@ Answer
 *I work with secondary data and I know what my data look like, what is the point of doing a preregistration?*
 
 ::: {.callout-tip title="Answer" collapse="true"}
-Answer
-:::
-
-*What is the difference between a preregistration and a registered report?*
-
-::: {.callout-tip title="Answer" collapse="true"}
-Answer
+It is possible to preregister an analysis plan for studies that use secondary data! There are many benefits to preregistration of secondary data that overlap with general benefits of preregistration (e.g. distinguishing between confirmatory and exploratory analysis, mitigating researcher degrees of freedom). See a template for preregistration of secondary data by Mertens and Krypotos (2019).
 :::
 
 *Is it true that doing a preregistration increases the risk of being scooped?*
 
 ::: {.callout-tip title="Answer" collapse="true"}
-Answer
+Concerns around being scooped can be mitigated by putting an embargo on your preregistration which will make it private until you are ready to share it. Depending on the platform used to upload your preregistration, it can be private indefinitely (e.g. [AsPredicted](https://aspredicted.org/messages/private_forever.php)) or a maximum or 4 years from creation date for [Open Science Foundation](https://help.osf.io/article/330-welcome-to-registrations#Privacy-Settings-t-8n2).
 :::
 
 ## Preparing a preregistration
@@ -47,12 +47,6 @@ Answer
 :::
 
 *What is the difference between a preregistration and a registered report?*
-
-::: {.callout-tip title="Answer" collapse="true"}
-Answer
-:::
-
-*Is it true that doing a preregistration increases the risk of being scooped?*
 
 ::: {.callout-tip title="Answer" collapse="true"}
 Answer
@@ -80,10 +74,10 @@ Answer
 Answer
 :::
 
-*Where can I find information on which journals accept preregistrations?*
+*Where can I find information on which journals accept preregistrations or registered reports?*
 
 ::: {.callout-tip title="Answer" collapse="true"}
-Answer
+Increasingly more journals are accepting study preregistrations. See this up-to-date [list](https://www.cos.io/initiatives/registered-reports) of particpating journals by the Center of Open Science.
 :::
 
 *How do I publish a study coming from two preregistrations?*
