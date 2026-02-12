@@ -1,0 +1,260 @@
+---
+title: "Components of a preregistration"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+*Recap:* In the introduction we covered the context and rationale of
+preregistration. Here we will learn what the practical steps involved
+are and what information is required to complete a study
+preregistration.
+
+------------------------------------------------------------------------
+
+# Components of a preregistration
+
+There are a number of *essential* elements within a registration
+document (with a subset of *recommended* things to also include
+[@stefan2023]):
+
+-   1 Hypotheses
+-   2 Design
+-   3 Planned sample
+-   4 Exclusion criteria
+-   5 Analysis plan
+
+::: callout-note
+These mirror some of the stages in the research life cycle we have seen
+earlier. There are also additional recommendations that can be added to
+registrations.
+:::
+
+We will go through each element in turn. Note that the five
+preregistration components detailed below are more focused for
+hypothesis-testing research. For hypothesis-generating or exploratory
+research approaches there is guidance on what to include (e.g. Dirnagl
+(2020)).
+
+## Part 1: Hypotheses
+
+**Essential:**
+
+-   *State* your research questions clearly
+
+-   *Describe* the (numbered) hypotheses in the context of your
+    variables
+
+-   For interaction effects, *describe* the expected shape of the
+    interactions.
+
+-   If you are manipulating a variable, *make predictions* for
+    successful check variables or explain why no manipulation check is
+    included.
+
+**Recommendations:**
+
+-   *Adding* a table/figure to describe complex interaction
+
+-   For studies testing hypotheses, *link* stated hypotheses to
+    theoretical frameworks
+
+## Part 2: Design
+
+**Essential:**
+
+*List* of variables based on your hypotheses:
+
+-   Independent variables (including levels, within or between
+    participants, relationship between them (e.g. nested))
+
+-   dependent variables or variables in a correlational design
+
+-   third variables (e.g. covariates, moderators, control variables)
+
+## Part 3: Planned sample
+
+**Essential:**
+
+-   If applicable, *state* any pre-selection rules (e.g. age limits)
+
+-   *Indicate* where, from whom and how the data will be collected
+
+-   *Justify* planned sample size (e.g. power analysis)
+
+-   *Describe* data collection termination rule
+
+## Part 4: Exclusion criteria
+
+**Essential:**
+
+*Describe* anticipated specific data exclusion criteria such as:
+
+-   missing, erroneous, or overly consistent responses
+
+-   failing check-tests or suspicion probes
+
+-   demographic exclusions
+
+-   data-based outlier criteria (e.g expected variable ranges)
+
+-   method-based outlier criteria (e.g. too short or long response
+    times)
+
+**Recommendations:**
+
+-   *Set* fail-safe levels of exclusion at which the whole study needs
+    to be stopped, altered, and restarted.
+
+## Part 5: Analysis plan
+
+**Essential:**
+
+*Describe* the analyses that will test each main prediction from the
+hypotheses section. For each one, include:
+
+-   relevant variables and how they are calculated
+
+-   statistical technique
+
+-   each variable’s role in the technique (e.g., independent variable,
+    dependent variable and covariates)
+
+-   rationale for each covariate used, if any
+
+-   if using techniques other than null hypothesis testing (e.g.
+    Bayesian statistics), describe your criteria calculation of prior
+    values or distributions
+
+**Recommendations:**
+
+-   *Specify* contingencies and assumptions (e.g. method of correcting
+    for multiple testing, missing data handling, data transformations
+    (e.g. Shapiro-Wilk's test for normal/Gaussian distribution),
+    assumptions and assumption checks for analyses and alternative plans
+    for data analysis if assumptions are not met).
+
+## Additional considerations
+
+Depending on your study type, there may be additional things to keep in
+mind as you plan your study. You'll need to determine if you need to:
+plan for multi-stage contingent experiments, anonymize your registration
+(e.g. place under embargo) or apply for ethical approval.
+
+## Preregistration vs registered reports
+
+So far content has focused on preregistration, but there is another
+related Open Science practice known as a registered report. *Registered
+reports* are a publishing format where a study undergoes *two stages* of
+peer review: *stage 1:* introduction and methods in advance of data
+collection/analysis and *stage 2:* which includes the full study
+findings including results/discussion (Parsons et al. 2022). Registered
+reports can help safeguard against finding potential study design issues
+after data collection.
+
+::: callout-warning
+You may come across registered reports being described in the literature
+as "two-stage review with in-principle acceptance" [@mayo-wilson2025].
+Some meta-science researchers are working calling for the Open Science
+community to harmonize terms to reduce ambiguity.
+:::
+
+## Preregistration templates
+
+Now that you have an overview of what things are needed in a
+preregistration, we can explore the table below of some preregistration
+templates.
+
+::: {style="font-size: 0.6em; margin-top: 0.5em;"}
+<em>Adapted from @pennington and @stewart </em>
+:::
+
+:::::: {style="display: flex; gap: 0.5em;"}
+::: {style="flex: 0.75;"}
+**Template**
+
+-   [AsPredicted](https://aspredicted.org/)
+-   Open Science Framework
+    [(OSF)](https://help.osf.io/article/330-welcome-to-registrations)
+-   [PROSPERO](https://www.crd.york.ac.uk/prospero/)
+-   [Preregistration in social
+    psychology](https://osf.io/k5wns/overview)
+-   [Bio-protocol](https://bio-protocol.org/exchange)
+:::
+
+::: {style="flex: 1;"}
+**Description**
+
+-   Standardized template
+-   Multiple templates for many study types
+-   Study protocols for systematic reviews
+-   Guidelines
+-   Online peer-reviewed protocol journal
+:::
+
+::: {style="flex: 1.1;"}
+**Discipline/study type**
+
+-   Quantitative/experimental studies
+-   Wide-ranging
+-   Health related
+-   Quantitative/experimental social psychology studies
+-   Biological sciences
+:::
+::::::
+
+::: {.callout-note title="Reflection point?"}
+Thinking about your research area and any institutional policies or
+community standards, which template(s) do you think fit closer to your
+type of research study?
+:::
+
+------------------------------------------------------------------------
+
+# Quick Quiz!
+
+Test yourself on what you have learned in this section on the components
+of preregistration.
+
+1.  True or false? When describing your design plan you only need to
+    describe your independent and dependent variables.
+
+::: {.callout-note title="Show solution" collapse="true"}
+False (any covariates should be listed too!)
+
+*Refer back to @sec-part-2:-design for more information*
+:::
+
+2.  True or false? Preregistration involves stating how you will handle
+    missing data
+
+::: {.callout-note title="Show solution" collapse="true"}
+True
+
+*Refer back to @sec-part-4:-exclusion-criteria for more information*
+:::
+
+3.  Which repository has a more generalist preregistration template:
+    PROSPERO, Open Science Foundation (OSF) or Bio-protocol?
+
+::: {.callout-note title="Show solution" collapse="true"}
+Open Science Foundation (OSF)
+
+*Refer back to @sec-preregistration-templates table for more
+information*
+:::
+
+4.  Registered reports have two peer review stages that occur:
+
+<!-- -->
+
+A)  After developing an idea and after writing up study findings
+B)  After study plan and after collecting and analyzing data
+C)  After study plan and after writing up study findings
+
+::: {.callout-note title="Show solution" collapse="true"}
+C)  After study plan and after writing up study findings
+
+*Refer back to @sec-preregistration-vs-registered-reports for more
+information*
+:::
