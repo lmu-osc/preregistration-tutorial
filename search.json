@@ -90,29 +90,29 @@
     "text": "Contributors\nThis site was authored by Sara Lil Middleton, and edits/contributions were made by Malika Ihle.\n\n\nLicenses\nThe overall project is available under the CC BY-SA 4.0 license found at LICENSE; all code without any narrative text is also (at your option) available under the CC0 1.0 Universal license found at LICENSE-CODE.\nWhy two licenses? The CC BY-SA 4.0 license is for the content of the website, while the CC0 1.0 Universal license is for the code and configuration files. This is a common practice for websites that include code snippets and other content that may be reused in other projects, particularly because the CC BY-SA 4.0 license is not intended to be used with software.\n\n\nNotes\nThis tutorial was primarily written in 2026 using R version 4.5.1. Major changes to the R can be found at the R website for the most up-to-date information, and to confirm that our tutorial is not out-of-date.\n\n\n\n\n Back to topCitationBibTeX citation:@online{lil_middleton2026,\n  author = {Lil Middleton, Sara},\n  title = {Pregistration: The What, Why and How?},\n  date = {2026-01-29},\n  url = {https://lmu-osc.github.io/},\n  doi = {DOI HERE},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nLil Middleton, Sara. 2026. “Pregistration: The What, Why and\nHow?” LMU Open Science Center. January 29, 2026. https://doi.org/DOI HERE."
   },
   {
-    "objectID": "Evaluating preregistration quality/page2.html",
-    "href": "Evaluating preregistration quality/page2.html",
+    "objectID": "Evaluating preregistration quality/page3.html",
+    "href": "Evaluating preregistration quality/page3.html",
     "title": "Page Title Here",
     "section": "",
     "text": "The headers below cause the table of contents/dropdown on the right to be visible."
   },
   {
-    "objectID": "Evaluating preregistration quality/page2.html#level-two",
-    "href": "Evaluating preregistration quality/page2.html#level-two",
+    "objectID": "Evaluating preregistration quality/page3.html#level-two",
+    "href": "Evaluating preregistration quality/page3.html#level-two",
     "title": "Page Title Here",
     "section": "Level Two",
     "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time"
   },
   {
-    "objectID": "Evaluating preregistration quality/page2.html#another-level-two",
-    "href": "Evaluating preregistration quality/page2.html#another-level-two",
+    "objectID": "Evaluating preregistration quality/page3.html#another-level-two",
+    "href": "Evaluating preregistration quality/page3.html#another-level-two",
     "title": "Page Title Here",
     "section": "Another Level Two",
     "text": "Another Level Two"
   },
   {
-    "objectID": "Evaluating preregistration quality/page2.html#level-two-1",
-    "href": "Evaluating preregistration quality/page2.html#level-two-1",
+    "objectID": "Evaluating preregistration quality/page3.html#level-two-1",
+    "href": "Evaluating preregistration quality/page3.html#level-two-1",
     "title": "Page Title Here",
     "section": "Level Two",
     "text": "Level Two"
@@ -131,30 +131,51 @@
   {
     "objectID": "Challenges and opportunities of preregistration/Challenges and opportunities.html",
     "href": "Challenges and opportunities of preregistration/Challenges and opportunities.html",
-    "title": "Challenges and opportunities",
+    "title": "Challenges and opportunities of preregistration",
     "section": "",
-    "text": "Recap: So far we have covered…"
+    "text": "Recap: So far we have covered…\nINSERT word cloud picture here of challenges from spreadsheet"
   },
   {
-    "objectID": "Challenges and opportunities of preregistration/Challenges and opportunities.html#level-two",
-    "href": "Challenges and opportunities of preregistration/Challenges and opportunities.html#level-two",
-    "title": "Challenges and opportunities",
-    "section": "Level Two",
-    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time"
+    "objectID": "Challenges and opportunities of preregistration/Challenges and opportunities.html#improved-planning-and-project-management",
+    "href": "Challenges and opportunities of preregistration/Challenges and opportunities.html#improved-planning-and-project-management",
+    "title": "Challenges and opportunities of preregistration",
+    "section": "Improved planning and project management",
+    "text": "Improved planning and project management\n\n\n\n\n\n\nNoteDo you remember?\n\n\n\n\n\nDo you remember the dilemma Max was having? Having a well thought out analysis plan with a clear decision tree would help mitigate encountering Max’s situation in the future."
   },
   {
-    "objectID": "Challenges and opportunities of preregistration/Challenges and opportunities.html#another-level-two",
-    "href": "Challenges and opportunities of preregistration/Challenges and opportunities.html#another-level-two",
-    "title": "Challenges and opportunities",
-    "section": "Another Level Two",
-    "text": "Another Level Two"
+    "objectID": "Challenges and opportunities of preregistration/Challenges and opportunities.html#clearer-involvement-of-collaboratorsproject-partners",
+    "href": "Challenges and opportunities of preregistration/Challenges and opportunities.html#clearer-involvement-of-collaboratorsproject-partners",
+    "title": "Challenges and opportunities of preregistration",
+    "section": "Clearer involvement of collaborators/project partners",
+    "text": "Clearer involvement of collaborators/project partners\n\nYou can get a badge!\nMore benefits from a student perspective outlined by @gya2023\n\n\n\n\n\n\n\nTipReflection point\n\n\n\n\n\nCan you think of other benefits of preregistration in your research area?"
   },
   {
-    "objectID": "Challenges and opportunities of preregistration/Challenges and opportunities.html#level-two-1",
-    "href": "Challenges and opportunities of preregistration/Challenges and opportunities.html#level-two-1",
-    "title": "Challenges and opportunities",
-    "section": "Level Two",
-    "text": "Level Two"
+    "objectID": "Challenges and opportunities of preregistration/Challenges and opportunities.html#time-i-havent-got-time-to-do-a-study-registration",
+    "href": "Challenges and opportunities of preregistration/Challenges and opportunities.html#time-i-havent-got-time-to-do-a-study-registration",
+    "title": "Challenges and opportunities of preregistration",
+    "section": "Time: “I haven’t got time to do a study registration”",
+    "text": "Time: “I haven’t got time to do a study registration”\nThe time and effort needed to do a preregistration is a frequently cited challenge, especially in a ‘publish or perish’ research culture. There is a some truth to this statement, as study planning should take time. Reframing the upfront time investment as a\nCounterargument: front-loaded effort during the planning stage can help later on during write up and during peer review."
+  },
+  {
+    "objectID": "Challenges and opportunities of preregistration/Challenges and opportunities.html#lack-of-incentives-i-dont-see-the-point",
+    "href": "Challenges and opportunities of preregistration/Challenges and opportunities.html#lack-of-incentives-i-dont-see-the-point",
+    "title": "Challenges and opportunities of preregistration",
+    "section": "Lack of incentives: “I don’t see the point”",
+    "text": "Lack of incentives: “I don’t see the point”\nCounterargument: aside from individual researcher benefits (increased reflection, reduced likelihood of systematic errors), journals are increasingly prioritizing study registrations."
+  },
+  {
+    "objectID": "Challenges and opportunities of preregistration/Challenges and opportunities.html#overwhelm-there-is-so-much-that-goes-into-a-study-registration",
+    "href": "Challenges and opportunities of preregistration/Challenges and opportunities.html#overwhelm-there-is-so-much-that-goes-into-a-study-registration",
+    "title": "Challenges and opportunities of preregistration",
+    "section": "Overwhelm: “There is so much that goes into a study registration”",
+    "text": "Overwhelm: “There is so much that goes into a study registration”\nCounterargument: templates and FAQ pages can guide you and if you are unable to officially register a study, adopting principles of study registration is a good step (e.g. Open Science Buffet approach, @bergma2023)"
+  },
+  {
+    "objectID": "Challenges and opportunities of preregistration/Challenges and opportunities.html#lack-of-support-no-one-in-my-team-knows-or-cares-about-study",
+    "href": "Challenges and opportunities of preregistration/Challenges and opportunities.html#lack-of-support-no-one-in-my-team-knows-or-cares-about-study",
+    "title": "Challenges and opportunities of preregistration",
+    "section": "Lack of support: “No one in my team knows or cares about study",
+    "text": "Lack of support: “No one in my team knows or cares about study\nregistration”\nCounterargument: share resources, and suggest a group meeting to discuss and learn more about study registration to increase familiarity."
   },
   {
     "objectID": "LICENSE.html",
@@ -266,7 +287,7 @@
     "href": "Challenges and opportunities of preregistration/FAQs.html#thinking-about-doing-a-preregistration",
     "title": "Frequently asked questions",
     "section": "Thinking about doing a preregistration",
-    "text": "Thinking about doing a preregistration\nI’m a student starting a new project and I feel I don’t know enough to do a good preregistration, is it worth doing one?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nThe data I am working with is descriptive, is a study preregistration still useful?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nI work with secondary data and I know what my data look like, what is the point of doing a preregistration?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nIt is possible to preregister an analysis plan for studies that use secondary data! There are many benefits to preregistration of secondary data that overlap with general benefits of preregistration (e.g. distinguishing between confirmatory and exploratory analysis, mitigating researcher degrees of freedom). See a template for preregistration of secondary data by Mertens and Krypotos (2019).\n\n\n\nIs it true that doing a preregistration increases the risk of being scooped?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nConcerns around being scooped can be mitigated by putting an embargo on your preregistration which will make it private until you are ready to share it. Depending on the platform used to upload your preregistration, it can be private indefinitely (e.g. AsPredicted) or a maximum or 4 years from creation date for Open Science Foundation."
+    "text": "Thinking about doing a preregistration\nI’m a student starting a new project and I feel I don’t know enough to do a good preregistration, is it worth doing one?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nThe data I am working with is descriptive, is a study preregistration still useful?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nI work with secondary data and I know what my data look like, what is the point of doing a preregistration?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nIt is possible to preregister an analysis plan for studies that use secondary data! There are many benefits to preregistration of secondary data that overlap with general benefits of preregistration (e.g. distinguishing between confirmatory and exploratory analysis, mitigating researcher degrees of freedom). See a template for preregistration of secondary data by Mertens and Krypotos (2019).\n\n\n\nIs it true that doing a preregistration increases the risk of being scooped?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nConcerns around being scooped can be mitigated by putting an embargo on your preregistration which will make it private until you are ready to share it. Depending on the platform used to upload your preregistration, it can be private indefinitely (e.g. AsPredicted) or a maximum or 4 years from creation date for Open Science Foundation. In addition, by preregistering you are informing others your research plans and they are unlikely to put time, effort and resources to do the same study as you."
   },
   {
     "objectID": "Challenges and opportunities of preregistration/FAQs.html#preparing-a-preregistration",
@@ -290,85 +311,141 @@
     "text": "Post preregistration: reporting research\nMy data collection plans changed due to unforeseen circumstances, how do I report this in my paper?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nDoes it matter if the author list differs from the preregistration document and the final publication?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nWhere can I find information on which journals accept preregistrations or registered reports?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nIncreasingly more journals are accepting study preregistrations. See this up-to-date list of particpating journals by the Center of Open Science.\n\n\n\nHow do I publish a study coming from two preregistrations?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nHow do I publish a study that doesn’t cover the entire preregistration?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer"
   },
   {
-    "objectID": "Challenges and opportunities of preregistration/page2.html",
-    "href": "Challenges and opportunities of preregistration/page2.html",
+    "objectID": "Challenges and opportunities of preregistration/Tips.html",
+    "href": "Challenges and opportunities of preregistration/Tips.html",
+    "title": "Final recap, practical tips and resources",
+    "section": "",
+    "text": "Final recap:\nlink to Max’s dilemma"
+  },
+  {
+    "objectID": "Challenges and opportunities of preregistration/Tips.html#open-science-buffet",
+    "href": "Challenges and opportunities of preregistration/Tips.html#open-science-buffet",
+    "title": "Final recap, practical tips and resources",
+    "section": "Open Science Buffet",
+    "text": "Open Science Buffet"
+  },
+  {
+    "objectID": "Challenges and opportunities of preregistration/Tips.html#tip-2",
+    "href": "Challenges and opportunities of preregistration/Tips.html#tip-2",
+    "title": "Final recap, practical tips and resources",
+    "section": "Tip 2",
+    "text": "Tip 2"
+  },
+  {
+    "objectID": "Challenges and opportunities of preregistration/Tips.html#tip-3",
+    "href": "Challenges and opportunities of preregistration/Tips.html#tip-3",
+    "title": "Final recap, practical tips and resources",
+    "section": "Tip 3",
+    "text": "Tip 3"
+  },
+  {
+    "objectID": "Challenges and opportunities of preregistration/Tips.html#tip-4",
+    "href": "Challenges and opportunities of preregistration/Tips.html#tip-4",
+    "title": "Final recap, practical tips and resources",
+    "section": "Tip 4",
+    "text": "Tip 4"
+  },
+  {
+    "objectID": "Challenges and opportunities of preregistration/Tips.html#tip-5",
+    "href": "Challenges and opportunities of preregistration/Tips.html#tip-5",
+    "title": "Final recap, practical tips and resources",
+    "section": "Tip 5",
+    "text": "Tip 5"
+  },
+  {
+    "objectID": "Evaluating preregistration quality/Toolkit.html",
+    "href": "Evaluating preregistration quality/Toolkit.html",
+    "title": "Build up your preregistration toolkit",
+    "section": "",
+    "text": "Recap: So far we have outlined the elements, methods and example templates of doing a preregistration."
+  },
+  {
+    "objectID": "Evaluating preregistration quality/Toolkit.html#in-this-section-exercises",
+    "href": "Evaluating preregistration quality/Toolkit.html#in-this-section-exercises",
+    "title": "Build up your preregistration toolkit",
+    "section": "In this section: exercises",
+    "text": "In this section: exercises"
+  },
+  {
+    "objectID": "Evaluating preregistration quality/Toolkit.html#research-questions-and-hypotheses",
+    "href": "Evaluating preregistration quality/Toolkit.html#research-questions-and-hypotheses",
+    "title": "Build up your preregistration toolkit",
+    "section": "Research questions and hypotheses",
+    "text": "Research questions and hypotheses\n\nSnippet 1\n“How do indoor plants benefit people?”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow would you measure “benefit”?\nHow would you study the interaction between plants and people?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nHow does having physical contact with indoor plants reduce psychological and physiological stress in young-adult office workers?\nNotice how the improved answer states the type of interaction between plants and people, more specific details about types of benefits of interest and the target demographic (e.g. young-adult office workers).\nNote: This research question is based on a study by Lee et al. 2015\n\n\n\n\n\nSnippet 2\n“We expect that drinking beer will increase reaction time.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow can information about beer be made more specific?\nWhat is the reaction time measured in relation to?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nFor male psychology students, drinking 5 Magic Hat IPAs will increase their reaction time as measured by machine X. We expect that the group that drinks 5 IPAs will respond at least 1 second slower, on average, than the group that did not drink alcohol.\nNotice how the improved answer states quantity and type of beer and participants involved in the study. There is also a description about the expected direction of response."
+  },
+  {
+    "objectID": "Evaluating preregistration quality/Toolkit.html#sampling-plan",
+    "href": "Evaluating preregistration quality/Toolkit.html#sampling-plan",
+    "title": "Build up your preregistration toolkit",
+    "section": "Sampling plan",
+    "text": "Sampling plan\n\nSnippet 3\n“We expect to collect data from 100 subjects.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nAre there any pre-selection rules?\nHow would you deal with possible exclusions?\n\n\n\n\n\n\n\n\n\nNoteShow improved answers\n\n\n\n\n\nImproved answer 1: We will over sample by 15% in order to account for possible exclusions after we apply exclusion criteria 1 and 2 (see xxx), after 115 participants have started with the study, the computer will redirect the next participants to another task.\nNotice how the improved answer states how the researchers apply pre-specified exclusion criteria to reach the expected sample size of 100 subjects.\nAlternative improved answer 2: Since data is collected via online survey the final N could result a little higher if further participants answer the questionnaire in the time between reaching N=100 and putting the survey offline, and we will include these extra participants in the final sample.\nNotice how the alternative improved answer 2 provides an alternative description of the data collection stopping rule embedding flexibility in the sample size (e.g. including extra participants who answer survey before going offline).\nAlternative improved answer 3: We plan to collect usable data from 100 participants. We will schedule slots of up to 10 participants at a time. We anticipate that not all scheduled slots will fill, so we initially will post 150 open slots. If more than 100 participants sign up for the available slots, we will test all of them. Consequently our initial tested sample could include as many as 150 participants. If this initial set of open slots results in testing fewer than 100 participants,we will open additional slots in blocks of 10 until we have tested 100 or more participants in total. We then will evaluate exclusions according to our preregistered rules. If, after exclusion, we have usable data from fewer than 100 participants, we will add enough additional open slots in blocks of 10 to potentially achieve a sample of 100 or more. After completing that testing, we will again evaluate exclusions and will repeat this step as needed until we have usable data from 100 or more participants. Thus, our final sample will include at least 100 participants and up to 150 participants, with the most likely final sample size (given typical signup rates and exclusion rates) between 100 and 109 participants.\nNotice how the alternative improved answer 3 provides detailed description of the data collection method (e.g. batching survey slots of 10 participants) and fail-safe procedures for participant exclusions and restarting (e.g. if data on &lt; 100 participants is usable)."
+  },
+  {
+    "objectID": "Evaluating preregistration quality/Toolkit.html#variable-description",
+    "href": "Evaluating preregistration quality/Toolkit.html#variable-description",
+    "title": "Build up your preregistration toolkit",
+    "section": "Variable description",
+    "text": "Variable description\n\nSnippet 4\n“Exam scores for all subjects for final-year bachelor students.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow can information about the exam scores be more specific?\nIs it clear which point in the school year exam scores are measured?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nAverage exam scores for all subjects for final-year bachelor students at the end of the first term after the intervention.\nNotice how the improved answer states how and when the variable is measured."
+  },
+  {
+    "objectID": "Evaluating preregistration quality/Toolkit.html#design-plan",
+    "href": "Evaluating preregistration quality/Toolkit.html#design-plan",
+    "title": "Build up your preregistration toolkit",
+    "section": "Design plan",
+    "text": "Design plan\n\nSnippet 5\n“Light levels will be manipulated four different ways over the 20 seedling growing trays.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nIs there enough information to understand how the light levels are manipulated?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nLight manipulation will be initiated at seed planting stage (day 0) and run continuously until the end of experiment (day 90). The light manipulation is implemented as a randomized, replicated block design in which four light treatments are repeated across five blocks (n = 20 seedling trays). One of the four light treatments (ambient control, procedural control, -25% light, and +25% light, with respect to ambient light levels) will be applied at the seedling tray level which is nested into the blocks. Adding a procedural control tests the effect of the light manipulation equipment (e.g. potential confounding effect of light treatment).\nNotice how the improved answer states the experimental procedures and structure (e.g. randomized replicated block design) and levels of the variables."
+  },
+  {
+    "objectID": "Evaluating preregistration quality/Toolkit.html#exclusions-and-exceptions",
+    "href": "Evaluating preregistration quality/Toolkit.html#exclusions-and-exceptions",
+    "title": "Build up your preregistration toolkit",
+    "section": "Exclusions and exceptions",
+    "text": "Exclusions and exceptions\n\nSnippet 6\n“We will exclude participants who take too long to answer survey and score low on x.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow long is too long to answer survey defined?\nWhat counts as a low score?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nWe will exclude participants who do not pass two thirds of the attention checks and if time taken to complete the survey is outside the range of 10-20 minutes. Participants will also be excluded if they score below 12 on x.\nNotice how the improved answer specifies how long is too long to answer survey (i.e. data-based outlier criteria) and defined score level for x (i.e. method-based outlier criteria)."
+  },
+  {
+    "objectID": "Evaluating preregistration quality/Toolkit.html#analysis-plan",
+    "href": "Evaluating preregistration quality/Toolkit.html#analysis-plan",
+    "title": "Build up your preregistration toolkit",
+    "section": "Analysis plan",
+    "text": "Analysis plan\n\nSnippet 7\n“A two (Design: simple, complex) by two (group: manipulated, control) mixed ANOVA will be the designated statistical analysis. This statistical analysis will provide insight into the 2-way interaction between the Design (simple vs complex) and group (manipulated or control).”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nWould a reader be able to carry out this ANOVA as described?\n\n\n\n\n\n\n\n\n\nNoteShow ways to improve answer\n\n\n\n\n\nProvide statistical model expression/code, which makes it explicit to the readers the model structure and syntax used to run your analysis. Provide analysis of simulated data and plot/interpret the results (this allows you to think whether design is strong enough to conclude something meaningful whatever the results are)."
+  },
+  {
+    "objectID": "Evaluating preregistration quality/Toolkit.html#reporting-study-preregistration",
+    "href": "Evaluating preregistration quality/Toolkit.html#reporting-study-preregistration",
+    "title": "Build up your preregistration toolkit",
+    "section": "Reporting study preregistration",
+    "text": "Reporting study preregistration\n\nSnippet 8\n“Hypothesis:… We aimed to test (1) whether abstract thinking is positively correlated with autonomous motivation … Conclusion:… BIF scores (abstract thinking) were positively associated with trait self-control, autonomous motivation for exercise, and autonomous motivation for diet, but not with sugar or fried food consumption…”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nDo the results reported in the study match to the hypothesis stated?\n\n\n\n\n\n\n\n\n\nNoteShow ways to improve answer\n\n\n\n\n\nLink study outcomes explicitly to numbered hypotheses and contextualize them to the variables, to allow readers to more easily follow. State clearly any unplanned analyses or deviations from what was preregistered."
+  },
+  {
+    "objectID": "Evaluating preregistration quality/Toolkit.html#extension-excercise",
+    "href": "Evaluating preregistration quality/Toolkit.html#extension-excercise",
+    "title": "Build up your preregistration toolkit",
+    "section": "Extension excercise",
+    "text": "Extension excercise\nIf you want more practice at doing a preregistration, have a go at filling out a preregistration template using the platform AsPredicted. A version of this extension exercise is available as a worksheet here (LINK).\nThe aim is to increase your familiarity with the process of filling out a study preregistration and noting down any challenges while you practice. For this exercise you can draw from your own research project and have a go at filling the 11 questions in 20 minutes. 20 minutes should be sufficient time to get a taster for the process. Use the reflection questions below to help you think about your experience of completing this exercise.\nAs your confidence and learning progresses you can have a go at a more comprehensive study preregistration template like the Open Science Framework (OSF).\n\n\n\n\n\n\nTipReflection questions\n\n\n\n\nDid you go through the questions in order?\nWere there any questions you were not expecting?\nWhat was the most challenging part of the preregistration process?"
+  },
+  {
+    "objectID": "Evaluating preregistration quality/page2.html",
+    "href": "Evaluating preregistration quality/page2.html",
     "title": "Page Title Here",
     "section": "",
     "text": "The headers below cause the table of contents/dropdown on the right to be visible."
   },
   {
-    "objectID": "Challenges and opportunities of preregistration/page2.html#level-two",
-    "href": "Challenges and opportunities of preregistration/page2.html#level-two",
+    "objectID": "Evaluating preregistration quality/page2.html#level-two",
+    "href": "Evaluating preregistration quality/page2.html#level-two",
     "title": "Page Title Here",
     "section": "Level Two",
     "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time"
   },
   {
-    "objectID": "Challenges and opportunities of preregistration/page2.html#another-level-two",
-    "href": "Challenges and opportunities of preregistration/page2.html#another-level-two",
+    "objectID": "Evaluating preregistration quality/page2.html#another-level-two",
+    "href": "Evaluating preregistration quality/page2.html#another-level-two",
     "title": "Page Title Here",
     "section": "Another Level Two",
     "text": "Another Level Two"
   },
   {
-    "objectID": "Challenges and opportunities of preregistration/page2.html#level-two-1",
-    "href": "Challenges and opportunities of preregistration/page2.html#level-two-1",
-    "title": "Page Title Here",
-    "section": "Level Two",
-    "text": "Level Two"
-  },
-  {
-    "objectID": "Evaluating preregistration quality/page3.html",
-    "href": "Evaluating preregistration quality/page3.html",
-    "title": "Page Title Here",
-    "section": "",
-    "text": "The headers below cause the table of contents/dropdown on the right to be visible."
-  },
-  {
-    "objectID": "Evaluating preregistration quality/page3.html#level-two",
-    "href": "Evaluating preregistration quality/page3.html#level-two",
-    "title": "Page Title Here",
-    "section": "Level Two",
-    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time"
-  },
-  {
-    "objectID": "Evaluating preregistration quality/page3.html#another-level-two",
-    "href": "Evaluating preregistration quality/page3.html#another-level-two",
-    "title": "Page Title Here",
-    "section": "Another Level Two",
-    "text": "Another Level Two"
-  },
-  {
-    "objectID": "Evaluating preregistration quality/page3.html#level-two-1",
-    "href": "Evaluating preregistration quality/page3.html#level-two-1",
-    "title": "Page Title Here",
-    "section": "Level Two",
-    "text": "Level Two"
-  },
-  {
-    "objectID": "Evaluating preregistration quality/page1.html",
-    "href": "Evaluating preregistration quality/page1.html",
-    "title": "Page Title Here",
-    "section": "",
-    "text": "The headers below cause the table of contents/dropdown on the right to be visible."
-  },
-  {
-    "objectID": "Evaluating preregistration quality/page1.html#level-two",
-    "href": "Evaluating preregistration quality/page1.html#level-two",
-    "title": "Page Title Here",
-    "section": "Level Two",
-    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time"
-  },
-  {
-    "objectID": "Evaluating preregistration quality/page1.html#another-level-two",
-    "href": "Evaluating preregistration quality/page1.html#another-level-two",
-    "title": "Page Title Here",
-    "section": "Another Level Two",
-    "text": "Another Level Two"
-  },
-  {
-    "objectID": "Evaluating preregistration quality/page1.html#level-two-1",
-    "href": "Evaluating preregistration quality/page1.html#level-two-1",
+    "objectID": "Evaluating preregistration quality/page2.html#level-two-1",
+    "href": "Evaluating preregistration quality/page2.html#level-two-1",
     "title": "Page Title Here",
     "section": "Level Two",
     "text": "Level Two"
