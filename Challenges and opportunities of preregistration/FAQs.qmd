@@ -29,7 +29,7 @@ It is possible to preregister an analysis plan for studies that use secondary da
 *Is it true that doing a preregistration increases the risk of being scooped?*
 
 ::: {.callout-tip title="Answer" collapse="true"}
-Concerns around being scooped can be mitigated by putting an embargo on your preregistration which will make it private until you are ready to share it. Depending on the platform used to upload your preregistration, it can be private indefinitely (e.g. [AsPredicted](https://aspredicted.org/messages/private_forever.php)) or a maximum or 4 years from creation date for [Open Science Foundation](https://help.osf.io/article/330-welcome-to-registrations#Privacy-Settings-t-8n2).
+Concerns around being scooped can be mitigated by putting an embargo on your preregistration which will make it private until you are ready to share it. Depending on the platform used to upload your preregistration, it can be private indefinitely (e.g. [AsPredicted](https://aspredicted.org/messages/private_forever.php)) or a maximum or 4 years from creation date for [Open Science Foundation](https://help.osf.io/article/330-welcome-to-registrations#Privacy-Settings-t-8n2). In addition, by preregistering you are informing others your research plans and they are unlikely to put time, effort and resources to do the same study as you.
 :::
 
 ## Preparing a preregistration

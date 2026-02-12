@@ -1,0 +1,176 @@
+---
+title: "Build up your preregistration toolkit"
+---
+
+*Recap*: So far we have outlined the elements, methods and example templates of doing a preregistration.
+
+## In this section: exercises
+
+---
+
+# Importance of precision
+
+Study preregistrations should aim to be as precise as possible to allow readers to be able to clearly follow your proposed plans. When preregistrations are vague, they don’t eliminate flexibility of methods and analyses. By thinking ahead of ways a reader could interpret your plan you crash-test the text to make sure unanticipated problems don’t require changes (to the extent possible). A key question to have in mind is: Is the plan precise and specific enough that anyone reading it would conduct and analyze the study using the same procedures?
+
+# Instructions
+
+Read through the following snippets under the major sections of a study preregistration and in a digital/paper notepad list areas of ambiguity and have a go at improving the text. The goal is to see what thinking is needed as you plan out your study. There is no "perfect" answer. Use the guiding questions to help you.
+
+These exercises have been adapted from the original exercise by Anna van ‘t Veer, Daniel Simons, David Mellor, Simine Vazire, and Katy Corker, and Stephen Lindsay for the APS 2019 preregistration workshop and some of these snippets have been adapted from Ihle (2023).
+
+## Research questions and hypotheses
+
+### Snippet 1 
+“How do indoor plants benefit people?”
+
+::: callout-tip
+### Guiding questions
+-   How would you measure “benefit”?
+-   How would you study the interaction between plants and people?
+:::
+
+::: {.callout-note title="Show improved answer" collapse="true"}
+How does having physical contact with indoor plants reduce psychological and physiological stress in young-adult office workers?
+
+*Notice how the improved answer states the type of interaction between plants and people, more specific details about types of benefits of interest and the target demographic (e.g. young-adult office workers).*
+
+Note: This research question is based on a study by Lee et al. 2015
+:::
+
+### Snippet 2
+“We expect that drinking beer will increase reaction time.”
+
+::: callout-tip
+### Guiding questions
+-   How can information about beer be made more specific?
+-   What is the reaction time measured in relation to?
+:::
+
+::: {.callout-note title="Show improved answer" collapse="true"}
+For male psychology students, drinking 5 Magic Hat IPAs will increase their reaction time as measured by machine X. We expect that the group that drinks 5 IPAs will respond at least 1 second slower, on average, than the group that did not drink alcohol.
+
+*Notice how the improved answer states quantity and type of beer and participants involved in the study. There is also a description about the expected direction of response.*
+:::
+
+
+## Sampling plan
+
+### Snippet 3
+"We expect to collect data from 100 subjects."
+
+::: callout-tip
+### Guiding questions
+-   Are there any pre-selection rules?
+-   How would you deal with possible exclusions?
+:::
+
+::: {.callout-note title="Show improved answers" collapse="true"}
+Improved answer 1: We will over sample by 15% in order to account for possible exclusions after we apply exclusion criteria 1 and 2 (see xxx), after 115 participants have started with the study, the computer will redirect the next participants to another task. 
+
+*Notice how the improved answer states how the researchers apply pre-specified exclusion criteria to reach the expected sample size of 100 subjects.*
+
+Alternative improved answer 2: Since data is collected via online survey the final N could result a little  higher if further participants answer the questionnaire in the time between reaching N=100 and putting the survey offline, and we will include these extra participants in the final sample.
+
+*Notice how the alternative improved answer 2 provides an alternative description of the data collection stopping rule embedding flexibility in the sample size (e.g. including extra participants who answer survey before going offline).*
+
+Alternative improved answer 3: We plan to collect usable data from 100 participants. We will schedule slots of up to 10 participants at a time. We anticipate that not all scheduled slots will fill, so we initially will post 150 open slots. If more than 100 participants sign up for the available slots, we will test all of them. Consequently our initial tested sample could include as many as 150 participants. If this initial set of open slots results in testing fewer than 100 participants,we will open additional slots in blocks of 10 until we have tested 100 or more participants in total. We then will evaluate exclusions according to our preregistered rules. If, after exclusion, we have usable data from fewer than 100 participants, we will add enough additional open slots in blocks of 10 to potentially achieve a sample of 100 or more. After completing that testing, we will again evaluate exclusions and will repeat this step as needed until we have usable data from 100 or more participants. Thus, our final sample will include at least 100 participants and up to 150 participants, with the most likely final sample size (given typical signup rates and exclusion rates) between 100 and 109 participants.
+
+*Notice how the alternative improved answer 3 provides detailed description of the data collection method (e.g. batching survey slots of 10 participants) and fail-safe procedures for participant exclusions and restarting (e.g. if data on < 100 participants is usable).*
+:::
+
+## Variable description
+
+### Snippet 4
+"Exam scores for all subjects for final-year bachelor students."
+
+::: callout-tip
+### Guiding questions
+-   How can information about the exam scores be more specific?
+-   Is it clear which point in the school year exam scores are measured?
+:::
+
+::: {.callout-note title="Show improved answer" collapse="true"}
+Average exam scores for all subjects for final-year bachelor students at the end of the first term after the intervention.
+
+*Notice how the improved answer states how and when the variable is measured.*
+:::
+
+## Design plan
+
+### Snippet 5
+“Light levels will be manipulated four different ways over the 20 seedling growing trays.”
+
+::: callout-tip
+### Guiding questions
+-   Is there enough information to understand how the light levels are manipulated?
+:::
+
+::: {.callout-note title="Show improved answer" collapse="true"}
+Light manipulation will be initiated at seed planting stage (day 0) and run continuously until the end of experiment (day 90). The light manipulation is implemented as a randomized, replicated block design in which four light treatments are repeated across five blocks (n = 20 seedling trays).	One of the four light treatments (ambient control, procedural control, -25% light, and +25% light, with respect to ambient light levels) will be applied at the seedling tray level which is nested into the blocks. Adding a procedural control tests the effect of the light manipulation equipment (e.g. potential confounding effect of light treatment).
+
+*Notice how the improved answer states the experimental procedures and structure (e.g. randomized replicated block design) and levels of the variables.*
+:::
+
+## Exclusions and exceptions
+
+### Snippet 6
+"We will exclude participants who take too long to answer survey and score low on x."
+
+::: callout-tip
+### Guiding questions
+-   How long is too long to answer survey defined?
+-   What counts as a low score?
+:::
+
+::: {.callout-note title="Show improved answer" collapse="true"}
+We will exclude participants who do not pass two thirds of the attention checks and if time taken to complete the survey is outside the range of 10-20 minutes. Participants will also be excluded if they score below 12 on x.
+
+*Notice how the improved answer specifies how long is too long to answer survey (i.e. data-based outlier criteria) and defined score level for x (i.e. method-based outlier criteria).*
+:::
+
+## Analysis plan
+
+### Snippet 7
+“A two (Design: simple, complex) by two (group: manipulated, control)  mixed ANOVA will be the designated statistical analysis. This statistical analysis will provide insight into the 2-way interaction between the Design (simple vs complex) and group (manipulated or control).”
+
+::: callout-tip
+### Guiding questions
+-   Would a reader be able to carry out this ANOVA as described?
+:::
+
+::: {.callout-note title="Show ways to improve answer" collapse="true"}
+Provide statistical model expression/code, which makes it explicit to the readers the model structure and syntax used to run your analysis. Provide analysis of simulated data and plot/interpret the results (this allows you to think whether design is strong enough to conclude something  meaningful whatever the results are). 
+:::
+
+
+## Reporting study preregistration
+
+### Snippet 8
+
+"Hypothesis:… We aimed to test (1) whether abstract thinking is positively correlated with autonomous motivation ...
+Conclusion:… BIF scores (abstract thinking) were positively associated with trait self-control, autonomous motivation for exercise, and autonomous motivation for diet, but not with sugar or fried food consumption..."
+
+::: callout-tip
+### Guiding questions
+-   Do the results reported in the study match to the hypothesis stated?
+:::
+
+::: {.callout-note title="Show ways to improve answer" collapse="true"}
+Link study outcomes explicitly to numbered hypotheses and contextualize them to the variables, to allow readers to more easily follow. State clearly any unplanned analyses or deviations from what was preregistered.
+:::
+
+## Extension excercise
+If you want more practice at doing a preregistration, have a go at filling out a preregistration template using the platform [AsPredicted](https://aspredicted.org). A version of this extension exercise is available as a worksheet here (LINK).
+
+The aim is to increase your familiarity with the process of filling out a study preregistration and noting down any challenges while you practice. For this exercise you can draw from your own research project and have a go at filling the 11 questions in 20 minutes. 20 minutes should be sufficient time to get a taster for the process. Use the reflection questions below to help you think about your experience of completing this exercise. 
+
+As your confidence and learning progresses you can have a go at a more comprehensive study preregistration template like the Open Science Framework [(OSF)](https://osf.io/registries/discover). 
+
+
+::: callout-tip
+### Reflection questions
+-   Did you go through the questions in order?
+-   Were there any questions you were not expecting?
+-   What was the most challenging part of the preregistration process?
+
+:::

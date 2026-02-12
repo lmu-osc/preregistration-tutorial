@@ -1,0 +1,38 @@
+---
+title: "Final recap, practical tips and resources"
+---
+
+Final recap:
+
+link to Max's dilemma
+
+---
+
+# Practical tips
+
+As we come to the end of this tutorial, you should feel more knowledgeable and confident about the Open Science practice of preregistration and how to carry out one in your own research. Even if you are not quite ready to implement a study preregistration just yet, you should have the tools to critically evaluate your own research planning approaches and existing preregistered studies. Below are X practical tips and additional resources to help you on your next steps on your preregistration journey! 
+
+
+## Open Science Buffet 
+
+## Tip 2
+
+## Tip 3
+
+## Tip 4
+
+## Tip 5
+
+---
+
+# Additional resources
+
+-   A [student's perspective](https://doi.org/10.1002/ece3.10023) of
+    doing a registered report [@gya2023]
+
+-   OSF community of
+    [support](https://osf.io/e6auq/wiki/Preregistration%20Community%20Support/):
+
+-   [Discussion](https://www.youtube.com/watch?v=77YeUe_Bkco) about
+    merits vs limits of study peregistration from IEEE Visualization
+    Conference 2022
