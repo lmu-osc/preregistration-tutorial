@@ -7,32 +7,67 @@
     "text": "Creative Commons Zero v1.0 Universal\nCREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN “AS-IS” BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER.\n\nStatement of Purpose\nThe laws of most jurisdictions throughout the world automatically confer exclusive Copyright and Related Rights (defined below) upon the creator and subsequent owner(s) (each and all, an “owner”) of an original work of authorship and/or a database (each, a “Work”).\nCertain owners wish to permanently relinquish those rights to a Work for the purpose of contributing to a commons of creative, cultural and scientific works (“Commons”) that the public can reliably and without fear of later claims of infringement build upon, modify, incorporate in other works, reuse and redistribute as freely as possible in any form whatsoever and for any purposes, including without limitation commercial purposes. These owners may contribute to the Commons to promote the ideal of a free culture and the further production of creative, cultural and scientific works, or to gain reputation or greater distribution for their Work in part through the use and efforts of others.\nFor these and/or other purposes and motivations, and without any expectation of additional consideration or compensation, the person associating CC0 with a Work (the “Affirmer”), to the extent that he or she is an owner of Copyright and Related Rights in the Work, voluntarily elects to apply CC0 to the Work and publicly distribute the Work under its terms, with knowledge of his or her Copyright and Related Rights in the Work and the meaning and intended legal effect of CC0 on those rights.\n\nCopyright and Related Rights. A Work made available under CC0 may be protected by copyright and related or neighboring rights (“Copyright and Related Rights”). Copyright and Related Rights include, but are not limited to, the following:\n\nthe right to reproduce, adapt, distribute, perform, display, communicate, and translate a Work;\nmoral rights retained by the original author(s) and/or performer(s);\npublicity and privacy rights pertaining to a person’s image or likeness depicted in a Work;\nrights protecting against unfair competition in regards to a Work, subject to the limitations in paragraph 4(a), below;\nrights protecting the extraction, dissemination, use and reuse of data in a Work;\ndatabase rights (such as those arising under Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, and under any national implementation thereof, including any amended or successor version of such directive); and\nother similar, equivalent or corresponding rights throughout the world based on applicable law or treaty, and any national implementations thereof.\n\nWaiver. To the greatest extent permitted by, but not in contravention of, applicable law, Affirmer hereby overtly, fully, permanently, irrevocably and unconditionally waives, abandons, and surrenders all of Affirmer’s Copyright and Related Rights and associated claims and causes of action, whether now known or unknown (including existing as well as future claims and causes of action), in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the “Waiver”). Affirmer makes the Waiver for the benefit of each member of the public at large and to the detriment of Affirmer’s heirs and successors, fully intending that such Waiver shall not be subject to revocation, rescission, cancellation, termination, or any other legal or equitable action to disrupt the quiet enjoyment of the Work by the public as contemplated by Affirmer’s express Statement of Purpose.\nPublic License Fallback. Should any part of the Waiver for any reason be judged legally invalid or ineffective under applicable law, then the Waiver shall be preserved to the maximum extent permitted taking into account Affirmer’s express Statement of Purpose. In addition, to the extent the Waiver is so judged Affirmer hereby grants to each affected person a royalty-free, non transferable, non sublicensable, non exclusive, irrevocable and unconditional license to exercise Affirmer’s Copyright and Related Rights in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the “License”). The License shall be deemed effective as of the date CC0 was applied by Affirmer to the Work. Should any part of the License for any reason be judged legally invalid or ineffective under applicable law, such partial invalidity or ineffectiveness shall not invalidate the remainder of the License, and in such case Affirmer hereby affirms that he or she will not (i) exercise any of his or her remaining Copyright and Related Rights in the Work or (ii) assert any associated claims and causes of action with respect to the Work, in either case contrary to Affirmer’s express Statement of Purpose.\nLimitations and Disclaimers.\n\nNo trademark or patent rights held by Affirmer are waived, abandoned, surrendered, licensed or otherwise affected by this document.\nAffirmer offers the Work as-is and makes no representations or warranties of any kind concerning the Work, express, implied, statutory or otherwise, including without limitation warranties of title, merchantability, fitness for a particular purpose, non infringement, or the absence of latent or other defects, accuracy, or the present or absence of errors, whether or not discoverable, all to the greatest extent permissible under applicable law.\nAffirmer disclaims responsibility for clearing rights of other persons that may apply to the Work or any use thereof, including without limitation any person’s Copyright and Related Rights in the Work. Further, Affirmer disclaims responsibility for obtaining any necessary consents, permissions or other rights required for any use of the Work.\nAffirmer understands and acknowledges that Creative Commons is not a party to this document and has no duty or obligation with respect to this CC0 or use of the Work.\n\n\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "How to do a preregistration/page2.html",
-    "href": "How to do a preregistration/page2.html",
-    "title": "Page Title Here",
+    "objectID": "How to do a preregistration/Preregistration components.html",
+    "href": "How to do a preregistration/Preregistration components.html",
+    "title": "Components of a preregistration",
     "section": "",
-    "text": "The headers below cause the table of contents/dropdown on the right to be visible."
+    "text": "Recap: In the introduction we covered the context and rationale of preregistration. Here we will learn what the practical steps involved are and what information is required to complete a study preregistration."
   },
   {
-    "objectID": "How to do a preregistration/page2.html#level-two",
-    "href": "How to do a preregistration/page2.html#level-two",
-    "title": "Page Title Here",
-    "section": "Level Two",
-    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time"
+    "objectID": "How to do a preregistration/Preregistration components.html#part-1-hypotheses",
+    "href": "How to do a preregistration/Preregistration components.html#part-1-hypotheses",
+    "title": "Components of a preregistration",
+    "section": "Part 1: Hypotheses",
+    "text": "Part 1: Hypotheses\nEssential:\n\nState your research questions clearly\nDescribe the (numbered) hypotheses in the context of your variables\nFor interaction effects, describe the expected shape of the interactions.\nIf you are manipulating a variable, make predictions for successful check variables or explain why no manipulation check is included.\n\nRecommendations:\n\nAdding a table/figure to describe complex interaction\nFor studies testing hypotheses, link stated hypotheses to theoretical frameworks"
   },
   {
-    "objectID": "How to do a preregistration/page2.html#another-level-two",
-    "href": "How to do a preregistration/page2.html#another-level-two",
-    "title": "Page Title Here",
-    "section": "Another Level Two",
-    "text": "Another Level Two"
+    "objectID": "How to do a preregistration/Preregistration components.html#part-2-design",
+    "href": "How to do a preregistration/Preregistration components.html#part-2-design",
+    "title": "Components of a preregistration",
+    "section": "Part 2: Design",
+    "text": "Part 2: Design\nEssential:\nList of variables based on your hypotheses:\n\nIndependent variables (including levels, within or between participants, relationship between them (e.g. nested))\ndependent variables or variables in a correlational design\nthird variables (e.g. covariates, moderators, control variables)"
   },
   {
-    "objectID": "How to do a preregistration/page2.html#level-two-1",
-    "href": "How to do a preregistration/page2.html#level-two-1",
-    "title": "Page Title Here",
-    "section": "Level Two",
-    "text": "Level Two"
+    "objectID": "How to do a preregistration/Preregistration components.html#part-3-planned-sample",
+    "href": "How to do a preregistration/Preregistration components.html#part-3-planned-sample",
+    "title": "Components of a preregistration",
+    "section": "Part 3: Planned sample",
+    "text": "Part 3: Planned sample\nEssential:\n\nIf applicable, state any pre-selection rules (e.g. age limits)\nIndicate where, from whom and how the data will be collected\nJustify planned sample size (e.g. power analysis)\nDescribe data collection termination rule"
+  },
+  {
+    "objectID": "How to do a preregistration/Preregistration components.html#part-4-exclusion-criteria",
+    "href": "How to do a preregistration/Preregistration components.html#part-4-exclusion-criteria",
+    "title": "Components of a preregistration",
+    "section": "Part 4: Exclusion criteria",
+    "text": "Part 4: Exclusion criteria\nEssential:\nDescribe anticipated specific data exclusion criteria such as:\n\nmissing, erroneous, or overly consistent responses\nfailing check-tests or suspicion probes\ndemographic exclusions\ndata-based outlier criteria (e.g expected variable ranges)\nmethod-based outlier criteria (e.g. too short or long response times)\n\nRecommendations:\n\nSet fail-safe levels of exclusion at which the whole study needs to be stopped, altered, and restarted."
+  },
+  {
+    "objectID": "How to do a preregistration/Preregistration components.html#part-5-analysis-plan",
+    "href": "How to do a preregistration/Preregistration components.html#part-5-analysis-plan",
+    "title": "Components of a preregistration",
+    "section": "Part 5: Analysis plan",
+    "text": "Part 5: Analysis plan\nEssential:\nDescribe the analyses that will test each main prediction from the hypotheses section. For each one, include:\n\nrelevant variables and how they are calculated\nstatistical technique\neach variable’s role in the technique (e.g., independent variable, dependent variable and covariates)\nrationale for each covariate used, if any\nif using techniques other than null hypothesis testing (e.g. Bayesian statistics), describe your criteria calculation of prior values or distributions\n\nRecommendations:\n\nSpecify contingencies and assumptions (e.g. method of correcting for multiple testing, missing data handling, data transformations (e.g. Shapiro-Wilk’s test for normal/Gaussian distribution), assumptions and assumption checks for analyses and alternative plans for data analysis if assumptions are not met)."
+  },
+  {
+    "objectID": "How to do a preregistration/Preregistration components.html#additional-considerations",
+    "href": "How to do a preregistration/Preregistration components.html#additional-considerations",
+    "title": "Components of a preregistration",
+    "section": "Additional considerations",
+    "text": "Additional considerations\nDepending on your study type, there may be additional things to keep in mind as you plan your study. You’ll need to determine if you need to: plan for multi-stage contingent experiments, anonymize your registration (e.g. place under embargo) or apply for ethical approval."
+  },
+  {
+    "objectID": "How to do a preregistration/Preregistration components.html#preregistration-vs-registered-reports",
+    "href": "How to do a preregistration/Preregistration components.html#preregistration-vs-registered-reports",
+    "title": "Components of a preregistration",
+    "section": "Preregistration vs registered reports",
+    "text": "Preregistration vs registered reports\nSo far content has focused on preregistration, but there is another related Open Science practice known as a registered report. Registered reports are a publishing format where a study undergoes two stages of peer review: stage 1: introduction and methods in advance of data collection/analysis and stage 2: which includes the full study findings including results/discussion (Parsons et al. 2022). Registered reports can help safeguard against finding potential study design issues after data collection.\n\n\n\n\n\n\nWarning\n\n\n\nYou may come across registered reports being described in the literature as “two-stage review with in-principle acceptance” [@mayo-wilson2025]. Some meta-science researchers are working calling for the Open Science community to harmonize terms to reduce ambiguity."
+  },
+  {
+    "objectID": "How to do a preregistration/Preregistration components.html#preregistration-templates",
+    "href": "How to do a preregistration/Preregistration components.html#preregistration-templates",
+    "title": "Components of a preregistration",
+    "section": "Preregistration templates",
+    "text": "Preregistration templates\nNow that you have an overview of what things are needed in a preregistration, we can explore the table below of some preregistration templates.\n\nAdapted from @pennington and @stewart \n\n\n\nTemplate\n\nAsPredicted\nOpen Science Framework (OSF)\nPROSPERO\nPreregistration in social psychology\nBio-protocol\n\n\n\nDescription\n\nStandardized template\nMultiple templates for many study types\nStudy protocols for systematic reviews\nGuidelines\nOnline peer-reviewed protocol journal\n\n\n\nDiscipline/study type\n\nQuantitative/experimental studies\nWide-ranging\nHealth related\nQuantitative/experimental social psychology studies\nBiological sciences\n\n\n\n\n\n\n\n\n\nNoteReflection point?\n\n\n\nThinking about your research area and any institutional policies or community standards, which template(s) do you think fit closer to your type of research study?"
   },
   {
     "objectID": "TOPIC1/page2.html",
@@ -500,29 +535,29 @@
     "text": "Level Two"
   },
   {
-    "objectID": "How to do a preregistration/page1.html",
-    "href": "How to do a preregistration/page1.html",
+    "objectID": "How to do a preregistration/page2.html",
+    "href": "How to do a preregistration/page2.html",
     "title": "Page Title Here",
     "section": "",
     "text": "The headers below cause the table of contents/dropdown on the right to be visible."
   },
   {
-    "objectID": "How to do a preregistration/page1.html#level-two",
-    "href": "How to do a preregistration/page1.html#level-two",
+    "objectID": "How to do a preregistration/page2.html#level-two",
+    "href": "How to do a preregistration/page2.html#level-two",
     "title": "Page Title Here",
     "section": "Level Two",
     "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time"
   },
   {
-    "objectID": "How to do a preregistration/page1.html#another-level-two",
-    "href": "How to do a preregistration/page1.html#another-level-two",
+    "objectID": "How to do a preregistration/page2.html#another-level-two",
+    "href": "How to do a preregistration/page2.html#another-level-two",
     "title": "Page Title Here",
     "section": "Another Level Two",
     "text": "Another Level Two"
   },
   {
-    "objectID": "How to do a preregistration/page1.html#level-two-1",
-    "href": "How to do a preregistration/page1.html#level-two-1",
+    "objectID": "How to do a preregistration/page2.html#level-two-1",
+    "href": "How to do a preregistration/page2.html#level-two-1",
     "title": "Page Title Here",
     "section": "Level Two",
     "text": "Level Two"
