@@ -22,7 +22,7 @@ You may notice in the literature different terms relating to preregistration lik
 
 ### Questionable research practicess
 
-Questionable research practices (QRPs) are a set of *intentional* or *unintentional* behaviors where researchers distort study findings. Examples include p-hacking and HARKing (Parsons et al. 2022)
+Questionable research practices (QRPs) are a set of *intentional* or *unintentional* behaviors where researchers distort study findings. Examples include p-hacking and HARKing (Parsons et al. 2022). We will cover the topic of QRPs in more detail in @sec-QRPs.
 
 ## Approaches to research
 
@@ -33,8 +33,7 @@ There is no single one way to do research! It all depends on what information yo
 -   **Intervention/experimental** (randomized control trials, factorial design)
 -   **Observational** (case study, natural experiment, longitudinal)
 
-::: callout-note
-## What is your research approach?
+::: {.callout-note title="What is your research approach?"}
 Being able to understand the different research approaches, study designs and key concepts will help provide context for the steps required to do a study registration.
 :::
 

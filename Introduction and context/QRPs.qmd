@@ -1,0 +1,74 @@
+---
+title: "Questionable research practices and biases"
+---
+
+# Questionable research practices: the grey zone
+
+From one end of the research integrity spectrum of clear misconduct (e.g. falsifying results or plagiarizing someones work) to acceptable and responsible research practices (i.e. what Open Science movement strives to create), where do the selective reporting or misrepresentations of data fit in? This grey zone of Questionable Research Practices (QRPs) of less overt and subtle behaviors (compared to misconduct) nonetheless damages the credibility of science (). The prevalence and impact of QRPs has received less attention than the clear cut examples of serious research misconduct (although see case study below)
+
+## HARKing
+
+Hypothesizing after the results are known (HARKing) is a QRP where a researcher changes their hypothesis based on or informed by the results, but present their hypothesis as if it were a priori [@kerr1998].
+
+## p-Hacking
+
+p-Hacking is a QRP which describes the many ways researchers can artificially increase the likelihood of obtaining a statistically significant result [@pennington2023].
+
+::: {.callout-note title="Case study"}
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339056
+:::
+
+::: callout-note
+Max's dilemma link
+:::
+
+# Researcher biases
+There are wide range of *cognitive biases* (e.g. hindsight bias, confirmatory bias, bias blind spot) that lead to systematic differences in how we perceive information and make decisions.
+
+## Hindsight bias
+The "I knew it all along" is the phrase associated with hindsight bias, which is the tendency to frame *previous* decisions or events as *more predictable* after the outcome is known [@hardwicke2023].
+
+## Confirmatory bias
+The tendency to seek out, interpret, favor and recall information in a way that *supports* one’s *prior* values, beliefs, expectations, or hypothesis [@parsons2022].
+
+## Bias blind spot
+The *lack of awareness* of how one's decisions are shaped by bias [@hardwicke2023].
+
+The range of biases highlights that we are all human and it is important to be *aware* of how cognitive biases *influence* how we do our research!
+
+# Summary
+
+
+
+
+# Quick Quiz!
+
+1.  HARKing - Hypothesizing after the results are known is a:
+
+-   [ ] A. type of cognitive bias
+
+-   [ ] B. questionable research practice
+
+-   [ ] C. name of a website to report research misconduct
+
+::: {.callout-note title="Show solution" collapse="true"}
+The correct answer is B, HARKing is a questionable research practice.
+
+*Refer back to @sec-HARKing for more information*
+:::
+
+2. The tendency to frame *previous* decisions or events as *more
+predictable* after the outcome is known, is an example of which type of
+cognitive bias?
+
+-   [ ] A. confirmatory bias
+-   [ ] B. bias blind spot
+-   [ ] C. hindsight bias
+
+::: {.callout-note title="Show solution" collapse="true"}
+The answer is C. Hindsight bias can be summarized as "I knew it all
+along" type of thinking.
+
+*Refer back to @sec-Hindsight-bias for more information*
+:::
+
