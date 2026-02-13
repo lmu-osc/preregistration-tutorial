@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Hypothesis types and errors – Pregistration: the what, why and how?</title>
+<title>Introduction to preregistration – Pregistration: the what, why and how?</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../TOPIC2/page1.qmd" rel="next">
-<link href="../TOPIC1/page1.qmd" rel="prev">
 <link href="../assets/LMU_OSC_favicon.jpg" rel="icon" type="image/jpeg">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -43,7 +41,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-1a656c689f59dd6fe0969bd5bfb928d2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-1988d9f9d85e811993c1471ac0558136.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -130,7 +128,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../TOPIC1/page1.qmd">TOPIC 1</a></li><li class="breadcrumb-item"><a href="../TOPIC1/page2.html">TOPIC1 Page2 Title</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Introduction to preregistration</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -173,7 +171,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../TOPIC1/page2.html" class="sidebar-item-text sidebar-link active">
+  <a href="../TOPIC1/page2.qmd" class="sidebar-item-text sidebar-link">
  <span class="menu-text">TOPIC1 Page2 Title</span></a>
   </div>
 </li>
@@ -220,29 +218,23 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#level-one-header" id="toc-level-one-header" class="nav-link active" data-scroll-target="#level-one-header">Level One Header</a>
+  <li><a href="#what-even-is-preregistration" id="toc-what-even-is-preregistration" class="nav-link active" data-scroll-target="#what-even-is-preregistration">What even is preregistration?</a></li>
+  <li><a href="#why-did-the-practice-of-preregistration-come-about" id="toc-why-did-the-practice-of-preregistration-come-about" class="nav-link" data-scroll-target="#why-did-the-practice-of-preregistration-come-about">Why did the practice of preregistration come about?</a>
   <ul class="collapse">
-  <li><a href="#level-two" id="toc-level-two" class="nav-link" data-scroll-target="#level-two">Level Two</a>
-  <ul class="collapse">
-  <li><a href="#l3" id="toc-l3" class="nav-link" data-scroll-target="#l3">L3</a></li>
-  <li><a href="#l3-again" id="toc-l3-again" class="nav-link" data-scroll-target="#l3-again">L3 Again</a></li>
-  <li><a href="#and-one-more-time" id="toc-and-one-more-time" class="nav-link" data-scroll-target="#and-one-more-time">And one more time</a></li>
-  </ul></li>
-  <li><a href="#another-level-two" id="toc-another-level-two" class="nav-link" data-scroll-target="#another-level-two">Another Level Two</a></li>
-  </ul></li>
-  <li><a href="#level-one-again" id="toc-level-one-again" class="nav-link" data-scroll-target="#level-one-again">Level One Again</a>
-  <ul class="collapse">
-  <li><a href="#level-two-1" id="toc-level-two-1" class="nav-link" data-scroll-target="#level-two-1">Level Two</a></li>
+  <li><a href="#replicability-crisis" id="toc-replicability-crisis" class="nav-link" data-scroll-target="#replicability-crisis">Replicability crisis</a></li>
+  <li><a href="#questionable-research-practicess" id="toc-questionable-research-practicess" class="nav-link" data-scroll-target="#questionable-research-practicess">Questionable research practicess</a></li>
+  <li><a href="#approaches-to-research" id="toc-approaches-to-research" class="nav-link" data-scroll-target="#approaches-to-research">Approaches to research</a></li>
+  <li><a href="#what-would-you-do" id="toc-what-would-you-do" class="nav-link" data-scroll-target="#what-would-you-do">What would you do?</a></li>
   </ul></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/lmu-osc/REPO-NAME-HERE/edit/main/TOPIC1/page2.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/lmu-osc/REPO-NAME-HERE/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/lmu-osc/REPO-NAME-HERE/edit/main/Introduction and context/Introduction.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/lmu-osc/REPO-NAME-HERE/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../TOPIC1/page1.qmd">TOPIC 1</a></li><li class="breadcrumb-item"><a href="../TOPIC1/page2.html">TOPIC1 Page2 Title</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Hypothesis types and errors</h1>
+<h1 class="title">Introduction to preregistration</h1>
 </div>
 
 
@@ -259,29 +251,85 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>The headers below cause the table of contents/dropdown on the right to be visible.</p>
-<section id="level-one-header" class="level1">
-<h1>Level One Header</h1>
-<section id="level-two" class="level2">
-<h2 class="anchored" data-anchor-id="level-two">Level Two</h2>
-<section id="l3" class="level3">
-<h3 class="anchored" data-anchor-id="l3">L3</h3>
+<section id="what-even-is-preregistration" class="level1">
+<h1>What even is preregistration?</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Definition
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The practice of producing an uneditable time-stamped document that outlines a study plan including research questions/hypotheses, research design, data analysis before data collection and analysis. A study preregistration is then uploaded onto a verified repository so that it can be publicly shared with others (possibly after an embargo period) (Nosek, 2018; Parsons et al.&nbsp;2022).</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>Terminology
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>You may notice in the literature different terms relating to preregistration like <em>study registration</em>. Some researchers are advocating for a reform of terms to avoid ambiguity, as some terms can refer to different practices occurring at various stages of the research life cycle <span class="citation" data-cites="mayo-wilson2025">[@mayo-wilson2025]</span>.</p>
+</div>
+</div>
 </section>
-<section id="l3-again" class="level3">
-<h3 class="anchored" data-anchor-id="l3-again">L3 Again</h3>
+<section id="why-did-the-practice-of-preregistration-come-about" class="level1">
+<h1>Why did the practice of preregistration come about?</h1>
+<section id="replicability-crisis" class="level3">
+<h3 class="anchored" data-anchor-id="replicability-crisis">Replicability crisis</h3>
 </section>
-<section id="and-one-more-time" class="level3">
-<h3 class="anchored" data-anchor-id="and-one-more-time">And one more time</h3>
+<section id="questionable-research-practicess" class="level3">
+<h3 class="anchored" data-anchor-id="questionable-research-practicess">Questionable research practicess</h3>
+<p>Questionable research practices (QRPs) are a set of <em>intentional</em> or <em>unintentional</em> behaviors where researchers distort study findings. Examples include p-hacking and HARKing (Parsons et al.&nbsp;2022). We will cover the topic of QRPs in more detail in <strong>?@sec-QRPs</strong>.</p>
 </section>
+<section id="approaches-to-research" class="level2">
+<h2 class="anchored" data-anchor-id="approaches-to-research">Approaches to research</h2>
+<p>There is no single one way to do research! It all depends on what information you are trying to gather. Research can be:</p>
+<ul>
+<li><strong>Qualitative</strong> (interview study, focus groups, ethnographic)</li>
+<li><strong>Review-based</strong> (systematic, narrative)</li>
+<li><strong>Intervention/experimental</strong> (randomized control trials, factorial design)</li>
+<li><strong>Observational</strong> (case study, natural experiment, longitudinal)</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled" title="What is your research approach?">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>What is your research approach?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Being able to understand the different research approaches, study designs and key concepts will help provide context for the steps required to do a study registration.</p>
+</div>
+</div>
 </section>
-<section id="another-level-two" class="level2">
-<h2 class="anchored" data-anchor-id="another-level-two">Another Level Two</h2>
-</section>
-</section>
-<section id="level-one-again" class="level1">
-<h1>Level One Again</h1>
-<section id="level-two-1" class="level2">
-<h2 class="anchored" data-anchor-id="level-two-1">Level Two</h2>
+<section id="what-would-you-do" class="level2">
+<h2 class="anchored" data-anchor-id="what-would-you-do">What would you do?</h2>
+<p>Imagine if your PhD lab mate Max came to you with this dilemma: “I’ve been analyzing the data from my first thesis chapter (which I really want to publish, as it will help with my chances of getting a post doc). One of my hypotheses is that X influences Y. I’ve measured many variables to test this hypothesis. However during the data analysis, results seem to show X has no effect on Y, unless I remove a variable. Do you have any suggestions of what I should do?”</p>
+<p>What would you recommend Max does from the options listed below? A) Remove that variable from the analysis B) Tweak the hypothesis to match the results C) Collect more data in the hope, a larger sample size will show an effect D) Try out a new statistical test to see if there is a significant effect E) Leave that variable in and write up the results as they are</p>
+<p>We will revisit Max’s dilemma throughout this tutorial and hopefully by the end you will be more confident at identifying potential issues and recognize how preregistration can help safeguard against questionable research practice and promote more credible research.</p>
+<div class="callout callout-style-default callout-tip callout-empty-content callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Summary
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
 
 
 </section>
@@ -688,18 +736,6 @@ ul.task-list li input[type="checkbox"] {
     }
   });
   </script>
-<nav class="page-navigation">
-  <div class="nav-page nav-page-previous">
-      <a href="../TOPIC1/page1.qmd" class="pagination-link" aria-label="TOPIC1 Page1 Title">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">TOPIC1 Page1 Title</span>
-      </a>          
-  </div>
-  <div class="nav-page nav-page-next">
-      <a href="../TOPIC2/page1.qmd" class="pagination-link" aria-label="TOPIC2 Page1 Title">
-        <span class="nav-page-text">TOPIC2 Page1 Title</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
-  </div>
-</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
@@ -708,7 +744,7 @@ ul.task-list li input[type="checkbox"] {
     </div>   
     <div class="nav-footer-center">
 <p>Copyright, 2026 Open Science Center at LMU Munich</p>
-<div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/lmu-osc/REPO-NAME-HERE/edit/main/TOPIC1/page2.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/lmu-osc/REPO-NAME-HERE/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+<div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/lmu-osc/REPO-NAME-HERE/edit/main/Introduction and context/Introduction.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/lmu-osc/REPO-NAME-HERE/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
