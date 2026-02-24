@@ -1,0 +1,12 @@
+---
+title: "Glossary"
+---
+
+This page provides the glossary of key terms used in this preregistration tutorial.
+
+
+| Term | Description |
+|------------------------------------|------------------------------------|
+| Questionable Research Practices (QRPs) |  |
+| Hypothesis |  |
+| Preregistration |  |
