@@ -5,13 +5,13 @@ title: "Research cycle"
 # Research approaches 101
 
 ## Qualitative research
-Qualitative research approaches focus on examining the meanings, experiences, and *perspectives* of individuals or groups. Data collection involves primary, first-hand, *text-based* data that is analyzed using specific interpretive methods. An example of qualitative research:
+Qualitative research approaches focus on examining the meanings, experiences, and *perspectives* of individuals or groups. Data collection involves primary, first-hand, *text-based* data that is analyzed using specific interpretive methods. Sometimes text-based data is 'coded' to identify key themes and patterns (Braun and Clarke 2008).
 
 ## Review-based research
-Review-based research involves collating and *synthesizing* previously *published* work on a topic. These approaches can be used to generate *new insights* and identify *knowledge gaps*. Reviews can be more or less done *systematically*, with systematic review and meta-analyses having well-established protocols (e.g. [PRISMA guidelines](https://www.prisma-statement.org/)). An example of review-based research:
+Review-based research involves collating and *synthesizing* previously *published* work on a topic. These approaches can be used to generate *new insights* and identify *knowledge gaps*. Reviews can be more or less done *systematically*, with systematic review and meta-analyses having well-established protocols (e.g. [PRISMA guidelines](https://www.prisma-statement.org/)). 
 
 ## Intervention and experimental research
-Intervention and experimental research approaches are closely related. They involve *deliberate manipulations* to a physical *entity* (e.g. individuals, groups, organisms) intended to *measure changes* to that entity. Intervention studies typically focuses on the *application* of a treatment or action to observe its effect. Experiments involve *controlled conditions* to test specific *hypotheses*. A hypothesis is an unproven statement relating the connection between variables.
+Intervention and experimental research approaches are closely related. They involve *deliberate manipulations* to a physical *entity* (e.g. individuals, groups, organisms) intended to *measure changes* to that entity. Intervention studies typically focuses on the *application* of a treatment or action to observe its effect. In experimental studies, a researcher typically observes a problem or situation, then develops a testable hypothesis from which experiments under *controlled conditions* are used to test specific *hypotheses*. Based on the outcomes, the hypothesis is adapted. A hypothesis is an unproven statement relating the connection between variables.
 
 ::: callout-note
 ### Hypothesis generating vs testing
