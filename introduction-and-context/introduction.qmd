@@ -45,7 +45,7 @@ The percentage of medical study findings reporting a significant benefit for an 
 ### The replicability crisis
 
 ::: {style="text-align: center;"}
-<img src="images/2_research_cycle.png" style="width:50%;"/>
+<img src="../assets/2-research-cycle.png" style="width:50%;"/>
 :::
 
 ### Questionable research practicess
