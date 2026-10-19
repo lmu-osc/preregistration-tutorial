@@ -8,23 +8,23 @@ title: "Build up your preregistration toolkit"
 
 ---
 
-# Importance of precision
+## Importance of precision
 
 Study preregistrations should aim to be as precise as possible to allow readers to be able to clearly follow your proposed plans. When preregistrations are vague, they don’t eliminate flexibility of methods and analyses. By thinking ahead of ways a reader could interpret your plan you crash-test the text to make sure unanticipated problems don’t require changes (to the extent possible). A key question to have in mind is: Is the plan precise and specific enough that anyone reading it would conduct and analyze the study using the same procedures?
 
-# Instructions
+## Instructions
 
 Read through the following snippets under the major sections of a study preregistration and in a digital/paper notepad list areas of ambiguity and have a go at improving the text. The goal is to see what thinking is needed as you plan out your study. There is no "perfect" answer. Use the guiding questions to help you.
 
 These exercises have been adapted from the original exercise by Anna van ‘t Veer, Daniel Simons, David Mellor, Simine Vazire, and Katy Corker, and Stephen Lindsay for the APS 2019 preregistration workshop and some of these snippets have been adapted from Ihle (2023).
 
-## Research questions and hypotheses
+### Research questions and hypotheses
 
-### Snippet 1 
+#### Snippet 1 
 “How do indoor plants benefit people?”
 
 ::: callout-tip
-### Guiding questions
+#### Guiding questions
 -   How would you measure “benefit”?
 -   How would you study the interaction between plants and people?
 :::
@@ -37,11 +37,11 @@ How does having physical contact with indoor plants reduce psychological and phy
 Note: This research question is based on a study by Lee et al. 2015
 :::
 
-### Snippet 2
+#### Snippet 2
 “We expect that drinking beer will increase reaction time.”
 
 ::: callout-tip
-### Guiding questions
+#### Guiding questions
 -   How can information about beer be made more specific?
 -   What is the reaction time measured in relation to?
 :::
@@ -53,13 +53,13 @@ For male psychology students, drinking 5 Magic Hat IPAs will increase their reac
 :::
 
 
-## Sampling plan
+### Sampling plan
 
-### Snippet 3
+#### Snippet 3
 "We expect to collect data from 100 subjects."
 
 ::: callout-tip
-### Guiding questions
+#### Guiding questions
 -   Are there any pre-selection rules?
 -   How would you deal with possible exclusions?
 :::
@@ -78,13 +78,13 @@ Alternative improved answer 3: We plan to collect usable data from 100 participa
 *Notice how the alternative improved answer 3 provides detailed description of the data collection method (e.g. batching survey slots of 10 participants) and fail-safe procedures for participant exclusions and restarting (e.g. if data on < 100 participants is usable).*
 :::
 
-## Variable description
+### Variable description
 
-### Snippet 4
+#### Snippet 4
 "Exam scores for all subjects for final-year bachelor students."
 
 ::: callout-tip
-### Guiding questions
+#### Guiding questions
 -   How can information about the exam scores be more specific?
 -   Is it clear which point in the school year exam scores are measured?
 :::
@@ -95,13 +95,13 @@ Average exam scores for all subjects for final-year bachelor students at the end
 *Notice how the improved answer states how and when the variable is measured.*
 :::
 
-## Design plan
+### Design plan
 
-### Snippet 5
+#### Snippet 5
 “Light levels will be manipulated four different ways over the 20 seedling growing trays.”
 
 ::: callout-tip
-### Guiding questions
+#### Guiding questions
 -   Is there enough information to understand how the light levels are manipulated?
 :::
 
@@ -111,13 +111,13 @@ Light manipulation will be initiated at seed planting stage (day 0) and run cont
 *Notice how the improved answer states the experimental procedures and structure (e.g. randomized replicated block design) and levels of the variables.*
 :::
 
-## Exclusions and exceptions
+### Exclusions and exceptions
 
-### Snippet 6
+#### Snippet 6
 "We will exclude participants who take too long to answer survey and score low on x."
 
 ::: callout-tip
-### Guiding questions
+#### Guiding questions
 -   How long is too long to answer survey defined?
 -   What counts as a low score?
 :::
@@ -128,13 +128,13 @@ We will exclude participants who do not pass two thirds of the attention checks 
 *Notice how the improved answer specifies how long is too long to answer survey (i.e. data-based outlier criteria) and defined score level for x (i.e. method-based outlier criteria).*
 :::
 
-## Analysis plan
+### Analysis plan
 
-### Snippet 7
+#### Snippet 7
 “A two (Design: simple, complex) by two (group: manipulated, control)  mixed ANOVA will be the designated statistical analysis. This statistical analysis will provide insight into the 2-way interaction between the Design (simple vs complex) and group (manipulated or control).”
 
 ::: callout-tip
-### Guiding questions
+#### Guiding questions
 -   Would a reader be able to carry out this ANOVA as described?
 :::
 
@@ -143,15 +143,15 @@ Provide statistical model expression/code, which makes it explicit to the reader
 :::
 
 
-## Reporting study preregistration
+### Reporting study preregistration
 
-### Snippet 8
+#### Snippet 8
 
 "Hypothesis:… We aimed to test (1) whether abstract thinking is positively correlated with autonomous motivation ...
 Conclusion:… BIF scores (abstract thinking) were positively associated with trait self-control, autonomous motivation for exercise, and autonomous motivation for diet, but not with sugar or fried food consumption..."
 
 ::: callout-tip
-### Guiding questions
+#### Guiding questions
 -   Do the results reported in the study match to the hypothesis stated?
 :::
 
@@ -159,7 +159,7 @@ Conclusion:… BIF scores (abstract thinking) were positively associated with tr
 Link study outcomes explicitly to numbered hypotheses and contextualize them to the variables, to allow readers to more easily follow. State clearly any unplanned analyses or deviations from what was preregistered.
 :::
 
-## Extension excercise
+### Extension excercise
 If you want more practice at doing a preregistration, have a go at filling out a preregistration template using the platform [AsPredicted](https://aspredicted.org). A version of this extension exercise is available as a worksheet here (LINK).
 
 The aim is to increase your familiarity with the process of filling out a study preregistration and noting down any challenges while you practice. For this exercise you can draw from your own research project and have a go at filling the 11 questions in 20 minutes. 20 minutes should be sufficient time to get a taster for the process. Use the reflection questions below to help you think about your experience of completing this exercise. 
@@ -168,7 +168,7 @@ As your confidence and learning progresses you can have a go at a more comprehen
 
 
 ::: callout-tip
-### Reflection questions
+#### Reflection questions
 -   Did you go through the questions in order?
 -   Were there any questions you were not expecting?
 -   What was the most challenging part of the preregistration process?

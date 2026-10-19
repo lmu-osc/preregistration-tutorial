@@ -12,7 +12,7 @@ preregistration.
 
 ------------------------------------------------------------------------
 
-# Components of a preregistration
+## Components of a preregistration
 
 There are a number of *essential* elements within a registration
 document (with a subset of *recommended* things to also include
@@ -36,7 +36,7 @@ hypothesis-testing research. For hypothesis-generating or exploratory
 research approaches there is guidance on what to include (e.g. Dirnagl
 (2020)).
 
-## Part 1: Hypotheses
+### Part 1: Hypotheses
 
 **Essential:**
 
@@ -59,7 +59,7 @@ research approaches there is guidance on what to include (e.g. Dirnagl
 -   For studies testing hypotheses, *link* stated hypotheses to
     theoretical frameworks
 
-## Part 2: Design {#sec-part-2-design}
+### Part 2: Design {#sec-part-2-design}
 
 **Essential:**
 
@@ -72,7 +72,7 @@ research approaches there is guidance on what to include (e.g. Dirnagl
 
 -   third variables (e.g. covariates, moderators, control variables)
 
-## Part 3: Planned sample
+### Part 3: Planned sample
 
 **Essential:**
 
@@ -84,7 +84,7 @@ research approaches there is guidance on what to include (e.g. Dirnagl
 
 -   *Describe* data collection termination rule
 
-## Part 4: Exclusion criteria {#sec-part-4-exclusion-criteria}
+### Part 4: Exclusion criteria {#sec-part-4-exclusion-criteria}
 
 **Essential:**
 
@@ -106,7 +106,7 @@ research approaches there is guidance on what to include (e.g. Dirnagl
 -   *Set* fail-safe levels of exclusion at which the whole study needs
     to be stopped, altered, and restarted.
 
-## Part 5: Analysis plan
+### Part 5: Analysis plan
 
 **Essential:**
 
@@ -134,14 +134,14 @@ hypotheses section. For each one, include:
     assumptions and assumption checks for analyses and alternative plans
     for data analysis if assumptions are not met).
 
-## Additional considerations
+### Additional considerations
 
 Depending on your study type, there may be additional things to keep in
 mind as you plan your study. You'll need to determine if you need to:
 plan for multi-stage contingent experiments, anonymize your registration
 (e.g. place under embargo) or apply for ethical approval.
 
-## Preregistration vs registered reports {#sec-preregistration-vs-registered-reports}
+### Preregistration vs registered reports {#sec-preregistration-vs-registered-reports}
 
 So far content has focused on preregistration, but there is another
 related Open Science practice known as a registered report. *Registered
@@ -159,7 +159,7 @@ Some meta-science researchers are working calling for the Open Science
 community to harmonize terms to reduce ambiguity.
 :::
 
-## Preregistration templates {#sec-preregistration-templates}
+### Preregistration templates {#sec-preregistration-templates}
 
 Now that you have an overview of what things are needed in a
 preregistration, we can explore the table below of some preregistration
@@ -211,7 +211,7 @@ type of research study?
 
 ------------------------------------------------------------------------
 
-# Quick Quiz!
+## Quick Quiz!
 
 Test yourself on what you have learned in this section on the components
 of preregistration.

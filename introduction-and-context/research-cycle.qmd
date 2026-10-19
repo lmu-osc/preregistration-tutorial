@@ -2,19 +2,19 @@
 title: "Research cycle"
 ---
 
-# Research approaches 101
+## Research approaches 101
 
-## Qualitative research
+### Qualitative research
 Qualitative research approaches focus on examining the meanings, experiences, and *perspectives* of individuals or groups. Data collection involves primary, first-hand, *text-based* data that is analyzed using specific interpretive methods. Sometimes text-based data is 'coded' to identify key themes and patterns (Braun and Clarke 2008).
 
-## Review-based research
+### Review-based research
 Review-based research involves collating and *synthesizing* previously *published* work on a topic. These approaches can be used to generate *new insights* and identify *knowledge gaps*. Reviews can be more or less done *systematically*, with systematic review and meta-analyses having well-established protocols (e.g. [PRISMA guidelines](https://www.prisma-statement.org/)). 
 
-## Intervention and experimental research
+### Intervention and experimental research
 Intervention and experimental research approaches are closely related. They involve *deliberate manipulations* to a physical *entity* (e.g. individuals, groups, organisms) intended to *measure changes* to that entity. Intervention studies typically focuses on the *application* of a treatment or action to observe its effect. In experimental studies, a researcher typically observes a problem or situation, then develops a testable hypothesis from which experiments under *controlled conditions* are used to test specific *hypotheses*. Based on the outcomes, the hypothesis is adapted. A hypothesis is an unproven statement relating the connection between variables.
 
 ::: callout-note
-### Hypothesis generating vs testing
+#### Hypothesis generating vs testing
 
 Hypothesis *generating* vs *testing* are two modes of research inquiry that influence study designs and underpin the practice of study registrations. Hypothesis generating:
     -   exploratory, discovery-focused research (asks questions like:
@@ -27,14 +27,14 @@ Hypothesis testing:
 The *distinctions* between hypothesis generating vs testing research are often not clearly differentiated in *practice*, which leads to *questionable research practices* and *reduced credibility* of research.
 :::
 
-## Observational research
+### Observational research
 Observational research gathers information about individuals or populations *without manipulating* the environment or variables. Researchers observe and collect data on subjects as they *naturally occur* in their usual settings. An example of observational research:
 
-## Mixed methods research
+### Mixed methods research
 For research that adopts one or more theoretical frameworks (social and biological sciences) or data types (e.g. participant surveys, visual data, geospatial), would be described as a mixed-method approach.
 
 
-# Research approaches and preregistration
+## Research approaches and preregistration
 This page outlined 5 methodological and philosophical approaches to research sometimes referred to as "research paradigms".
 
 ::: {.callout-note title="Reflection point"}

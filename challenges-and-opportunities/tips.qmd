@@ -8,24 +8,24 @@ link to Max's dilemma
 
 ---
 
-# Practical tips
+## Practical tips
 
 As we come to the end of this tutorial, you should feel more knowledgeable and confident about the Open Science practice of preregistration and how to carry out one in your own research. Even if you are not quite ready to implement a study preregistration just yet, you should have the tools to critically evaluate your own research planning approaches and existing preregistered studies. Below are X practical tips and additional resources to help you on your next steps on your preregistration journey! 
 
 
-## Open Science Buffet 
+### Open Science Buffet 
 
-## Tip 2
+### Tip 2
 
-## Tip 3
+### Tip 3
 
-## Tip 4
+### Tip 4
 
-## Tip 5
+### Tip 5
 
 ---
 
-# Additional resources
+## Additional resources
 
 -   A [student's perspective](https://doi.org/10.1002/ece3.10023) of
     doing a registered report [@gya2023]

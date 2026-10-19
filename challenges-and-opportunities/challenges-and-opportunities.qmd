@@ -8,15 +8,15 @@ INSERT word cloud picture here of challenges from spreadsheet
 
 ------------------------------------------------------------------------
 
-# Benefits of preregistration
+## Benefits of preregistration
 
-## Improved planning and project management
+### Improved planning and project management
 
 ::: {.callout-note title="Do you remember?" collapse="true"}
 Do you remember the dilemma Max was having? Having a well thought out analysis plan with a clear decision tree would help mitigate encountering Max's situation in the future.
 :::
 
-## Clearer involvement of collaborators/project partners
+### Clearer involvement of collaborators/project partners
 
 -   You can get a badge!
 
@@ -29,28 +29,28 @@ Can you think of other benefits of preregistration in your research area?
 
 ------------------------------------------------------------------------
 
-# Challenges of preregistration
+## Challenges of preregistration
 
 There remains a number of barriers to the widespread adoption of preregistration. This section outlines some of the commonly perceived barriers and presents some solutions.
 
-## Time: "I haven't got time to do a study registration"
+### Time: "I haven't got time to do a study registration"
 
 The time and effort needed to do a preregistration is a frequently cited challenge, especially in a 'publish or perish' research culture. There is a some truth to this statement, as study planning should take time. Reframing the upfront time investment as a
 
 *Counterargument:* front-loaded effort during the planning stage can help later on during write up and during peer review.
 
-## Lack of incentives: "I don't see the point"
+### Lack of incentives: "I don't see the point"
 
 *Counterargument:* aside from individual researcher benefits (increased reflection, reduced likelihood of systematic errors), journals are increasingly prioritizing study registrations.
 
-## Overwhelm: "There is so much that goes into a study registration"
+### Overwhelm: "There is so much that goes into a study registration"
 
 *Counterargument:* templates and FAQ pages can guide you and if you
     are unable to officially register a study, adopting principles of
     study registration is a good step (e.g. Open Science Buffet
     approach, @bergma2023)
 
-## Lack of support: "No one in my team knows or cares about study
+### Lack of support: "No one in my team knows or cares about study
 registration"
 
 *Counterargument:* share resources, and suggest a group meeting to

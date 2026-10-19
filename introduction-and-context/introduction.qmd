@@ -2,19 +2,19 @@
 title: "Introduction to preregistration"
 ---
 
-# What even is preregistration?
+## What even is preregistration?
 
 When reading a typical journal article, can you tell if the research questions or hypotheses were formulated *before* or *after* the study findings were known, and does this matter? Short answer is: no you can't really tell and yes it does matter! Recognizing the difference between predictions and postdictions both as a *contributor* to and *consumer* of research is critical for transparent and credible science (Nosek et al 2018). Conflating predictions and postdictions can lead to...  Presenting postdictions as predictions can increase publishability of findings (e.g. positive and novel results) by falsely reducing uncertainty....
 
 Preregistration is a practice which aims to clarify prediction vs postdiction in a research study. This is works by producing an uneditable time-stamped document that outlines a study plan including research questions/hypotheses, research design, data analysis *before* data collection and analysis. A study preregistration is then uploaded onto a verified repository so that it can be publicly shared with others (possibly after an embargo period) (Nosek, 2018; Parsons et al. 2022). Importantly, preregistration remains agnostic when it comes to prediction vs postdiction approach to research, it aims to clearly differentiate between the two. 
 
 ::: callout-warning
-## Terminology
+### Terminology
 
 You may notice in the literature different terms relating to preregistration like *study registration*. Some researchers are advocating for a reform of terms to avoid ambiguity, as some terms can refer to different practices occurring at various stages of the research life cycle [@mayo-wilson2025]. In this tutorial, we will use the term preregistration.
 :::
 
-# Why did the practice of preregistration come about?
+## Why did the practice of preregistration come about?
 The practice of pregistration came about as a response to the credibility crisis and wider research culture (). It acknowledges the tension between researchers' motivations to advance knowledge and to obtain a sustainable career with opportunities for progression, promotion, funding and awards.
 
 The current research culture rewards study outcomes that positive and novel
@@ -27,7 +27,7 @@ Presenting postdictions as predictions can increase the attractiveness and publi
 The current research culture Preregistration as a practice should be 
 
 ::: callout-tip
-## Did you know?
+### Did you know?
 The concept of pregistration is not new! The scientist and philosopher Charles Sanders Peirce in ~1880s created a set of rules to test "the truth", with one being that hypotheses should be stated *before* data collection @peirce1883.
 :::
 
@@ -38,21 +38,21 @@ The concept of pregistration is not new! The scientist and philosopher Charles S
     *psychology* have rapidly adopted this practice
     
 ::: callout-tip
-## Did you know?
+### Did you know?
 The percentage of medical study findings reporting a significant benefit for an intervention dropped by ~50% after the year 2000 when the registry for clinical trials - [clinicaltrials.gov](https://clinicaltrials.gov/) was launched [@kaplan2015]!
 :::
     
-### The replicability crisis
+#### The replicability crisis
 
 ::: {style="text-align: center;"}
 <img src="../assets/2-research-cycle.png" style="width:50%;"/>
 :::
 
-### Questionable research practicess
+#### Questionable research practicess
 
 Questionable research practices (QRPs) are a set of *intentional* or *unintentional* behaviors where researchers distort study findings. Examples include p-hacking and HARKing (Parsons et al. 2022). We will cover the topic of QRPs in more detail in the [Questionable research practices](qrps.qmd) page.
 
-## Approaches to research
+### Approaches to research
 
 There is no single one way to do research! It all depends on what information you are trying to gather. Research can be:
 
@@ -65,7 +65,7 @@ There is no single one way to do research! It all depends on what information yo
 Being able to understand the different research approaches, study designs and key concepts will help provide context for the steps required to do a study registration.
 :::
 
-## What would you do?
+### What would you do?
 
 Imagine if your PhD lab mate Max came to you with this dilemma: "I've been analyzing the data from my first thesis chapter (which I really want to publish, as it will help with my chances of getting a post doc). One of my hypotheses is that X influences Y. I've measured many variables to test this hypothesis. However during the data analysis, results seem to show X has no effect on Y, unless I remove a variable. Do you have any suggestions of what I should do?"
 
@@ -81,5 +81,5 @@ We will revisit Max's dilemma throughout this tutorial and hopefully by the end 
 
 
 ::: callout-tip
-## Summary
+### Summary
 :::
