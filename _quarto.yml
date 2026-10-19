@@ -1,30 +1,20 @@
 # Begin Project
 project:
-  type: website
-  pre-render: wget -nc https://raw.githubusercontent.com/lmu-osc/branding-resources/refs/heads/main/lmu-osc-custom.scss
-  post-render: rm lmu-osc-custom.scss
+  type: tutorial-template
+  # FYI: the tutorial-template project type is defined in the lmu-osc/tutorial-template extension
 # End Project
 
-
 # Begin Website
+repo-url: https://github.com/lmu-osc/preregistration-tutorial
 website:
-  title: "Pregistration: the what, why and how?"
-  page-footer: 
-    center: "Copyright, 2026 Open Science Center at LMU Munich"
+  title: "Preregistration: the what, why and how?"
+  page-footer:
     border: false
-  search:
-    location: sidebar
-  repo-url: https://github.com/lmu-osc/REPO-NAME-HERE
-  repo-actions: [edit, issue]
-  back-to-top-navigation: true
-  page-navigation: true
-  favicon: assets/LMU_OSC_favicon.jpg
-  margin-header: |
-    ![](/assets/LMU_OSC_logo.svg){width="175"}
-  
-  
+    center: "© 2026 Sara Lil Middleton, Malika Ihle. Published by LMU Open Science Center. Licensed under CC BY-SA 4.0."
+  repo-url: https://github.com/lmu-osc/preregistration-tutorial
+
   navbar:
-    right: 
+    right:
       - about.qmd
     left:
       - href: index.qmd
@@ -33,52 +23,69 @@ website:
       - icon: github
         menu:
           - text: Source Code
-            url:  https://github.com/lmu-osc/REPO-NAME-HERE
+            href: https://github.com/lmu-osc/preregistration-tutorial
           - text: Report a Bug
-            url:  https://github.com/lmu-osc/REPO-NAME-HERE/issues
+            href: https://github.com/lmu-osc/preregistration-tutorial/issues
       - icon: house-heart
-        url: https://www.osc.uni-muenchen.de/index.html
-   
-        
+        url: https://www.osc.lmu.de/
+
   sidebar:
     style: "docked"
     contents:
       - text: "Overview"
         href: index.qmd
-      - section: "TOPIC 1"
+      - section: "Introduction and context"
+        href: introduction-and-context/introduction.qmd
         contents:
-          - href: TOPIC1/page1.qmd
-            text: "TOPIC1 Page1 Title"
-          - href: TOPIC1/page2.qmd
-            text: "TOPIC1 Page2 Title"
-      - section: "TOPIC 2"
+          - href: introduction-and-context/introduction.qmd
+          - href: introduction-and-context/research-cycle.qmd
+          - href: introduction-and-context/hypothesis-types.qmd
+          - href: introduction-and-context/qrps.qmd
+          - href: introduction-and-context/glossary.qmd
+      - section: "How to do a preregistration"
+        href: how-to-do-a-preregistration/preregistration-components.qmd
         contents:
-          - href: TOPIC2/page1.qmd
-            text: "TOPIC2 Page1 Title"
-          - href: TOPIC2/page2.qmd
-            text: "TOPIC2 Page2 Title"
-          - href: TOPIC2/page3.qmd
-            text: "TOPIC2 Page3 Title"
+          - href: how-to-do-a-preregistration/preregistration-components.qmd
+          - href: how-to-do-a-preregistration/page2.qmd
+          - href: how-to-do-a-preregistration/page3.qmd
+      - section: "Challenges and opportunities of preregistration"
+        href: challenges-and-opportunities/challenges-and-opportunities.qmd
+        contents:
+          - href: challenges-and-opportunities/challenges-and-opportunities.qmd
+          - href: challenges-and-opportunities/faqs.qmd
+          - href: challenges-and-opportunities/tips.qmd
+      - section: "Building a preregistration toolkit"
+        href: building-a-preregistration-toolkit/page1.qmd
+        contents:
+          - href: building-a-preregistration-toolkit/page1.qmd
+          - href: building-a-preregistration-toolkit/page2.qmd
+          - href: building-a-preregistration-toolkit/page3.qmd
+      - section: "Evaluating preregistration quality"
+        href: evaluating-preregistration-quality/toolkit.qmd
+        contents:
+          - href: evaluating-preregistration-quality/toolkit.qmd
+          - href: evaluating-preregistration-quality/page2.qmd
+          - href: evaluating-preregistration-quality/page3.qmd
 # End Website
 
+# Begin Includes
+include-in-header:
+  - file: matomo-analytics.html
+# End Includes
 
 # Begin Format
+# use only if needed. the default format for `tutorial-template` projects is tutorial-template-html+tutorial
+# we recommend just extending the definition below if you need to make format changes
 format:
-  html:
-    theme: 
-      - cosmo
-      - lmu-osc-custom.scss
-    css: 
-      - https://raw.githubusercontent.com/lmu-osc/branding-resources/refs/heads/main/lmu-osc-styles.css
-    toc: true
-    fontsize: 13pt
-    code-overflow: wrap
-    grid:
-      sidebar-width: 300px
-    include-in-header:
-      - file: matomo-analytics.html
+  tutorial-template-html+tutorial:
+    css:
+      - footer/footer-style.css
+    include-after-body:
+      - file: footer/footer.html
 # End Format
 
 # Begin Editor
 editor: source
 # End Editor
+
+bibliography: references.bib
