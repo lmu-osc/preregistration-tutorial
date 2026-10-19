@@ -12,9 +12,9 @@ This tutorial is intended to take X hours to complete.
 The tutorial is split into the following five sections:
 
 1.  [**Introduction to preregistration**](introduction-and-context/introduction.qmd) provides an introduction to the context of why preregistration exists as an open science practice. This section discusses key concepts and topics such as different research methodologies (e.g. qualitative, experimental, observational), confirmatory vs exploratory analysis, questionable research practices.
-2.  [**How to do a preregistration**](how-to-do-a-preregistration/preregistration-components.qmd) briefly outlines the essential and recommended elements to include in a study preregistration, with resources to find templates by research method.
+2.  [**How to do a preregistration**](how-to-preregister/preregistration-components.qmd) briefly outlines the essential and recommended elements to include in a study preregistration, with resources to find templates by research method.
 3.  [**Challenges and opportunities of preregistration**](challenges-and-opportunities/challenges-and-opportunities.qmd) explores the challenges and opportunities of doing a preregistration from an individual researcher perspective to the wider research ecosystem.
-4.  [**Building a preregistration toolkit**](building-a-preregistration-toolkit/page1.qmd) provides opportunities to practice improving parts of a study preregistration from research questions to analysis plans.
+4.  [**Building a preregistration toolkit**](build-a-preregistration-toolkit/page1.qmd) provides opportunities to practice improving parts of a study preregistration from research questions to analysis plans.
 5.  [**Evaluating preregistration quality**](evaluating-preregistration-quality/toolkit.qmd) provides guidance and resources to critically evaluate existing preregistration, to equip learners with the tools to complete their own study preregistration.
 
 This tutorial will take you on a journey from:

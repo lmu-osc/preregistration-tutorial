@@ -43,11 +43,11 @@ website:
           - href: introduction-and-context/qrps.qmd
           - href: introduction-and-context/glossary.qmd
       - section: "How to do a preregistration"
-        href: how-to-do-a-preregistration/preregistration-components.qmd
+        href: how-to-preregister/preregistration-components.qmd
         contents:
-          - href: how-to-do-a-preregistration/preregistration-components.qmd
-          - href: how-to-do-a-preregistration/page2.qmd
-          - href: how-to-do-a-preregistration/page3.qmd
+          - href: how-to-preregister/preregistration-components.qmd
+          - href: how-to-preregister/page2.qmd
+          - href: how-to-preregister/page3.qmd
       - section: "Challenges and opportunities of preregistration"
         href: challenges-and-opportunities/challenges-and-opportunities.qmd
         contents:
@@ -55,11 +55,11 @@ website:
           - href: challenges-and-opportunities/faqs.qmd
           - href: challenges-and-opportunities/tips.qmd
       - section: "Building a preregistration toolkit"
-        href: building-a-preregistration-toolkit/page1.qmd
+        href: build-a-preregistration-toolkit/page1.qmd
         contents:
-          - href: building-a-preregistration-toolkit/page1.qmd
-          - href: building-a-preregistration-toolkit/page2.qmd
-          - href: building-a-preregistration-toolkit/page3.qmd
+          - href: build-a-preregistration-toolkit/page1.qmd
+          - href: build-a-preregistration-toolkit/page2.qmd
+          - href: build-a-preregistration-toolkit/page3.qmd
       - section: "Evaluating preregistration quality"
         href: evaluating-preregistration-quality/toolkit.qmd
         contents:

@@ -6,7 +6,7 @@ title: "Questionable research practices and biases"
 
 From one end of the research integrity spectrum of clear misconduct (e.g. falsifying results or plagiarizing someones work) to acceptable and responsible research practices (i.e. what Open Science movement strives to create), where do the selective reporting or misrepresentations of data fit in? This grey zone of Questionable Research Practices (QRPs) of less overt and subtle behaviors (compared to misconduct) nonetheless damages the credibility of science (). The prevalence and impact of QRPs has received less attention than the clear cut examples of serious research misconduct (although see case study below)
 
-## HARKing
+## HARKing {#sec-harking}
 
 Hypothesizing after the results are known (HARKing) is a QRP where a researcher changes their hypothesis based on or informed by the results, but present their hypothesis as if it were a priori [@kerr1998].
 
@@ -25,7 +25,7 @@ Max's dilemma link
 # Researcher biases
 There are wide range of *cognitive biases* (e.g. hindsight bias, confirmatory bias, bias blind spot) that lead to systematic differences in how we perceive information and make decisions.
 
-## Hindsight bias
+## Hindsight bias {#sec-hindsight-bias}
 The "I knew it all along" is the phrase associated with hindsight bias, which is the tendency to frame *previous* decisions or events as *more predictable* after the outcome is known [@hardwicke2023].
 
 ## Confirmatory bias
@@ -54,7 +54,7 @@ The range of biases highlights that we are all human and it is important to be *
 ::: {.callout-note title="Show solution" collapse="true"}
 The correct answer is B, HARKing is a questionable research practice.
 
-*Refer back to @sec-HARKing for more information*
+*Refer back to @sec-harking for more information*
 :::
 
 2. The tendency to frame *previous* decisions or events as *more
@@ -69,6 +69,6 @@ cognitive bias?
 The answer is C. Hindsight bias can be summarized as "I knew it all
 along" type of thinking.
 
-*Refer back to @sec-Hindsight-bias for more information*
+*Refer back to @sec-hindsight-bias for more information*
 :::
 

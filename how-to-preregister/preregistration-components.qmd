@@ -59,7 +59,7 @@ research approaches there is guidance on what to include (e.g. Dirnagl
 -   For studies testing hypotheses, *link* stated hypotheses to
     theoretical frameworks
 
-## Part 2: Design
+## Part 2: Design {#sec-part-2-design}
 
 **Essential:**
 
@@ -84,7 +84,7 @@ research approaches there is guidance on what to include (e.g. Dirnagl
 
 -   *Describe* data collection termination rule
 
-## Part 4: Exclusion criteria
+## Part 4: Exclusion criteria {#sec-part-4-exclusion-criteria}
 
 **Essential:**
 
@@ -141,7 +141,7 @@ mind as you plan your study. You'll need to determine if you need to:
 plan for multi-stage contingent experiments, anonymize your registration
 (e.g. place under embargo) or apply for ethical approval.
 
-## Preregistration vs registered reports
+## Preregistration vs registered reports {#sec-preregistration-vs-registered-reports}
 
 So far content has focused on preregistration, but there is another
 related Open Science practice known as a registered report. *Registered
@@ -159,7 +159,7 @@ Some meta-science researchers are working calling for the Open Science
 community to harmonize terms to reduce ambiguity.
 :::
 
-## Preregistration templates
+## Preregistration templates {#sec-preregistration-templates}
 
 Now that you have an overview of what things are needed in a
 preregistration, we can explore the table below of some preregistration
@@ -222,7 +222,7 @@ of preregistration.
 ::: {.callout-note title="Show solution" collapse="true"}
 False (any covariates should be listed too!)
 
-*Refer back to @sec-part-2:-design for more information*
+*Refer back to @sec-part-2-design for more information*
 :::
 
 2.  True or false? Preregistration involves stating how you will handle
@@ -231,7 +231,7 @@ False (any covariates should be listed too!)
 ::: {.callout-note title="Show solution" collapse="true"}
 True
 
-*Refer back to @sec-part-4:-exclusion-criteria for more information*
+*Refer back to @sec-part-4-exclusion-criteria for more information*
 :::
 
 3.  Which repository has a more generalist preregistration template:

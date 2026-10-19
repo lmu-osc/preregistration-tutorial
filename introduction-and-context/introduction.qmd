@@ -50,7 +50,7 @@ The percentage of medical study findings reporting a significant benefit for an 
 
 ### Questionable research practicess
 
-Questionable research practices (QRPs) are a set of *intentional* or *unintentional* behaviors where researchers distort study findings. Examples include p-hacking and HARKing (Parsons et al. 2022). We will cover the topic of QRPs in more detail in @sec-QRPs.
+Questionable research practices (QRPs) are a set of *intentional* or *unintentional* behaviors where researchers distort study findings. Examples include p-hacking and HARKing (Parsons et al. 2022). We will cover the topic of QRPs in more detail in the [Questionable research practices](qrps.qmd) page.
 
 ## Approaches to research
 
