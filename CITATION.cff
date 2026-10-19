@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you refer to this tutorial, please cite it as below."
+title: "Preregistration: the what, why and how?"
+authors:
+  - family-names: Middleton
+    given-names: Sara Lil
+    orcid: https://orcid.org/0000-0001-5307-8029
+    affiliation: LMU Open Science Center
+  - family-names: Ihle
+    given-names: Malika
+    affiliation: LMU Open Science Center
+version: 0.0.1
+date-released: 2026-01-29
+repository-code: https://github.com/lmu-osc/preregistration-tutorial
+url: https://lmu-osc.github.io/preregistration-tutorial/
