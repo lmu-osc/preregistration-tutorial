@@ -72,11 +72,11 @@
     ]
   },
   {
-    "objectID": "challenges-and-opportunities/tips.html#open-science-buffet",
-    "href": "challenges-and-opportunities/tips.html#open-science-buffet",
+    "objectID": "challenges-and-opportunities/tips.html#practical-tips",
+    "href": "challenges-and-opportunities/tips.html#practical-tips",
     "title": "Final recap, practical tips and resources",
-    "section": "Open Science Buffet",
-    "text": "Open Science Buffet",
+    "section": "Practical tips",
+    "text": "Practical tips\nAs we come to the end of this tutorial, you should feel more knowledgeable and confident about the Open Science practice of preregistration and how to carry out one in your own research. Even if you are not quite ready to implement a study preregistration just yet, you should have the tools to critically evaluate your own research planning approaches and existing preregistered studies. Below are X practical tips and additional resources to help you on your next steps on your preregistration journey!\n\nOpen Science Buffet\n\n\nTip 2\n\n\nTip 3\n\n\nTip 4\n\n\nTip 5",
     "crumbs": [
       "Home",
       "Challenges and opportunities of preregistration",
@@ -84,47 +84,11 @@
     ]
   },
   {
-    "objectID": "challenges-and-opportunities/tips.html#tip-2",
-    "href": "challenges-and-opportunities/tips.html#tip-2",
+    "objectID": "challenges-and-opportunities/tips.html#additional-resources",
+    "href": "challenges-and-opportunities/tips.html#additional-resources",
     "title": "Final recap, practical tips and resources",
-    "section": "Tip 2",
-    "text": "Tip 2",
-    "crumbs": [
-      "Home",
-      "Challenges and opportunities of preregistration",
-      "Final recap, practical tips and resources"
-    ]
-  },
-  {
-    "objectID": "challenges-and-opportunities/tips.html#tip-3",
-    "href": "challenges-and-opportunities/tips.html#tip-3",
-    "title": "Final recap, practical tips and resources",
-    "section": "Tip 3",
-    "text": "Tip 3",
-    "crumbs": [
-      "Home",
-      "Challenges and opportunities of preregistration",
-      "Final recap, practical tips and resources"
-    ]
-  },
-  {
-    "objectID": "challenges-and-opportunities/tips.html#tip-4",
-    "href": "challenges-and-opportunities/tips.html#tip-4",
-    "title": "Final recap, practical tips and resources",
-    "section": "Tip 4",
-    "text": "Tip 4",
-    "crumbs": [
-      "Home",
-      "Challenges and opportunities of preregistration",
-      "Final recap, practical tips and resources"
-    ]
-  },
-  {
-    "objectID": "challenges-and-opportunities/tips.html#tip-5",
-    "href": "challenges-and-opportunities/tips.html#tip-5",
-    "title": "Final recap, practical tips and resources",
-    "section": "Tip 5",
-    "text": "Tip 5",
+    "section": "Additional resources",
+    "text": "Additional resources\n\nA student’s perspective of doing a registered report (gya2023?)\nOSF community of support:\nDiscussion about merits vs limits of study peregistration from IEEE Visualization Conference 2022",
     "crumbs": [
       "Home",
       "Challenges and opportunities of preregistration",
@@ -136,91 +100,81 @@
     "href": "how-to-preregister/page2.html",
     "title": "Page Title Here",
     "section": "",
-    "text": "The headers below cause the table of contents/dropdown on the right to be visible."
+    "text": "The headers below cause the table of contents/dropdown on the right to be visible.",
+    "crumbs": [
+      "Home",
+      "How to do a preregistration",
+      "Page Title Here"
+    ]
   },
   {
     "objectID": "how-to-preregister/page2.html#level-two",
     "href": "how-to-preregister/page2.html#level-two",
     "title": "Page Title Here",
     "section": "Level Two",
-    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time"
+    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time",
+    "crumbs": [
+      "Home",
+      "How to do a preregistration",
+      "Page Title Here"
+    ]
   },
   {
     "objectID": "how-to-preregister/page2.html#another-level-two",
     "href": "how-to-preregister/page2.html#another-level-two",
     "title": "Page Title Here",
     "section": "Another Level Two",
-    "text": "Another Level Two"
+    "text": "Another Level Two",
+    "crumbs": [
+      "Home",
+      "How to do a preregistration",
+      "Page Title Here"
+    ]
   },
   {
     "objectID": "how-to-preregister/page2.html#level-two-1",
     "href": "how-to-preregister/page2.html#level-two-1",
     "title": "Page Title Here",
     "section": "Level Two",
-    "text": "Level Two"
+    "text": "Level Two",
+    "crumbs": [
+      "Home",
+      "How to do a preregistration",
+      "Page Title Here"
+    ]
   },
   {
     "objectID": "how-to-preregister/preregistration-components.html",
     "href": "how-to-preregister/preregistration-components.html",
     "title": "Components of a preregistration",
     "section": "",
-    "text": "Recap: In the introduction we covered the context and rationale of preregistration. Here we will learn what the practical steps involved are and what information is required to complete a study preregistration."
+    "text": "Recap: In the introduction we covered the context and rationale of preregistration. Here we will learn what the practical steps involved are and what information is required to complete a study preregistration.",
+    "crumbs": [
+      "Home",
+      "How to do a preregistration"
+    ]
   },
   {
-    "objectID": "how-to-preregister/preregistration-components.html#part-1-hypotheses",
-    "href": "how-to-preregister/preregistration-components.html#part-1-hypotheses",
+    "objectID": "how-to-preregister/preregistration-components.html#components-of-a-preregistration",
+    "href": "how-to-preregister/preregistration-components.html#components-of-a-preregistration",
     "title": "Components of a preregistration",
-    "section": "Part 1: Hypotheses",
-    "text": "Part 1: Hypotheses\nEssential:\n\nState your research questions clearly\nDescribe the (numbered) hypotheses in the context of your variables\nFor interaction effects, describe the expected shape of the interactions.\nIf you are manipulating a variable, make predictions for successful check variables or explain why no manipulation check is included.\n\nRecommendations:\n\nAdding a table/figure to describe complex interaction\nFor studies testing hypotheses, link stated hypotheses to theoretical frameworks"
+    "section": "Components of a preregistration",
+    "text": "Components of a preregistration\nThere are a number of essential elements within a registration document (with a subset of recommended things to also include (stefan2023?)):\n\n1 Hypotheses\n2 Design\n3 Planned sample\n4 Exclusion criteria\n5 Analysis plan\n\n\n\n\n\n\n\nNote\n\n\n\nThese mirror some of the stages in the research life cycle we have seen earlier. There are also additional recommendations that can be added to registrations.\n\n\nWe will go through each element in turn. Note that the five preregistration components detailed below are more focused for hypothesis-testing research. For hypothesis-generating or exploratory research approaches there is guidance on what to include (e.g. Dirnagl (2020)).\n\nPart 1: Hypotheses\nEssential:\n\nState your research questions clearly\nDescribe the (numbered) hypotheses in the context of your variables\nFor interaction effects, describe the expected shape of the interactions.\nIf you are manipulating a variable, make predictions for successful check variables or explain why no manipulation check is included.\n\nRecommendations:\n\nAdding a table/figure to describe complex interaction\nFor studies testing hypotheses, link stated hypotheses to theoretical frameworks\n\n\n\nPart 2: Design\nEssential:\nList of variables based on your hypotheses:\n\nIndependent variables (including levels, within or between participants, relationship between them (e.g. nested))\ndependent variables or variables in a correlational design\nthird variables (e.g. covariates, moderators, control variables)\n\n\n\nPart 3: Planned sample\nEssential:\n\nIf applicable, state any pre-selection rules (e.g. age limits)\nIndicate where, from whom and how the data will be collected\nJustify planned sample size (e.g. power analysis)\nDescribe data collection termination rule\n\n\n\nPart 4: Exclusion criteria\nEssential:\nDescribe anticipated specific data exclusion criteria such as:\n\nmissing, erroneous, or overly consistent responses\nfailing check-tests or suspicion probes\ndemographic exclusions\ndata-based outlier criteria (e.g expected variable ranges)\nmethod-based outlier criteria (e.g. too short or long response times)\n\nRecommendations:\n\nSet fail-safe levels of exclusion at which the whole study needs to be stopped, altered, and restarted.\n\n\n\nPart 5: Analysis plan\nEssential:\nDescribe the analyses that will test each main prediction from the hypotheses section. For each one, include:\n\nrelevant variables and how they are calculated\nstatistical technique\neach variable’s role in the technique (e.g., independent variable, dependent variable and covariates)\nrationale for each covariate used, if any\nif using techniques other than null hypothesis testing (e.g. Bayesian statistics), describe your criteria calculation of prior values or distributions\n\nRecommendations:\n\nSpecify contingencies and assumptions (e.g. method of correcting for multiple testing, missing data handling, data transformations (e.g. Shapiro-Wilk’s test for normal/Gaussian distribution), assumptions and assumption checks for analyses and alternative plans for data analysis if assumptions are not met).\n\n\n\nAdditional considerations\nDepending on your study type, there may be additional things to keep in mind as you plan your study. You’ll need to determine if you need to: plan for multi-stage contingent experiments, anonymize your registration (e.g. place under embargo) or apply for ethical approval.\n\n\nPreregistration vs registered reports\nSo far content has focused on preregistration, but there is another related Open Science practice known as a registered report. Registered reports are a publishing format where a study undergoes two stages of peer review: stage 1: introduction and methods in advance of data collection/analysis and stage 2: which includes the full study findings including results/discussion (Parsons et al. 2022). Registered reports can help safeguard against finding potential study design issues after data collection.\n\n\n\n\n\n\nWarning\n\n\n\nYou may come across registered reports being described in the literature as “two-stage review with in-principle acceptance” (mayo-wilson2025?). Some meta-science researchers are working calling for the Open Science community to harmonize terms to reduce ambiguity.\n\n\n\n\nPreregistration templates\nNow that you have an overview of what things are needed in a preregistration, we can explore the table below of some preregistration templates.\n\nAdapted from (pennington?) and (stewart?) \n\n\n\nTemplate\n\nAsPredicted\nOpen Science Framework (OSF)\nPROSPERO\nPreregistration in social psychology\nBio-protocol\n\n\n\nDescription\n\nStandardized template\nMultiple templates for many study types\nStudy protocols for systematic reviews\nGuidelines\nOnline peer-reviewed protocol journal\n\n\n\nDiscipline/study type\n\nQuantitative/experimental studies\nWide-ranging\nHealth related\nQuantitative/experimental social psychology studies\nBiological sciences\n\n\n\n\n\n\n\n\n\nNoteReflection point?\n\n\n\nThinking about your research area and any institutional policies or community standards, which template(s) do you think fit closer to your type of research study?",
+    "crumbs": [
+      "Home",
+      "How to do a preregistration"
+    ]
   },
   {
-    "objectID": "how-to-preregister/preregistration-components.html#part-2-design",
-    "href": "how-to-preregister/preregistration-components.html#part-2-design",
+    "objectID": "how-to-preregister/preregistration-components.html#quick-quiz",
+    "href": "how-to-preregister/preregistration-components.html#quick-quiz",
     "title": "Components of a preregistration",
-    "section": "Part 2: Design",
-    "text": "Part 2: Design\nEssential:\nList of variables based on your hypotheses:\n\nIndependent variables (including levels, within or between participants, relationship between them (e.g. nested))\ndependent variables or variables in a correlational design\nthird variables (e.g. covariates, moderators, control variables)"
-  },
-  {
-    "objectID": "how-to-preregister/preregistration-components.html#part-3-planned-sample",
-    "href": "how-to-preregister/preregistration-components.html#part-3-planned-sample",
-    "title": "Components of a preregistration",
-    "section": "Part 3: Planned sample",
-    "text": "Part 3: Planned sample\nEssential:\n\nIf applicable, state any pre-selection rules (e.g. age limits)\nIndicate where, from whom and how the data will be collected\nJustify planned sample size (e.g. power analysis)\nDescribe data collection termination rule"
-  },
-  {
-    "objectID": "how-to-preregister/preregistration-components.html#part-4-exclusion-criteria",
-    "href": "how-to-preregister/preregistration-components.html#part-4-exclusion-criteria",
-    "title": "Components of a preregistration",
-    "section": "Part 4: Exclusion criteria",
-    "text": "Part 4: Exclusion criteria\nEssential:\nDescribe anticipated specific data exclusion criteria such as:\n\nmissing, erroneous, or overly consistent responses\nfailing check-tests or suspicion probes\ndemographic exclusions\ndata-based outlier criteria (e.g expected variable ranges)\nmethod-based outlier criteria (e.g. too short or long response times)\n\nRecommendations:\n\nSet fail-safe levels of exclusion at which the whole study needs to be stopped, altered, and restarted."
-  },
-  {
-    "objectID": "how-to-preregister/preregistration-components.html#part-5-analysis-plan",
-    "href": "how-to-preregister/preregistration-components.html#part-5-analysis-plan",
-    "title": "Components of a preregistration",
-    "section": "Part 5: Analysis plan",
-    "text": "Part 5: Analysis plan\nEssential:\nDescribe the analyses that will test each main prediction from the hypotheses section. For each one, include:\n\nrelevant variables and how they are calculated\nstatistical technique\neach variable’s role in the technique (e.g., independent variable, dependent variable and covariates)\nrationale for each covariate used, if any\nif using techniques other than null hypothesis testing (e.g. Bayesian statistics), describe your criteria calculation of prior values or distributions\n\nRecommendations:\n\nSpecify contingencies and assumptions (e.g. method of correcting for multiple testing, missing data handling, data transformations (e.g. Shapiro-Wilk’s test for normal/Gaussian distribution), assumptions and assumption checks for analyses and alternative plans for data analysis if assumptions are not met)."
-  },
-  {
-    "objectID": "how-to-preregister/preregistration-components.html#additional-considerations",
-    "href": "how-to-preregister/preregistration-components.html#additional-considerations",
-    "title": "Components of a preregistration",
-    "section": "Additional considerations",
-    "text": "Additional considerations\nDepending on your study type, there may be additional things to keep in mind as you plan your study. You’ll need to determine if you need to: plan for multi-stage contingent experiments, anonymize your registration (e.g. place under embargo) or apply for ethical approval."
-  },
-  {
-    "objectID": "how-to-preregister/preregistration-components.html#preregistration-vs-registered-reports",
-    "href": "how-to-preregister/preregistration-components.html#preregistration-vs-registered-reports",
-    "title": "Components of a preregistration",
-    "section": "Preregistration vs registered reports",
-    "text": "Preregistration vs registered reports\nSo far content has focused on preregistration, but there is another related Open Science practice known as a registered report. Registered reports are a publishing format where a study undergoes two stages of peer review: stage 1: introduction and methods in advance of data collection/analysis and stage 2: which includes the full study findings including results/discussion (Parsons et al. 2022). Registered reports can help safeguard against finding potential study design issues after data collection.\n\n\n\n\n\n\nWarning\n\n\n\nYou may come across registered reports being described in the literature as “two-stage review with in-principle acceptance” (mayo-wilson2025?). Some meta-science researchers are working calling for the Open Science community to harmonize terms to reduce ambiguity."
-  },
-  {
-    "objectID": "how-to-preregister/preregistration-components.html#preregistration-templates",
-    "href": "how-to-preregister/preregistration-components.html#preregistration-templates",
-    "title": "Components of a preregistration",
-    "section": "Preregistration templates",
-    "text": "Preregistration templates\nNow that you have an overview of what things are needed in a preregistration, we can explore the table below of some preregistration templates.\n\nAdapted from (pennington?) and (stewart?) \n\n\n\nTemplate\n\nAsPredicted\nOpen Science Framework (OSF)\nPROSPERO\nPreregistration in social psychology\nBio-protocol\n\n\n\nDescription\n\nStandardized template\nMultiple templates for many study types\nStudy protocols for systematic reviews\nGuidelines\nOnline peer-reviewed protocol journal\n\n\n\nDiscipline/study type\n\nQuantitative/experimental studies\nWide-ranging\nHealth related\nQuantitative/experimental social psychology studies\nBiological sciences\n\n\n\n\n\n\n\n\n\nNoteReflection point?\n\n\n\nThinking about your research area and any institutional policies or community standards, which template(s) do you think fit closer to your type of research study?"
+    "section": "Quick Quiz!",
+    "text": "Quick Quiz!\nTest yourself on what you have learned in this section on the components of preregistration.\n\nTrue or false? When describing your design plan you only need to describe your independent and dependent variables.\n\n\n\n\n\n\n\nNoteShow solution\n\n\n\n\n\nFalse (any covariates should be listed too!)\nRefer back to Section 1.2 for more information\n\n\n\n\nTrue or false? Preregistration involves stating how you will handle missing data\n\n\n\n\n\n\n\nNoteShow solution\n\n\n\n\n\nTrue\nRefer back to Section 1.4 for more information\n\n\n\n\nWhich repository has a more generalist preregistration template: PROSPERO, Open Science Foundation (OSF) or Bio-protocol?\n\n\n\n\n\n\n\nNoteShow solution\n\n\n\n\n\nOpen Science Foundation (OSF)\nRefer back to Section 1.8 table for more information\n\n\n\n\nRegistered reports have two peer review stages that occur:\n\n\n\nAfter developing an idea and after writing up study findings\nAfter study plan and after collecting and analyzing data\nAfter study plan and after writing up study findings\n\n\n\n\n\n\n\nNoteShow solution\n\n\n\n\n\n\nAfter study plan and after writing up study findings\n\nRefer back to Section 1.7 for more information",
+    "crumbs": [
+      "Home",
+      "How to do a preregistration"
+    ]
   },
   {
     "objectID": "evaluating-preregistration-quality/page3.html",
@@ -275,56 +229,92 @@
     "href": "build-a-preregistration-toolkit/page1.html",
     "title": "Page Title Here",
     "section": "",
-    "text": "The headers below cause the table of contents/dropdown on the right to be visible."
+    "text": "The headers below cause the table of contents/dropdown on the right to be visible.",
+    "crumbs": [
+      "Home",
+      "Building a preregistration toolkit"
+    ]
   },
   {
     "objectID": "build-a-preregistration-toolkit/page1.html#level-two",
     "href": "build-a-preregistration-toolkit/page1.html#level-two",
     "title": "Page Title Here",
     "section": "Level Two",
-    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time"
+    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time",
+    "crumbs": [
+      "Home",
+      "Building a preregistration toolkit"
+    ]
   },
   {
     "objectID": "build-a-preregistration-toolkit/page1.html#another-level-two",
     "href": "build-a-preregistration-toolkit/page1.html#another-level-two",
     "title": "Page Title Here",
     "section": "Another Level Two",
-    "text": "Another Level Two"
+    "text": "Another Level Two",
+    "crumbs": [
+      "Home",
+      "Building a preregistration toolkit"
+    ]
   },
   {
     "objectID": "build-a-preregistration-toolkit/page1.html#level-two-1",
     "href": "build-a-preregistration-toolkit/page1.html#level-two-1",
     "title": "Page Title Here",
     "section": "Level Two",
-    "text": "Level Two"
+    "text": "Level Two",
+    "crumbs": [
+      "Home",
+      "Building a preregistration toolkit"
+    ]
   },
   {
     "objectID": "build-a-preregistration-toolkit/page3.html",
     "href": "build-a-preregistration-toolkit/page3.html",
     "title": "Page Title Here",
     "section": "",
-    "text": "The headers below cause the table of contents/dropdown on the right to be visible."
+    "text": "The headers below cause the table of contents/dropdown on the right to be visible.",
+    "crumbs": [
+      "Home",
+      "Building a preregistration toolkit",
+      "Page Title Here"
+    ]
   },
   {
     "objectID": "build-a-preregistration-toolkit/page3.html#level-two",
     "href": "build-a-preregistration-toolkit/page3.html#level-two",
     "title": "Page Title Here",
     "section": "Level Two",
-    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time"
+    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time",
+    "crumbs": [
+      "Home",
+      "Building a preregistration toolkit",
+      "Page Title Here"
+    ]
   },
   {
     "objectID": "build-a-preregistration-toolkit/page3.html#another-level-two",
     "href": "build-a-preregistration-toolkit/page3.html#another-level-two",
     "title": "Page Title Here",
     "section": "Another Level Two",
-    "text": "Another Level Two"
+    "text": "Another Level Two",
+    "crumbs": [
+      "Home",
+      "Building a preregistration toolkit",
+      "Page Title Here"
+    ]
   },
   {
     "objectID": "build-a-preregistration-toolkit/page3.html#level-two-1",
     "href": "build-a-preregistration-toolkit/page3.html#level-two-1",
     "title": "Page Title Here",
     "section": "Level Two",
-    "text": "Level Two"
+    "text": "Level Two",
+    "crumbs": [
+      "Home",
+      "Building a preregistration toolkit",
+      "Page Title Here"
+    ]
   },
   {
     "objectID": "introduction-and-context/hypothesis-types.html",
@@ -387,11 +377,11 @@
     ]
   },
   {
-    "objectID": "introduction-and-context/qrps.html#harking",
-    "href": "introduction-and-context/qrps.html#harking",
+    "objectID": "introduction-and-context/qrps.html#questionable-research-practices-the-grey-zone",
+    "href": "introduction-and-context/qrps.html#questionable-research-practices-the-grey-zone",
     "title": "Questionable research practices and biases",
     "section": "",
-    "text": "Hypothesizing after the results are known (HARKing) is a QRP where a researcher changes their hypothesis based on or informed by the results, but present their hypothesis as if it were a priori (kerr1998?).",
+    "text": "From one end of the research integrity spectrum of clear misconduct (e.g. falsifying results or plagiarizing someones work) to acceptable and responsible research practices (i.e. what Open Science movement strives to create), where do the selective reporting or misrepresentations of data fit in? This grey zone of Questionable Research Practices (QRPs) of less overt and subtle behaviors (compared to misconduct) nonetheless damages the credibility of science (). The prevalence and impact of QRPs has received less attention than the clear cut examples of serious research misconduct (although see case study below)\n\n\nHypothesizing after the results are known (HARKing) is a QRP where a researcher changes their hypothesis based on or informed by the results, but present their hypothesis as if it were a priori (kerr1998?).\n\n\n\np-Hacking is a QRP which describes the many ways researchers can artificially increase the likelihood of obtaining a statistically significant result (pennington2023?).\n\n\n\n\n\n\nNoteCase study\n\n\n\nhttps://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339056\n\n\n\n\n\n\n\n\nNote\n\n\n\nMax’s dilemma link",
     "crumbs": [
       "Home",
       "Introduction and context",
@@ -399,11 +389,11 @@
     ]
   },
   {
-    "objectID": "introduction-and-context/qrps.html#p-hacking",
-    "href": "introduction-and-context/qrps.html#p-hacking",
+    "objectID": "introduction-and-context/qrps.html#researcher-biases",
+    "href": "introduction-and-context/qrps.html#researcher-biases",
     "title": "Questionable research practices and biases",
-    "section": "",
-    "text": "p-Hacking is a QRP which describes the many ways researchers can artificially increase the likelihood of obtaining a statistically significant result (pennington2023?).\n\n\n\n\n\n\nNoteCase study\n\n\n\nhttps://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339056\n\n\n\n\n\n\n\n\nNote\n\n\n\nMax’s dilemma link",
+    "section": "Researcher biases",
+    "text": "Researcher biases\nThere are wide range of cognitive biases (e.g. hindsight bias, confirmatory bias, bias blind spot) that lead to systematic differences in how we perceive information and make decisions.\n\nHindsight bias\nThe “I knew it all along” is the phrase associated with hindsight bias, which is the tendency to frame previous decisions or events as more predictable after the outcome is known (hardwicke2023?).\n\n\nConfirmatory bias\nThe tendency to seek out, interpret, favor and recall information in a way that supports one’s prior values, beliefs, expectations, or hypothesis (parsons2022?).\n\n\nBias blind spot\nThe lack of awareness of how one’s decisions are shaped by bias (hardwicke2023?).\nThe range of biases highlights that we are all human and it is important to be aware of how cognitive biases influence how we do our research!",
     "crumbs": [
       "Home",
       "Introduction and context",
@@ -411,11 +401,11 @@
     ]
   },
   {
-    "objectID": "introduction-and-context/qrps.html#hindsight-bias",
-    "href": "introduction-and-context/qrps.html#hindsight-bias",
+    "objectID": "introduction-and-context/qrps.html#summary",
+    "href": "introduction-and-context/qrps.html#summary",
     "title": "Questionable research practices and biases",
-    "section": "Hindsight bias",
-    "text": "Hindsight bias\nThe “I knew it all along” is the phrase associated with hindsight bias, which is the tendency to frame previous decisions or events as more predictable after the outcome is known (hardwicke2023?).",
+    "section": "Summary",
+    "text": "Summary",
     "crumbs": [
       "Home",
       "Introduction and context",
@@ -423,23 +413,11 @@
     ]
   },
   {
-    "objectID": "introduction-and-context/qrps.html#confirmatory-bias",
-    "href": "introduction-and-context/qrps.html#confirmatory-bias",
+    "objectID": "introduction-and-context/qrps.html#quick-quiz",
+    "href": "introduction-and-context/qrps.html#quick-quiz",
     "title": "Questionable research practices and biases",
-    "section": "Confirmatory bias",
-    "text": "Confirmatory bias\nThe tendency to seek out, interpret, favor and recall information in a way that supports one’s prior values, beliefs, expectations, or hypothesis (parsons2022?).",
-    "crumbs": [
-      "Home",
-      "Introduction and context",
-      "Questionable research practices and biases"
-    ]
-  },
-  {
-    "objectID": "introduction-and-context/qrps.html#bias-blind-spot",
-    "href": "introduction-and-context/qrps.html#bias-blind-spot",
-    "title": "Questionable research practices and biases",
-    "section": "Bias blind spot",
-    "text": "Bias blind spot\nThe lack of awareness of how one’s decisions are shaped by bias (hardwicke2023?).\nThe range of biases highlights that we are all human and it is important to be aware of how cognitive biases influence how we do our research!",
+    "section": "Quick Quiz!",
+    "text": "Quick Quiz!\n\nHARKing - Hypothesizing after the results are known is a:\n\n\nA. type of cognitive bias\nB. questionable research practice\nC. name of a website to report research misconduct\n\n\n\n\n\n\n\nNoteShow solution\n\n\n\n\n\nThe correct answer is B, HARKing is a questionable research practice.\nRefer back to Section 1.1 for more information\n\n\n\n\nThe tendency to frame previous decisions or events as more predictable after the outcome is known, is an example of which type of cognitive bias?\n\n\nA. confirmatory bias\nB. bias blind spot\nC. hindsight bias\n\n\n\n\n\n\n\nNoteShow solution\n\n\n\n\n\nThe answer is C. Hindsight bias can be summarized as “I knew it all along” type of thinking.\nRefer back to Section 2.1 for more information",
     "crumbs": [
       "Home",
       "Introduction and context",
@@ -620,22 +598,22 @@
     ]
   },
   {
-    "objectID": "introduction-and-context/introduction.html#approaches-to-research",
-    "href": "introduction-and-context/introduction.html#approaches-to-research",
+    "objectID": "introduction-and-context/introduction.html#what-even-is-preregistration",
+    "href": "introduction-and-context/introduction.html#what-even-is-preregistration",
     "title": "Introduction to preregistration",
-    "section": "Approaches to research",
-    "text": "Approaches to research\nThere is no single one way to do research! It all depends on what information you are trying to gather. Research can be:\n\nQualitative (interview study, focus groups, ethnographic)\nReview-based (systematic, narrative)\nIntervention/experimental (randomized control trials, factorial design)\nObservational (case study, natural experiment, longitudinal)\n\n\n\n\n\n\n\nNoteWhat is your research approach?\n\n\n\nBeing able to understand the different research approaches, study designs and key concepts will help provide context for the steps required to do a study registration.",
+    "section": "",
+    "text": "When reading a typical journal article, can you tell if the research questions or hypotheses were formulated before or after the study findings were known, and does this matter? Short answer is: no you can’t really tell and yes it does matter! Recognizing the difference between predictions and postdictions both as a contributor to and consumer of research is critical for transparent and credible science (Nosek et al 2018). Conflating predictions and postdictions can lead to… Presenting postdictions as predictions can increase publishability of findings (e.g. positive and novel results) by falsely reducing uncertainty….\nPreregistration is a practice which aims to clarify prediction vs postdiction in a research study. This is works by producing an uneditable time-stamped document that outlines a study plan including research questions/hypotheses, research design, data analysis before data collection and analysis. A study preregistration is then uploaded onto a verified repository so that it can be publicly shared with others (possibly after an embargo period) (Nosek, 2018; Parsons et al. 2022). Importantly, preregistration remains agnostic when it comes to prediction vs postdiction approach to research, it aims to clearly differentiate between the two.\n\n\n\n\n\n\nWarningTerminology\n\n\n\nYou may notice in the literature different terms relating to preregistration like study registration. Some researchers are advocating for a reform of terms to avoid ambiguity, as some terms can refer to different practices occurring at various stages of the research life cycle (mayo-wilson2025?). In this tutorial, we will use the term preregistration.",
     "crumbs": [
       "Home",
       "Introduction and context"
     ]
   },
   {
-    "objectID": "introduction-and-context/introduction.html#what-would-you-do",
-    "href": "introduction-and-context/introduction.html#what-would-you-do",
+    "objectID": "introduction-and-context/introduction.html#why-did-the-practice-of-preregistration-come-about",
+    "href": "introduction-and-context/introduction.html#why-did-the-practice-of-preregistration-come-about",
     "title": "Introduction to preregistration",
-    "section": "What would you do?",
-    "text": "What would you do?\nImagine if your PhD lab mate Max came to you with this dilemma: “I’ve been analyzing the data from my first thesis chapter (which I really want to publish, as it will help with my chances of getting a post doc). One of my hypotheses is that X influences Y. I’ve measured many variables to test this hypothesis. However during the data analysis, results seem to show X has no effect on Y, unless I remove a variable. Do you have any suggestions of what I should do?”\nWhat would you recommend Max does from the options listed below? A) Remove that variable from the analysis B) Tweak the hypothesis to match the results C) Collect more data in the hope, a larger sample size will show an effect D) Try out a new statistical test to see if there is a significant effect E) Leave that variable in and write up the results as they are\nWe will revisit Max’s dilemma throughout this tutorial and hopefully by the end you will be more confident at identifying potential issues and recognize how preregistration can help safeguard against questionable research practice and promote more credible research.\n\n\n\n\n\n\nTipSummary",
+    "section": "Why did the practice of preregistration come about?",
+    "text": "Why did the practice of preregistration come about?\nThe practice of pregistration came about as a response to the credibility crisis and wider research culture (). It acknowledges the tension between researchers’ motivations to advance knowledge and to obtain a sustainable career with opportunities for progression, promotion, funding and awards.\nThe current research culture rewards study outcomes that positive and novel\nThe lack of clarity between postdiction and prediction creates opportunities for….\nprovides the opportunity to select, rationalize, and report tests that maximize reward over accuracy. Moreover, good intentions are not sufficient to overcome the fallibility of memory, motivated reasoning, and cognitive biases that can occur outside of conscious awareness or control\nPresenting postdictions as predictions can increase the attractiveness and publishability of findings by falsely reducing uncertainty. The current research culture Preregistration as a practice should be\n\n\n\n\n\n\nTipDid you know?\n\n\n\nThe concept of pregistration is not new! The scientist and philosopher Charles Sanders Peirce in ~1880s created a set of rules to test “the truth”, with one being that hypotheses should be stated before data collection (peirce1883?).\n\n\n\nOne of the earliest formal implementations of registrations comes from medical clinical trials.\nMore recently, researchers and journals in the field of psychology have rapidly adopted this practice\n\n\n\n\n\n\n\nTipDid you know?\n\n\n\nThe percentage of medical study findings reporting a significant benefit for an intervention dropped by ~50% after the year 2000 when the registry for clinical trials - clinicaltrials.gov was launched (kaplan2015?)!\n\n\n\nThe replicability crisis\n\n\n\n\n\nQuestionable research practicess\nQuestionable research practices (QRPs) are a set of intentional or unintentional behaviors where researchers distort study findings. Examples include p-hacking and HARKing (Parsons et al. 2022). We will cover the topic of QRPs in more detail in the Questionable research practices page.\n\n\nApproaches to research\nThere is no single one way to do research! It all depends on what information you are trying to gather. Research can be:\n\nQualitative (interview study, focus groups, ethnographic)\nReview-based (systematic, narrative)\nIntervention/experimental (randomized control trials, factorial design)\nObservational (case study, natural experiment, longitudinal)\n\n\n\n\n\n\n\nNoteWhat is your research approach?\n\n\n\nBeing able to understand the different research approaches, study designs and key concepts will help provide context for the steps required to do a study registration.\n\n\n\n\nWhat would you do?\nImagine if your PhD lab mate Max came to you with this dilemma: “I’ve been analyzing the data from my first thesis chapter (which I really want to publish, as it will help with my chances of getting a post doc). One of my hypotheses is that X influences Y. I’ve measured many variables to test this hypothesis. However during the data analysis, results seem to show X has no effect on Y, unless I remove a variable. Do you have any suggestions of what I should do?”\nWhat would you recommend Max does from the options listed below? A) Remove that variable from the analysis B) Tweak the hypothesis to match the results C) Collect more data in the hope, a larger sample size will show an effect D) Try out a new statistical test to see if there is a significant effect E) Leave that variable in and write up the results as they are\nWe will revisit Max’s dilemma throughout this tutorial and hopefully by the end you will be more confident at identifying potential issues and recognize how preregistration can help safeguard against questionable research practice and promote more credible research.\n\n\n\n\n\n\nTipSummary",
     "crumbs": [
       "Home",
       "Introduction and context"
@@ -654,11 +632,11 @@
     ]
   },
   {
-    "objectID": "introduction-and-context/research-cycle.html#qualitative-research",
-    "href": "introduction-and-context/research-cycle.html#qualitative-research",
+    "objectID": "introduction-and-context/research-cycle.html#research-approaches-101",
+    "href": "introduction-and-context/research-cycle.html#research-approaches-101",
     "title": "Research cycle",
     "section": "",
-    "text": "Qualitative research approaches focus on examining the meanings, experiences, and perspectives of individuals or groups. Data collection involves primary, first-hand, text-based data that is analyzed using specific interpretive methods. Sometimes text-based data is ‘coded’ to identify key themes and patterns (Braun and Clarke 2008).",
+    "text": "Qualitative research approaches focus on examining the meanings, experiences, and perspectives of individuals or groups. Data collection involves primary, first-hand, text-based data that is analyzed using specific interpretive methods. Sometimes text-based data is ‘coded’ to identify key themes and patterns (Braun and Clarke 2008).\n\n\n\nReview-based research involves collating and synthesizing previously published work on a topic. These approaches can be used to generate new insights and identify knowledge gaps. Reviews can be more or less done systematically, with systematic review and meta-analyses having well-established protocols (e.g. PRISMA guidelines).\n\n\n\nIntervention and experimental research approaches are closely related. They involve deliberate manipulations to a physical entity (e.g. individuals, groups, organisms) intended to measure changes to that entity. Intervention studies typically focuses on the application of a treatment or action to observe its effect. In experimental studies, a researcher typically observes a problem or situation, then develops a testable hypothesis from which experiments under controlled conditions are used to test specific hypotheses. Based on the outcomes, the hypothesis is adapted. A hypothesis is an unproven statement relating the connection between variables.\n\n\n\n\n\n\nNoteHypothesis generating vs testing\n\n\n\nHypothesis generating vs testing are two modes of research inquiry that influence study designs and underpin the practice of study registrations. Hypothesis generating: - exploratory, discovery-focused research (asks questions like: what is happening? Why is it happening, How is it happening?)\nHypothesis testing: - confirmatory, justification-focused research (asks questions like: what does X do to Y?)\nThe distinctions between hypothesis generating vs testing research are often not clearly differentiated in practice, which leads to questionable research practices and reduced credibility of research.\n\n\n\n\n\nObservational research gathers information about individuals or populations without manipulating the environment or variables. Researchers observe and collect data on subjects as they naturally occur in their usual settings. An example of observational research:\n\n\n\nFor research that adopts one or more theoretical frameworks (social and biological sciences) or data types (e.g. participant surveys, visual data, geospatial), would be described as a mixed-method approach.",
     "crumbs": [
       "Home",
       "Introduction and context",
@@ -666,47 +644,11 @@
     ]
   },
   {
-    "objectID": "introduction-and-context/research-cycle.html#review-based-research",
-    "href": "introduction-and-context/research-cycle.html#review-based-research",
+    "objectID": "introduction-and-context/research-cycle.html#research-approaches-and-preregistration",
+    "href": "introduction-and-context/research-cycle.html#research-approaches-and-preregistration",
     "title": "Research cycle",
-    "section": "",
-    "text": "Review-based research involves collating and synthesizing previously published work on a topic. These approaches can be used to generate new insights and identify knowledge gaps. Reviews can be more or less done systematically, with systematic review and meta-analyses having well-established protocols (e.g. PRISMA guidelines).",
-    "crumbs": [
-      "Home",
-      "Introduction and context",
-      "Research cycle"
-    ]
-  },
-  {
-    "objectID": "introduction-and-context/research-cycle.html#intervention-and-experimental-research",
-    "href": "introduction-and-context/research-cycle.html#intervention-and-experimental-research",
-    "title": "Research cycle",
-    "section": "",
-    "text": "Intervention and experimental research approaches are closely related. They involve deliberate manipulations to a physical entity (e.g. individuals, groups, organisms) intended to measure changes to that entity. Intervention studies typically focuses on the application of a treatment or action to observe its effect. In experimental studies, a researcher typically observes a problem or situation, then develops a testable hypothesis from which experiments under controlled conditions are used to test specific hypotheses. Based on the outcomes, the hypothesis is adapted. A hypothesis is an unproven statement relating the connection between variables.\n\n\n\n\n\n\nNoteHypothesis generating vs testing\n\n\n\nHypothesis generating vs testing are two modes of research inquiry that influence study designs and underpin the practice of study registrations. Hypothesis generating: - exploratory, discovery-focused research (asks questions like: what is happening? Why is it happening, How is it happening?)\nHypothesis testing: - confirmatory, justification-focused research (asks questions like: what does X do to Y?)\nThe distinctions between hypothesis generating vs testing research are often not clearly differentiated in practice, which leads to questionable research practices and reduced credibility of research.",
-    "crumbs": [
-      "Home",
-      "Introduction and context",
-      "Research cycle"
-    ]
-  },
-  {
-    "objectID": "introduction-and-context/research-cycle.html#observational-research",
-    "href": "introduction-and-context/research-cycle.html#observational-research",
-    "title": "Research cycle",
-    "section": "",
-    "text": "Observational research gathers information about individuals or populations without manipulating the environment or variables. Researchers observe and collect data on subjects as they naturally occur in their usual settings. An example of observational research:",
-    "crumbs": [
-      "Home",
-      "Introduction and context",
-      "Research cycle"
-    ]
-  },
-  {
-    "objectID": "introduction-and-context/research-cycle.html#mixed-methods-research",
-    "href": "introduction-and-context/research-cycle.html#mixed-methods-research",
-    "title": "Research cycle",
-    "section": "",
-    "text": "For research that adopts one or more theoretical frameworks (social and biological sciences) or data types (e.g. participant surveys, visual data, geospatial), would be described as a mixed-method approach.",
+    "section": "Research approaches and preregistration",
+    "text": "Research approaches and preregistration\nThis page outlined 5 methodological and philosophical approaches to research sometimes referred to as “research paradigms”.\n\n\n\n\n\n\nNoteReflection point\n\n\n\nWhich research approach do you use? Have you used more than one approach in your research journey? It is good to be aware of other approaches to research from your own as it broadens your perspectives, especially in an increasingly interdisciplinary and collaborative research ecosystem (e.g. Big Team Science).\n\n\n\nnote focus of this tutorial is more for hypothesis driven research",
     "crumbs": [
       "Home",
       "Introduction and context",
@@ -730,28 +672,48 @@
     "href": "build-a-preregistration-toolkit/page2.html",
     "title": "Page Title Here",
     "section": "",
-    "text": "The headers below cause the table of contents/dropdown on the right to be visible."
+    "text": "The headers below cause the table of contents/dropdown on the right to be visible.",
+    "crumbs": [
+      "Home",
+      "Building a preregistration toolkit",
+      "Page Title Here"
+    ]
   },
   {
     "objectID": "build-a-preregistration-toolkit/page2.html#level-two",
     "href": "build-a-preregistration-toolkit/page2.html#level-two",
     "title": "Page Title Here",
     "section": "Level Two",
-    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time"
+    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time",
+    "crumbs": [
+      "Home",
+      "Building a preregistration toolkit",
+      "Page Title Here"
+    ]
   },
   {
     "objectID": "build-a-preregistration-toolkit/page2.html#another-level-two",
     "href": "build-a-preregistration-toolkit/page2.html#another-level-two",
     "title": "Page Title Here",
     "section": "Another Level Two",
-    "text": "Another Level Two"
+    "text": "Another Level Two",
+    "crumbs": [
+      "Home",
+      "Building a preregistration toolkit",
+      "Page Title Here"
+    ]
   },
   {
     "objectID": "build-a-preregistration-toolkit/page2.html#level-two-1",
     "href": "build-a-preregistration-toolkit/page2.html#level-two-1",
     "title": "Page Title Here",
     "section": "Level Two",
-    "text": "Level Two"
+    "text": "Level Two",
+    "crumbs": [
+      "Home",
+      "Building a preregistration toolkit",
+      "Page Title Here"
+    ]
   },
   {
     "objectID": "evaluating-preregistration-quality/toolkit.html",
@@ -776,88 +738,22 @@
     ]
   },
   {
-    "objectID": "evaluating-preregistration-quality/toolkit.html#research-questions-and-hypotheses",
-    "href": "evaluating-preregistration-quality/toolkit.html#research-questions-and-hypotheses",
+    "objectID": "evaluating-preregistration-quality/toolkit.html#importance-of-precision",
+    "href": "evaluating-preregistration-quality/toolkit.html#importance-of-precision",
     "title": "Build up your preregistration toolkit",
-    "section": "Research questions and hypotheses",
-    "text": "Research questions and hypotheses\n\nSnippet 1\n“How do indoor plants benefit people?”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow would you measure “benefit”?\nHow would you study the interaction between plants and people?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nHow does having physical contact with indoor plants reduce psychological and physiological stress in young-adult office workers?\nNotice how the improved answer states the type of interaction between plants and people, more specific details about types of benefits of interest and the target demographic (e.g. young-adult office workers).\nNote: This research question is based on a study by Lee et al. 2015\n\n\n\n\n\nSnippet 2\n“We expect that drinking beer will increase reaction time.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow can information about beer be made more specific?\nWhat is the reaction time measured in relation to?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nFor male psychology students, drinking 5 Magic Hat IPAs will increase their reaction time as measured by machine X. We expect that the group that drinks 5 IPAs will respond at least 1 second slower, on average, than the group that did not drink alcohol.\nNotice how the improved answer states quantity and type of beer and participants involved in the study. There is also a description about the expected direction of response.",
+    "section": "Importance of precision",
+    "text": "Importance of precision\nStudy preregistrations should aim to be as precise as possible to allow readers to be able to clearly follow your proposed plans. When preregistrations are vague, they don’t eliminate flexibility of methods and analyses. By thinking ahead of ways a reader could interpret your plan you crash-test the text to make sure unanticipated problems don’t require changes (to the extent possible). A key question to have in mind is: Is the plan precise and specific enough that anyone reading it would conduct and analyze the study using the same procedures?",
     "crumbs": [
       "Home",
       "Evaluating preregistration quality"
     ]
   },
   {
-    "objectID": "evaluating-preregistration-quality/toolkit.html#sampling-plan",
-    "href": "evaluating-preregistration-quality/toolkit.html#sampling-plan",
+    "objectID": "evaluating-preregistration-quality/toolkit.html#instructions",
+    "href": "evaluating-preregistration-quality/toolkit.html#instructions",
     "title": "Build up your preregistration toolkit",
-    "section": "Sampling plan",
-    "text": "Sampling plan\n\nSnippet 3\n“We expect to collect data from 100 subjects.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nAre there any pre-selection rules?\nHow would you deal with possible exclusions?\n\n\n\n\n\n\n\n\n\nNoteShow improved answers\n\n\n\n\n\nImproved answer 1: We will over sample by 15% in order to account for possible exclusions after we apply exclusion criteria 1 and 2 (see xxx), after 115 participants have started with the study, the computer will redirect the next participants to another task.\nNotice how the improved answer states how the researchers apply pre-specified exclusion criteria to reach the expected sample size of 100 subjects.\nAlternative improved answer 2: Since data is collected via online survey the final N could result a little higher if further participants answer the questionnaire in the time between reaching N=100 and putting the survey offline, and we will include these extra participants in the final sample.\nNotice how the alternative improved answer 2 provides an alternative description of the data collection stopping rule embedding flexibility in the sample size (e.g. including extra participants who answer survey before going offline).\nAlternative improved answer 3: We plan to collect usable data from 100 participants. We will schedule slots of up to 10 participants at a time. We anticipate that not all scheduled slots will fill, so we initially will post 150 open slots. If more than 100 participants sign up for the available slots, we will test all of them. Consequently our initial tested sample could include as many as 150 participants. If this initial set of open slots results in testing fewer than 100 participants,we will open additional slots in blocks of 10 until we have tested 100 or more participants in total. We then will evaluate exclusions according to our preregistered rules. If, after exclusion, we have usable data from fewer than 100 participants, we will add enough additional open slots in blocks of 10 to potentially achieve a sample of 100 or more. After completing that testing, we will again evaluate exclusions and will repeat this step as needed until we have usable data from 100 or more participants. Thus, our final sample will include at least 100 participants and up to 150 participants, with the most likely final sample size (given typical signup rates and exclusion rates) between 100 and 109 participants.\nNotice how the alternative improved answer 3 provides detailed description of the data collection method (e.g. batching survey slots of 10 participants) and fail-safe procedures for participant exclusions and restarting (e.g. if data on &lt; 100 participants is usable).",
-    "crumbs": [
-      "Home",
-      "Evaluating preregistration quality"
-    ]
-  },
-  {
-    "objectID": "evaluating-preregistration-quality/toolkit.html#variable-description",
-    "href": "evaluating-preregistration-quality/toolkit.html#variable-description",
-    "title": "Build up your preregistration toolkit",
-    "section": "Variable description",
-    "text": "Variable description\n\nSnippet 4\n“Exam scores for all subjects for final-year bachelor students.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow can information about the exam scores be more specific?\nIs it clear which point in the school year exam scores are measured?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nAverage exam scores for all subjects for final-year bachelor students at the end of the first term after the intervention.\nNotice how the improved answer states how and when the variable is measured.",
-    "crumbs": [
-      "Home",
-      "Evaluating preregistration quality"
-    ]
-  },
-  {
-    "objectID": "evaluating-preregistration-quality/toolkit.html#design-plan",
-    "href": "evaluating-preregistration-quality/toolkit.html#design-plan",
-    "title": "Build up your preregistration toolkit",
-    "section": "Design plan",
-    "text": "Design plan\n\nSnippet 5\n“Light levels will be manipulated four different ways over the 20 seedling growing trays.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nIs there enough information to understand how the light levels are manipulated?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nLight manipulation will be initiated at seed planting stage (day 0) and run continuously until the end of experiment (day 90). The light manipulation is implemented as a randomized, replicated block design in which four light treatments are repeated across five blocks (n = 20 seedling trays). One of the four light treatments (ambient control, procedural control, -25% light, and +25% light, with respect to ambient light levels) will be applied at the seedling tray level which is nested into the blocks. Adding a procedural control tests the effect of the light manipulation equipment (e.g. potential confounding effect of light treatment).\nNotice how the improved answer states the experimental procedures and structure (e.g. randomized replicated block design) and levels of the variables.",
-    "crumbs": [
-      "Home",
-      "Evaluating preregistration quality"
-    ]
-  },
-  {
-    "objectID": "evaluating-preregistration-quality/toolkit.html#exclusions-and-exceptions",
-    "href": "evaluating-preregistration-quality/toolkit.html#exclusions-and-exceptions",
-    "title": "Build up your preregistration toolkit",
-    "section": "Exclusions and exceptions",
-    "text": "Exclusions and exceptions\n\nSnippet 6\n“We will exclude participants who take too long to answer survey and score low on x.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow long is too long to answer survey defined?\nWhat counts as a low score?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nWe will exclude participants who do not pass two thirds of the attention checks and if time taken to complete the survey is outside the range of 10-20 minutes. Participants will also be excluded if they score below 12 on x.\nNotice how the improved answer specifies how long is too long to answer survey (i.e. data-based outlier criteria) and defined score level for x (i.e. method-based outlier criteria).",
-    "crumbs": [
-      "Home",
-      "Evaluating preregistration quality"
-    ]
-  },
-  {
-    "objectID": "evaluating-preregistration-quality/toolkit.html#analysis-plan",
-    "href": "evaluating-preregistration-quality/toolkit.html#analysis-plan",
-    "title": "Build up your preregistration toolkit",
-    "section": "Analysis plan",
-    "text": "Analysis plan\n\nSnippet 7\n“A two (Design: simple, complex) by two (group: manipulated, control) mixed ANOVA will be the designated statistical analysis. This statistical analysis will provide insight into the 2-way interaction between the Design (simple vs complex) and group (manipulated or control).”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nWould a reader be able to carry out this ANOVA as described?\n\n\n\n\n\n\n\n\n\nNoteShow ways to improve answer\n\n\n\n\n\nProvide statistical model expression/code, which makes it explicit to the readers the model structure and syntax used to run your analysis. Provide analysis of simulated data and plot/interpret the results (this allows you to think whether design is strong enough to conclude something meaningful whatever the results are).",
-    "crumbs": [
-      "Home",
-      "Evaluating preregistration quality"
-    ]
-  },
-  {
-    "objectID": "evaluating-preregistration-quality/toolkit.html#reporting-study-preregistration",
-    "href": "evaluating-preregistration-quality/toolkit.html#reporting-study-preregistration",
-    "title": "Build up your preregistration toolkit",
-    "section": "Reporting study preregistration",
-    "text": "Reporting study preregistration\n\nSnippet 8\n“Hypothesis:… We aimed to test (1) whether abstract thinking is positively correlated with autonomous motivation … Conclusion:… BIF scores (abstract thinking) were positively associated with trait self-control, autonomous motivation for exercise, and autonomous motivation for diet, but not with sugar or fried food consumption…”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nDo the results reported in the study match to the hypothesis stated?\n\n\n\n\n\n\n\n\n\nNoteShow ways to improve answer\n\n\n\n\n\nLink study outcomes explicitly to numbered hypotheses and contextualize them to the variables, to allow readers to more easily follow. State clearly any unplanned analyses or deviations from what was preregistered.",
-    "crumbs": [
-      "Home",
-      "Evaluating preregistration quality"
-    ]
-  },
-  {
-    "objectID": "evaluating-preregistration-quality/toolkit.html#extension-excercise",
-    "href": "evaluating-preregistration-quality/toolkit.html#extension-excercise",
-    "title": "Build up your preregistration toolkit",
-    "section": "Extension excercise",
-    "text": "Extension excercise\nIf you want more practice at doing a preregistration, have a go at filling out a preregistration template using the platform AsPredicted. A version of this extension exercise is available as a worksheet here (LINK).\nThe aim is to increase your familiarity with the process of filling out a study preregistration and noting down any challenges while you practice. For this exercise you can draw from your own research project and have a go at filling the 11 questions in 20 minutes. 20 minutes should be sufficient time to get a taster for the process. Use the reflection questions below to help you think about your experience of completing this exercise.\nAs your confidence and learning progresses you can have a go at a more comprehensive study preregistration template like the Open Science Framework (OSF).\n\n\n\n\n\n\nTipReflection questions\n\n\n\n\nDid you go through the questions in order?\nWere there any questions you were not expecting?\nWhat was the most challenging part of the preregistration process?",
+    "section": "Instructions",
+    "text": "Instructions\nRead through the following snippets under the major sections of a study preregistration and in a digital/paper notepad list areas of ambiguity and have a go at improving the text. The goal is to see what thinking is needed as you plan out your study. There is no “perfect” answer. Use the guiding questions to help you.\nThese exercises have been adapted from the original exercise by Anna van ‘t Veer, Daniel Simons, David Mellor, Simine Vazire, and Katy Corker, and Stephen Lindsay for the APS 2019 preregistration workshop and some of these snippets have been adapted from Ihle (2023).\n\nResearch questions and hypotheses\n\nSnippet 1\n“How do indoor plants benefit people?”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow would you measure “benefit”?\nHow would you study the interaction between plants and people?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nHow does having physical contact with indoor plants reduce psychological and physiological stress in young-adult office workers?\nNotice how the improved answer states the type of interaction between plants and people, more specific details about types of benefits of interest and the target demographic (e.g. young-adult office workers).\nNote: This research question is based on a study by Lee et al. 2015\n\n\n\n\n\nSnippet 2\n“We expect that drinking beer will increase reaction time.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow can information about beer be made more specific?\nWhat is the reaction time measured in relation to?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nFor male psychology students, drinking 5 Magic Hat IPAs will increase their reaction time as measured by machine X. We expect that the group that drinks 5 IPAs will respond at least 1 second slower, on average, than the group that did not drink alcohol.\nNotice how the improved answer states quantity and type of beer and participants involved in the study. There is also a description about the expected direction of response.\n\n\n\n\n\n\nSampling plan\n\nSnippet 3\n“We expect to collect data from 100 subjects.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nAre there any pre-selection rules?\nHow would you deal with possible exclusions?\n\n\n\n\n\n\n\n\n\nNoteShow improved answers\n\n\n\n\n\nImproved answer 1: We will over sample by 15% in order to account for possible exclusions after we apply exclusion criteria 1 and 2 (see xxx), after 115 participants have started with the study, the computer will redirect the next participants to another task.\nNotice how the improved answer states how the researchers apply pre-specified exclusion criteria to reach the expected sample size of 100 subjects.\nAlternative improved answer 2: Since data is collected via online survey the final N could result a little higher if further participants answer the questionnaire in the time between reaching N=100 and putting the survey offline, and we will include these extra participants in the final sample.\nNotice how the alternative improved answer 2 provides an alternative description of the data collection stopping rule embedding flexibility in the sample size (e.g. including extra participants who answer survey before going offline).\nAlternative improved answer 3: We plan to collect usable data from 100 participants. We will schedule slots of up to 10 participants at a time. We anticipate that not all scheduled slots will fill, so we initially will post 150 open slots. If more than 100 participants sign up for the available slots, we will test all of them. Consequently our initial tested sample could include as many as 150 participants. If this initial set of open slots results in testing fewer than 100 participants,we will open additional slots in blocks of 10 until we have tested 100 or more participants in total. We then will evaluate exclusions according to our preregistered rules. If, after exclusion, we have usable data from fewer than 100 participants, we will add enough additional open slots in blocks of 10 to potentially achieve a sample of 100 or more. After completing that testing, we will again evaluate exclusions and will repeat this step as needed until we have usable data from 100 or more participants. Thus, our final sample will include at least 100 participants and up to 150 participants, with the most likely final sample size (given typical signup rates and exclusion rates) between 100 and 109 participants.\nNotice how the alternative improved answer 3 provides detailed description of the data collection method (e.g. batching survey slots of 10 participants) and fail-safe procedures for participant exclusions and restarting (e.g. if data on &lt; 100 participants is usable).\n\n\n\n\n\n\nVariable description\n\nSnippet 4\n“Exam scores for all subjects for final-year bachelor students.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow can information about the exam scores be more specific?\nIs it clear which point in the school year exam scores are measured?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nAverage exam scores for all subjects for final-year bachelor students at the end of the first term after the intervention.\nNotice how the improved answer states how and when the variable is measured.\n\n\n\n\n\n\nDesign plan\n\nSnippet 5\n“Light levels will be manipulated four different ways over the 20 seedling growing trays.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nIs there enough information to understand how the light levels are manipulated?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nLight manipulation will be initiated at seed planting stage (day 0) and run continuously until the end of experiment (day 90). The light manipulation is implemented as a randomized, replicated block design in which four light treatments are repeated across five blocks (n = 20 seedling trays). One of the four light treatments (ambient control, procedural control, -25% light, and +25% light, with respect to ambient light levels) will be applied at the seedling tray level which is nested into the blocks. Adding a procedural control tests the effect of the light manipulation equipment (e.g. potential confounding effect of light treatment).\nNotice how the improved answer states the experimental procedures and structure (e.g. randomized replicated block design) and levels of the variables.\n\n\n\n\n\n\nExclusions and exceptions\n\nSnippet 6\n“We will exclude participants who take too long to answer survey and score low on x.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow long is too long to answer survey defined?\nWhat counts as a low score?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nWe will exclude participants who do not pass two thirds of the attention checks and if time taken to complete the survey is outside the range of 10-20 minutes. Participants will also be excluded if they score below 12 on x.\nNotice how the improved answer specifies how long is too long to answer survey (i.e. data-based outlier criteria) and defined score level for x (i.e. method-based outlier criteria).\n\n\n\n\n\n\nAnalysis plan\n\nSnippet 7\n“A two (Design: simple, complex) by two (group: manipulated, control) mixed ANOVA will be the designated statistical analysis. This statistical analysis will provide insight into the 2-way interaction between the Design (simple vs complex) and group (manipulated or control).”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nWould a reader be able to carry out this ANOVA as described?\n\n\n\n\n\n\n\n\n\nNoteShow ways to improve answer\n\n\n\n\n\nProvide statistical model expression/code, which makes it explicit to the readers the model structure and syntax used to run your analysis. Provide analysis of simulated data and plot/interpret the results (this allows you to think whether design is strong enough to conclude something meaningful whatever the results are).\n\n\n\n\n\n\nReporting study preregistration\n\nSnippet 8\n“Hypothesis:… We aimed to test (1) whether abstract thinking is positively correlated with autonomous motivation … Conclusion:… BIF scores (abstract thinking) were positively associated with trait self-control, autonomous motivation for exercise, and autonomous motivation for diet, but not with sugar or fried food consumption…”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nDo the results reported in the study match to the hypothesis stated?\n\n\n\n\n\n\n\n\n\nNoteShow ways to improve answer\n\n\n\n\n\nLink study outcomes explicitly to numbered hypotheses and contextualize them to the variables, to allow readers to more easily follow. State clearly any unplanned analyses or deviations from what was preregistered.\n\n\n\n\n\n\nExtension excercise\nIf you want more practice at doing a preregistration, have a go at filling out a preregistration template using the platform AsPredicted. A version of this extension exercise is available as a worksheet here (LINK).\nThe aim is to increase your familiarity with the process of filling out a study preregistration and noting down any challenges while you practice. For this exercise you can draw from your own research project and have a go at filling the 11 questions in 20 minutes. 20 minutes should be sufficient time to get a taster for the process. Use the reflection questions below to help you think about your experience of completing this exercise.\nAs your confidence and learning progresses you can have a go at a more comprehensive study preregistration template like the Open Science Framework (OSF).\n\n\n\n\n\n\nTipReflection questions\n\n\n\n\nDid you go through the questions in order?\nWere there any questions you were not expecting?\nWhat was the most challenging part of the preregistration process?",
     "crumbs": [
       "Home",
       "Evaluating preregistration quality"
@@ -916,28 +812,48 @@
     "href": "how-to-preregister/page3.html",
     "title": "Page Title Here",
     "section": "",
-    "text": "The headers below cause the table of contents/dropdown on the right to be visible."
+    "text": "The headers below cause the table of contents/dropdown on the right to be visible.",
+    "crumbs": [
+      "Home",
+      "How to do a preregistration",
+      "Page Title Here"
+    ]
   },
   {
     "objectID": "how-to-preregister/page3.html#level-two",
     "href": "how-to-preregister/page3.html#level-two",
     "title": "Page Title Here",
     "section": "Level Two",
-    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time"
+    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time",
+    "crumbs": [
+      "Home",
+      "How to do a preregistration",
+      "Page Title Here"
+    ]
   },
   {
     "objectID": "how-to-preregister/page3.html#another-level-two",
     "href": "how-to-preregister/page3.html#another-level-two",
     "title": "Page Title Here",
     "section": "Another Level Two",
-    "text": "Another Level Two"
+    "text": "Another Level Two",
+    "crumbs": [
+      "Home",
+      "How to do a preregistration",
+      "Page Title Here"
+    ]
   },
   {
     "objectID": "how-to-preregister/page3.html#level-two-1",
     "href": "how-to-preregister/page3.html#level-two-1",
     "title": "Page Title Here",
     "section": "Level Two",
-    "text": "Level Two"
+    "text": "Level Two",
+    "crumbs": [
+      "Home",
+      "How to do a preregistration",
+      "Page Title Here"
+    ]
   },
   {
     "objectID": "about.html",
@@ -993,66 +909,22 @@
     ]
   },
   {
-    "objectID": "challenges-and-opportunities/challenges-and-opportunities.html#improved-planning-and-project-management",
-    "href": "challenges-and-opportunities/challenges-and-opportunities.html#improved-planning-and-project-management",
+    "objectID": "challenges-and-opportunities/challenges-and-opportunities.html#benefits-of-preregistration",
+    "href": "challenges-and-opportunities/challenges-and-opportunities.html#benefits-of-preregistration",
     "title": "Challenges and opportunities of preregistration",
-    "section": "Improved planning and project management",
-    "text": "Improved planning and project management\n\n\n\n\n\n\nNoteDo you remember?\n\n\n\n\n\nDo you remember the dilemma Max was having? Having a well thought out analysis plan with a clear decision tree would help mitigate encountering Max’s situation in the future.",
+    "section": "Benefits of preregistration",
+    "text": "Benefits of preregistration\n\nImproved planning and project management\n\n\n\n\n\n\nNoteDo you remember?\n\n\n\n\n\nDo you remember the dilemma Max was having? Having a well thought out analysis plan with a clear decision tree would help mitigate encountering Max’s situation in the future.\n\n\n\n\n\nClearer involvement of collaborators/project partners\n\nYou can get a badge!\nMore benefits from a student perspective outlined by (gya2023?)\n\n\n\n\n\n\n\nTipReflection point\n\n\n\n\n\nCan you think of other benefits of preregistration in your research area?",
     "crumbs": [
       "Home",
       "Challenges and opportunities of preregistration"
     ]
   },
   {
-    "objectID": "challenges-and-opportunities/challenges-and-opportunities.html#clearer-involvement-of-collaboratorsproject-partners",
-    "href": "challenges-and-opportunities/challenges-and-opportunities.html#clearer-involvement-of-collaboratorsproject-partners",
+    "objectID": "challenges-and-opportunities/challenges-and-opportunities.html#challenges-of-preregistration",
+    "href": "challenges-and-opportunities/challenges-and-opportunities.html#challenges-of-preregistration",
     "title": "Challenges and opportunities of preregistration",
-    "section": "Clearer involvement of collaborators/project partners",
-    "text": "Clearer involvement of collaborators/project partners\n\nYou can get a badge!\nMore benefits from a student perspective outlined by (gya2023?)\n\n\n\n\n\n\n\nTipReflection point\n\n\n\n\n\nCan you think of other benefits of preregistration in your research area?",
-    "crumbs": [
-      "Home",
-      "Challenges and opportunities of preregistration"
-    ]
-  },
-  {
-    "objectID": "challenges-and-opportunities/challenges-and-opportunities.html#time-i-havent-got-time-to-do-a-study-registration",
-    "href": "challenges-and-opportunities/challenges-and-opportunities.html#time-i-havent-got-time-to-do-a-study-registration",
-    "title": "Challenges and opportunities of preregistration",
-    "section": "Time: “I haven’t got time to do a study registration”",
-    "text": "Time: “I haven’t got time to do a study registration”\nThe time and effort needed to do a preregistration is a frequently cited challenge, especially in a ‘publish or perish’ research culture. There is a some truth to this statement, as study planning should take time. Reframing the upfront time investment as a\nCounterargument: front-loaded effort during the planning stage can help later on during write up and during peer review.",
-    "crumbs": [
-      "Home",
-      "Challenges and opportunities of preregistration"
-    ]
-  },
-  {
-    "objectID": "challenges-and-opportunities/challenges-and-opportunities.html#lack-of-incentives-i-dont-see-the-point",
-    "href": "challenges-and-opportunities/challenges-and-opportunities.html#lack-of-incentives-i-dont-see-the-point",
-    "title": "Challenges and opportunities of preregistration",
-    "section": "Lack of incentives: “I don’t see the point”",
-    "text": "Lack of incentives: “I don’t see the point”\nCounterargument: aside from individual researcher benefits (increased reflection, reduced likelihood of systematic errors), journals are increasingly prioritizing study registrations.",
-    "crumbs": [
-      "Home",
-      "Challenges and opportunities of preregistration"
-    ]
-  },
-  {
-    "objectID": "challenges-and-opportunities/challenges-and-opportunities.html#overwhelm-there-is-so-much-that-goes-into-a-study-registration",
-    "href": "challenges-and-opportunities/challenges-and-opportunities.html#overwhelm-there-is-so-much-that-goes-into-a-study-registration",
-    "title": "Challenges and opportunities of preregistration",
-    "section": "Overwhelm: “There is so much that goes into a study registration”",
-    "text": "Overwhelm: “There is so much that goes into a study registration”\nCounterargument: templates and FAQ pages can guide you and if you are unable to officially register a study, adopting principles of study registration is a good step (e.g. Open Science Buffet approach, (bergma2023?))",
-    "crumbs": [
-      "Home",
-      "Challenges and opportunities of preregistration"
-    ]
-  },
-  {
-    "objectID": "challenges-and-opportunities/challenges-and-opportunities.html#lack-of-support-no-one-in-my-team-knows-or-cares-about-study",
-    "href": "challenges-and-opportunities/challenges-and-opportunities.html#lack-of-support-no-one-in-my-team-knows-or-cares-about-study",
-    "title": "Challenges and opportunities of preregistration",
-    "section": "Lack of support: “No one in my team knows or cares about study",
-    "text": "Lack of support: “No one in my team knows or cares about study\nregistration”\nCounterargument: share resources, and suggest a group meeting to discuss and learn more about study registration to increase familiarity.",
+    "section": "Challenges of preregistration",
+    "text": "Challenges of preregistration\nThere remains a number of barriers to the widespread adoption of preregistration. This section outlines some of the commonly perceived barriers and presents some solutions.\n\nTime: “I haven’t got time to do a study registration”\nThe time and effort needed to do a preregistration is a frequently cited challenge, especially in a ‘publish or perish’ research culture. There is a some truth to this statement, as study planning should take time. Reframing the upfront time investment as a\nCounterargument: front-loaded effort during the planning stage can help later on during write up and during peer review.\n\n\nLack of incentives: “I don’t see the point”\nCounterargument: aside from individual researcher benefits (increased reflection, reduced likelihood of systematic errors), journals are increasingly prioritizing study registrations.\n\n\nOverwhelm: “There is so much that goes into a study registration”\nCounterargument: templates and FAQ pages can guide you and if you are unable to officially register a study, adopting principles of study registration is a good step (e.g. Open Science Buffet approach, (bergma2023?))\n\n\nLack of support: “No one in my team knows or cares about study\nregistration”\nCounterargument: share resources, and suggest a group meeting to discuss and learn more about study registration to increase familiarity.",
     "crumbs": [
       "Home",
       "Challenges and opportunities of preregistration"
