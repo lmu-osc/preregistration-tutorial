@@ -10,7 +10,7 @@ citation:
   version: 0.0.1
 author:
   - name: Sara Lil Middleton
-    roles: [conceptualization, data curation, formal analysis, funding acquisition, investigation, methodology, project administration, resources, validation, visualization, writing - original draft, writing - editing & review]
+    roles: [conceptualization, data curation, formal analysis, investigation, methodology, project administration, resources, validation, visualization, writing - original draft, writing - editing & review]
     affiliation:
       - id: osc
         name: LMU Open Science Center
@@ -22,6 +22,7 @@ author:
     affiliation:
       - name: LMU Open Science Center
         ror: https://ror.org/05591te55
+    orcid: 0000-0002-3242-5981
 google-scholar: true
 ---
 

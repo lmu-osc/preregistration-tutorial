@@ -1,10 +1,11 @@
 ---
 title: "Questionable research practices and biases"
+bibliography: references.bib
 ---
 
 ## Questionable research practices: the grey zone
 
-From one end of the research integrity spectrum of clear misconduct (e.g. falsifying results or plagiarizing someones work) to acceptable and responsible research practices (i.e. what Open Science movement strives to create), where do the selective reporting or misrepresentations of data fit in? This grey zone of Questionable Research Practices (QRPs) of less overt and subtle behaviors (compared to misconduct) nonetheless damages the credibility of science (). The prevalence and impact of QRPs has received less attention than the clear cut examples of serious research misconduct (although see case study below)
+From one end of the research integrity spectrum of clear misconduct (e.g. falsifying results or plagiarizing someones work) to acceptable and responsible research practices (i.e. what Open Science movement strives to create), where do the selective reporting or misrepresentations of data fit in? This grey zone of Questionable Research Practices (QRPs) of less overt and subtle behaviors (compared to misconduct) nonetheless damages the credibility of science [@entradas2026]. The prevalence and impact of QRPs has received less attention than the clear cut examples of serious research misconduct (although see case study below).
 
 ### HARKing {#sec-harking}
 
@@ -12,44 +13,47 @@ Hypothesizing after the results are known (HARKing) is a QRP where a researcher 
 
 ### p-Hacking
 
-p-Hacking is a QRP which describes the many ways researchers can artificially increase the likelihood of obtaining a statistically significant result [@pennington2023].
-
-::: {.callout-note title="Case study"}
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339056
-:::
-
-::: callout-note
-Max's dilemma link
-:::
+p-Hacking is a QRP which describes the many ways researchers can artificially increase the likelihood of obtaining a statistically significant result [@pennington2023]. p-Hacking increases the amount of false positive results and inflates effect sizes published in the literature. There is even an [app](https://shinyapps.org/apps/p-hacker/) that let's you play around with different p-hacking strategies! **Warning: the app is designed to understand how p-Hacking works, please do not intentionally p-Hack in your own work!**
 
 ## Researcher biases
+
 There are wide range of *cognitive biases* (e.g. hindsight bias, confirmatory bias, bias blind spot) that lead to systematic differences in how we perceive information and make decisions.
 
 ### Hindsight bias {#sec-hindsight-bias}
+
 The "I knew it all along" is the phrase associated with hindsight bias, which is the tendency to frame *previous* decisions or events as *more predictable* after the outcome is known [@hardwicke2023].
 
 ### Confirmatory bias
+
 The tendency to seek out, interpret, favor and recall information in a way that *supports* one’s *prior* values, beliefs, expectations, or hypothesis [@parsons2022].
 
 ### Bias blind spot
+
 The *lack of awareness* of how one's decisions are shaped by bias [@hardwicke2023].
 
 The range of biases highlights that we are all human and it is important to be *aware* of how cognitive biases *influence* how we do our research!
 
 ## Summary
 
+::: {.callout-note title="Case study"}
+Interested in learning more about questionable research practices? Take a look at the recent study by @entradas2026 where they examined how \~1500 researchers understand and engage in questionable research practices.
+:::
 
+::: callout-note
+Max's dilemma link
+:::
 
+## Quick Quiz on QRPs!
 
-## Quick Quiz!
+Test your knowledge on questionable research practices by taking this short quiz.
 
 1.  HARKing - Hypothesizing after the results are known is a:
 
--   [ ] A. type of cognitive bias
+- [ ] A. type of cognitive bias
 
--   [ ] B. questionable research practice
+- [ ] B. questionable research practice
 
--   [ ] C. name of a website to report research misconduct
+- [ ] C. name of a website to report research misconduct
 
 ::: {.callout-note title="Show solution" collapse="true"}
 The correct answer is B, HARKing is a questionable research practice.
@@ -57,18 +61,14 @@ The correct answer is B, HARKing is a questionable research practice.
 *Refer back to @sec-harking for more information*
 :::
 
-2. The tendency to frame *previous* decisions or events as *more
-predictable* after the outcome is known, is an example of which type of
-cognitive bias?
+2.  The tendency to frame *previous* decisions or events as *more predictable* after the outcome is known, is an example of which type of cognitive bias?
 
--   [ ] A. confirmatory bias
--   [ ] B. bias blind spot
--   [ ] C. hindsight bias
+- [ ] A. confirmatory bias
+- [ ] B. bias blind spot
+- [ ] C. hindsight bias
 
 ::: {.callout-note title="Show solution" collapse="true"}
-The answer is C. Hindsight bias can be summarized as "I knew it all
-along" type of thinking.
+The answer is C. Hindsight bias can be summarized as "I knew it all along" type of thinking.
 
 *Refer back to @sec-hindsight-bias for more information*
 :::
-
