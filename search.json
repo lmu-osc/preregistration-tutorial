@@ -1,145 +1,97 @@
 [
   {
-    "objectID": "challenges-and-opportunities/faqs.html",
-    "href": "challenges-and-opportunities/faqs.html",
-    "title": "Frequently asked questions",
+    "objectID": "evaluating-preregistration-quality/page3.html",
+    "href": "evaluating-preregistration-quality/page3.html",
+    "title": "Evaluating preregistrations",
     "section": "",
-    "text": "This section contains a collection of common misconceptions, frequently asked questions and concerns around preregistration. This collection is organized according to the stages of doing a preregistration. It is designed to be used as a reference guide which you can revisit.",
+    "text": "This critical evaluation exercise is helpful for you to improve your understanding of doing a preregistration by examining real examples. This exercise provides guidance and resources in how to critically evaluate existing study preregistrations. By increasing familiarity with the content of study preregistrations across a wide range of research areas, you are encouraged to think and relate these concepts to your own research projects.\nInstructions:\nThis exercise should take about 50 minutes to complete.\nNote: Even if the examples use different research methods to your own it is still useful to compare. This will help broaden your perspectives in what preregistered studies can look like across research domains.",
     "crumbs": [
       "Home",
-      "Challenges and opportunities of preregistration",
-      "Frequently asked questions"
+      "Evaluating preregistration quality",
+      "Evaluating preregistrations"
     ]
   },
   {
-    "objectID": "challenges-and-opportunities/faqs.html#thinking-about-doing-a-preregistration",
-    "href": "challenges-and-opportunities/faqs.html#thinking-about-doing-a-preregistration",
-    "title": "Frequently asked questions",
-    "section": "Thinking about doing a preregistration",
-    "text": "Thinking about doing a preregistration\nI’m a student starting a new project and I feel I don’t know enough to do a good preregistration, is it worth doing one?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nThe data I am working with is descriptive, is a study preregistration still useful?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nI work with secondary data and I know what my data look like, what is the point of doing a preregistration?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nIt is possible to preregister an analysis plan for studies that use secondary data! There are many benefits to preregistration of secondary data that overlap with general benefits of preregistration (e.g. distinguishing between confirmatory and exploratory analysis, mitigating researcher degrees of freedom). See a template for preregistration of secondary data by Mertens and Krypotos (2019).\n\n\n\nIs it true that doing a preregistration increases the risk of being scooped?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nConcerns around being scooped can be mitigated by putting an embargo on your preregistration which will make it private until you are ready to share it. Depending on the platform used to upload your preregistration, it can be private indefinitely (e.g. AsPredicted) or a maximum or 4 years from creation date for Open Science Foundation. In addition, by preregistering you are informing others your research plans and they are unlikely to put time, effort and resources to do the same study as you.",
+    "objectID": "evaluating-preregistration-quality/page3.html#preregistered-studies",
+    "href": "evaluating-preregistration-quality/page3.html#preregistered-studies",
+    "title": "Evaluating preregistrations",
+    "section": "Preregistered studies",
+    "text": "Preregistered studies\n\n\n\nExperimental studies (pick one study from here)\n\n\n\n\n\nThe Role of Framing Effects, the Dark Triad and Empathy in Predicting Behavior in a One-shot Prisoner’s Dilemma https://osf.io/aurjt\nThe role of threat expectancy and detection importance in context dependent search priority for threat https://osf.io/vxkc2\nIndependent Manipulation of Insect Prey Color and Palatability https://osf.io/mygb8/overview\nDrosophila Oviposition Preference https://osf.io/86asd/overview\nComparing Online Human-Delivered Intervention, Generative AI–Based Mobile Intervention, and Generative AI–Based Space-Embedded Intervention for Emotional Distress: A Randomized Controlled Trial https://osf.io/8n4qu/overview\n\n\n\n\n\n\n\nObservational studies\n\n\n\n\n\nTeaching about Research Practices and Reform in Psychology Courses https://osf.io/aj3p9\nAssessing the replicability of social and behavioural sciences research: What correlates with good judgements? https://osf.io/5rj76/overview\nLocal conditions explain variation in plant phenology within species https://osf.io/6tsnj\nUniversal Biological Architecture: The Global Biosphere Discovery https://osf.io/7qpa8/overview\n\n\n\n\n\n\n\nLongitudinal studies\n\n\n\n\n\nPreregistration: Longitudinal Dynamics between Health and Subjective Well-Being https://osf.io/hnfn4/overview\nCoupled longitudinal change between family income, hippocampal volume, and associative memory in middle childhood https://osf.io/7f42h/overview\nA longitudinal study of the effect of social isolation on auditory and cognitive function during the COVID-19 pandemic https://osf.io/6fq9g/overview\n\n\n\n\n\n\n\nSecondary data/meta-analyses\n\n\n\n\n\nDevelopmental Trajectories of Attachment and Depressive Symptoms https://osf.io/4nnzy/files/xm5hr\nAssociation Between Financial Conflicts of Interest and Reported Outcomes of Labour Market Programme Evaluations: A Meta-Analysis https://osf.io/y27qk/overview\nCross-registration and results availability of trials registered on the EUCTR https://osf.io/r3vc5/overview\nStrengthening Rigour in Mixed Methods Research https://osf.io/hgu4y/overview\n\n\n\n\n\n\n\nSimulation studies\n\n\n\n\n\nA Simulation Study: A Protocol for Developing and Evaluating a Model to Identify and Prioritise Candidate Surrogate Endpoints for Alzheimer’s Disease Clinical Trials https://osf.io/vux6r/overview\nBootstrap Confidence Intervals with Multiple Imputation: Factors that Affect Inference on the Indirect Effect https://osf.io/ush45/overview\n\n\n\n\n\n\n\nQualitative studies\n\n\n\n\n\nA Delphi study to strengthen research methods training in British Psychological Society accredited undergraduate courses https://osf.io/5h7bu/overview\nValidating the Expert Model of Buzzwords: Interviews with Conservation Professionals https://osf.io/nmd42/overview\nClimate anxiety and TikTok: An Exploratory Study https://osf.io/tjx5m/overview\n\n\n\n\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nWhat do you notice about the level of detail in the research questions and/or hypotheses?\nHow do experimental studies compare to other study types in how they handle missing data?\nWas there additional information you weren’t aware formed part of the preregistration process?\nDo any of the preregistrations provide information about exploratory analyses?\nWhat aspects of the preregistrations worked well? Which could be improved?\n\n\n\n\nL3\n\n\nL3 Again\n\n\nAnd one more time",
     "crumbs": [
       "Home",
-      "Challenges and opportunities of preregistration",
-      "Frequently asked questions"
+      "Evaluating preregistration quality",
+      "Evaluating preregistrations"
     ]
   },
   {
-    "objectID": "challenges-and-opportunities/faqs.html#preparing-a-preregistration",
-    "href": "challenges-and-opportunities/faqs.html#preparing-a-preregistration",
-    "title": "Frequently asked questions",
-    "section": "Preparing a preregistration",
-    "text": "Preparing a preregistration\nThe data I am working with is descriptive, is a study preregistration still useful?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nI work with secondary data and I know what my data look like, what is the point of doing a preregistration?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nWhat is the difference between a preregistration and a registered report?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer",
+    "objectID": "evaluating-preregistration-quality/page3.html#another-level-two",
+    "href": "evaluating-preregistration-quality/page3.html#another-level-two",
+    "title": "Evaluating preregistrations",
+    "section": "Another Level Two",
+    "text": "Another Level Two",
     "crumbs": [
       "Home",
-      "Challenges and opportunities of preregistration",
-      "Frequently asked questions"
+      "Evaluating preregistration quality",
+      "Evaluating preregistrations"
     ]
   },
   {
-    "objectID": "challenges-and-opportunities/faqs.html#submitting-a-preregistration",
-    "href": "challenges-and-opportunities/faqs.html#submitting-a-preregistration",
-    "title": "Frequently asked questions",
-    "section": "Submitting a preregistration",
-    "text": "Submitting a preregistration\nCan I modify a document in my registration?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer",
+    "objectID": "evaluating-preregistration-quality/page3.html#level-two",
+    "href": "evaluating-preregistration-quality/page3.html#level-two",
+    "title": "Evaluating preregistrations",
+    "section": "Level Two",
+    "text": "Level Two",
     "crumbs": [
       "Home",
-      "Challenges and opportunities of preregistration",
-      "Frequently asked questions"
+      "Evaluating preregistration quality",
+      "Evaluating preregistrations"
     ]
   },
   {
-    "objectID": "challenges-and-opportunities/faqs.html#post-preregistration-reporting-research",
-    "href": "challenges-and-opportunities/faqs.html#post-preregistration-reporting-research",
-    "title": "Frequently asked questions",
-    "section": "Post preregistration: reporting research",
-    "text": "Post preregistration: reporting research\nMy data collection plans changed due to unforeseen circumstances, how do I report this in my paper?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nDoes it matter if the author list differs from the preregistration document and the final publication?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nWhere can I find information on which journals accept preregistrations or registered reports?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nIncreasingly more journals are accepting study preregistrations. See this up-to-date list of particpating journals by the Center of Open Science.\n\n\n\nHow do I publish a study coming from two preregistrations?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nHow do I publish a study that doesn’t cover the entire preregistration?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer",
-    "crumbs": [
-      "Home",
-      "Challenges and opportunities of preregistration",
-      "Frequently asked questions"
-    ]
-  },
-  {
-    "objectID": "challenges-and-opportunities/tips.html",
-    "href": "challenges-and-opportunities/tips.html",
-    "title": "Final recap, practical tips and resources",
-    "section": "",
-    "text": "Final recap:\nlink to Max’s dilemma",
-    "crumbs": [
-      "Home",
-      "Challenges and opportunities of preregistration",
-      "Final recap, practical tips and resources"
-    ]
-  },
-  {
-    "objectID": "challenges-and-opportunities/tips.html#practical-tips",
-    "href": "challenges-and-opportunities/tips.html#practical-tips",
-    "title": "Final recap, practical tips and resources",
-    "section": "Practical tips",
-    "text": "Practical tips\nAs we come to the end of this tutorial, you should feel more knowledgeable and confident about the Open Science practice of preregistration and how to carry out one in your own research. Even if you are not quite ready to implement a study preregistration just yet, you should have the tools to critically evaluate your own research planning approaches and existing preregistered studies. Below are X practical tips and additional resources to help you on your next steps on your preregistration journey!\n\nOpen Science Buffet\n\n\nTip 2\n\n\nTip 3\n\n\nTip 4\n\n\nTip 5",
-    "crumbs": [
-      "Home",
-      "Challenges and opportunities of preregistration",
-      "Final recap, practical tips and resources"
-    ]
-  },
-  {
-    "objectID": "challenges-and-opportunities/tips.html#additional-resources",
-    "href": "challenges-and-opportunities/tips.html#additional-resources",
-    "title": "Final recap, practical tips and resources",
-    "section": "Additional resources",
-    "text": "Additional resources\n\nA student’s perspective of doing a registered report (gya2023?)\nOSF community of support:\nDiscussion about merits vs limits of study peregistration from IEEE Visualization Conference 2022",
-    "crumbs": [
-      "Home",
-      "Challenges and opportunities of preregistration",
-      "Final recap, practical tips and resources"
-    ]
-  },
-  {
-    "objectID": "how-to-preregister/page2.html",
-    "href": "how-to-preregister/page2.html",
+    "objectID": "evaluating-preregistration-quality/page2.html",
+    "href": "evaluating-preregistration-quality/page2.html",
     "title": "Page Title Here",
     "section": "",
     "text": "The headers below cause the table of contents/dropdown on the right to be visible.",
     "crumbs": [
       "Home",
-      "How to do a preregistration",
+      "Evaluating preregistration quality",
       "Page Title Here"
     ]
   },
   {
-    "objectID": "how-to-preregister/page2.html#level-two",
-    "href": "how-to-preregister/page2.html#level-two",
+    "objectID": "evaluating-preregistration-quality/page2.html#level-two",
+    "href": "evaluating-preregistration-quality/page2.html#level-two",
     "title": "Page Title Here",
     "section": "Level Two",
     "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time",
     "crumbs": [
       "Home",
-      "How to do a preregistration",
+      "Evaluating preregistration quality",
       "Page Title Here"
     ]
   },
   {
-    "objectID": "how-to-preregister/page2.html#another-level-two",
-    "href": "how-to-preregister/page2.html#another-level-two",
+    "objectID": "evaluating-preregistration-quality/page2.html#another-level-two",
+    "href": "evaluating-preregistration-quality/page2.html#another-level-two",
     "title": "Page Title Here",
     "section": "Another Level Two",
     "text": "Another Level Two",
     "crumbs": [
       "Home",
-      "How to do a preregistration",
+      "Evaluating preregistration quality",
       "Page Title Here"
     ]
   },
   {
-    "objectID": "how-to-preregister/page2.html#level-two-1",
-    "href": "how-to-preregister/page2.html#level-two-1",
+    "objectID": "evaluating-preregistration-quality/page2.html#level-two-1",
+    "href": "evaluating-preregistration-quality/page2.html#level-two-1",
     "title": "Page Title Here",
     "section": "Level Two",
     "text": "Level Two",
     "crumbs": [
       "Home",
-      "How to do a preregistration",
+      "Evaluating preregistration quality",
       "Page Title Here"
     ]
   },
@@ -175,303 +127,6 @@
       "Home",
       "How to do a preregistration"
     ]
-  },
-  {
-    "objectID": "evaluating-preregistration-quality/page3.html",
-    "href": "evaluating-preregistration-quality/page3.html",
-    "title": "Page Title Here",
-    "section": "",
-    "text": "The headers below cause the table of contents/dropdown on the right to be visible.",
-    "crumbs": [
-      "Home",
-      "Evaluating preregistration quality",
-      "Page Title Here"
-    ]
-  },
-  {
-    "objectID": "evaluating-preregistration-quality/page3.html#level-two",
-    "href": "evaluating-preregistration-quality/page3.html#level-two",
-    "title": "Page Title Here",
-    "section": "Level Two",
-    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time",
-    "crumbs": [
-      "Home",
-      "Evaluating preregistration quality",
-      "Page Title Here"
-    ]
-  },
-  {
-    "objectID": "evaluating-preregistration-quality/page3.html#another-level-two",
-    "href": "evaluating-preregistration-quality/page3.html#another-level-two",
-    "title": "Page Title Here",
-    "section": "Another Level Two",
-    "text": "Another Level Two",
-    "crumbs": [
-      "Home",
-      "Evaluating preregistration quality",
-      "Page Title Here"
-    ]
-  },
-  {
-    "objectID": "evaluating-preregistration-quality/page3.html#level-two-1",
-    "href": "evaluating-preregistration-quality/page3.html#level-two-1",
-    "title": "Page Title Here",
-    "section": "Level Two",
-    "text": "Level Two",
-    "crumbs": [
-      "Home",
-      "Evaluating preregistration quality",
-      "Page Title Here"
-    ]
-  },
-  {
-    "objectID": "build-a-preregistration-toolkit/page1.html",
-    "href": "build-a-preregistration-toolkit/page1.html",
-    "title": "Page Title Here",
-    "section": "",
-    "text": "The headers below cause the table of contents/dropdown on the right to be visible.",
-    "crumbs": [
-      "Home",
-      "Building a preregistration toolkit"
-    ]
-  },
-  {
-    "objectID": "build-a-preregistration-toolkit/page1.html#level-two",
-    "href": "build-a-preregistration-toolkit/page1.html#level-two",
-    "title": "Page Title Here",
-    "section": "Level Two",
-    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time",
-    "crumbs": [
-      "Home",
-      "Building a preregistration toolkit"
-    ]
-  },
-  {
-    "objectID": "build-a-preregistration-toolkit/page1.html#another-level-two",
-    "href": "build-a-preregistration-toolkit/page1.html#another-level-two",
-    "title": "Page Title Here",
-    "section": "Another Level Two",
-    "text": "Another Level Two",
-    "crumbs": [
-      "Home",
-      "Building a preregistration toolkit"
-    ]
-  },
-  {
-    "objectID": "build-a-preregistration-toolkit/page1.html#level-two-1",
-    "href": "build-a-preregistration-toolkit/page1.html#level-two-1",
-    "title": "Page Title Here",
-    "section": "Level Two",
-    "text": "Level Two",
-    "crumbs": [
-      "Home",
-      "Building a preregistration toolkit"
-    ]
-  },
-  {
-    "objectID": "build-a-preregistration-toolkit/page3.html",
-    "href": "build-a-preregistration-toolkit/page3.html",
-    "title": "Page Title Here",
-    "section": "",
-    "text": "The headers below cause the table of contents/dropdown on the right to be visible.",
-    "crumbs": [
-      "Home",
-      "Building a preregistration toolkit",
-      "Page Title Here"
-    ]
-  },
-  {
-    "objectID": "build-a-preregistration-toolkit/page3.html#level-two",
-    "href": "build-a-preregistration-toolkit/page3.html#level-two",
-    "title": "Page Title Here",
-    "section": "Level Two",
-    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time",
-    "crumbs": [
-      "Home",
-      "Building a preregistration toolkit",
-      "Page Title Here"
-    ]
-  },
-  {
-    "objectID": "build-a-preregistration-toolkit/page3.html#another-level-two",
-    "href": "build-a-preregistration-toolkit/page3.html#another-level-two",
-    "title": "Page Title Here",
-    "section": "Another Level Two",
-    "text": "Another Level Two",
-    "crumbs": [
-      "Home",
-      "Building a preregistration toolkit",
-      "Page Title Here"
-    ]
-  },
-  {
-    "objectID": "build-a-preregistration-toolkit/page3.html#level-two-1",
-    "href": "build-a-preregistration-toolkit/page3.html#level-two-1",
-    "title": "Page Title Here",
-    "section": "Level Two",
-    "text": "Level Two",
-    "crumbs": [
-      "Home",
-      "Building a preregistration toolkit",
-      "Page Title Here"
-    ]
-  },
-  {
-    "objectID": "introduction-and-context/hypothesis-types.html",
-    "href": "introduction-and-context/hypothesis-types.html",
-    "title": "Hypothesis types and errors",
-    "section": "",
-    "text": "The headers below cause the table of contents/dropdown on the right to be visible.",
-    "crumbs": [
-      "Home",
-      "Introduction and context",
-      "Hypothesis types and errors"
-    ]
-  },
-  {
-    "objectID": "introduction-and-context/hypothesis-types.html#level-two",
-    "href": "introduction-and-context/hypothesis-types.html#level-two",
-    "title": "Hypothesis types and errors",
-    "section": "Level Two",
-    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time",
-    "crumbs": [
-      "Home",
-      "Introduction and context",
-      "Hypothesis types and errors"
-    ]
-  },
-  {
-    "objectID": "introduction-and-context/hypothesis-types.html#another-level-two",
-    "href": "introduction-and-context/hypothesis-types.html#another-level-two",
-    "title": "Hypothesis types and errors",
-    "section": "Another Level Two",
-    "text": "Another Level Two",
-    "crumbs": [
-      "Home",
-      "Introduction and context",
-      "Hypothesis types and errors"
-    ]
-  },
-  {
-    "objectID": "introduction-and-context/hypothesis-types.html#level-two-1",
-    "href": "introduction-and-context/hypothesis-types.html#level-two-1",
-    "title": "Hypothesis types and errors",
-    "section": "Level Two",
-    "text": "Level Two",
-    "crumbs": [
-      "Home",
-      "Introduction and context",
-      "Hypothesis types and errors"
-    ]
-  },
-  {
-    "objectID": "introduction-and-context/qrps.html",
-    "href": "introduction-and-context/qrps.html",
-    "title": "Questionable research practices and biases",
-    "section": "",
-    "text": "From one end of the research integrity spectrum of clear misconduct (e.g. falsifying results or plagiarizing someones work) to acceptable and responsible research practices (i.e. what Open Science movement strives to create), where do the selective reporting or misrepresentations of data fit in? This grey zone of Questionable Research Practices (QRPs) of less overt and subtle behaviors (compared to misconduct) nonetheless damages the credibility of science (Entradas et al. 2026). The prevalence and impact of QRPs has received less attention than the clear cut examples of serious research misconduct (although see case study below).\n\n\nHypothesizing after the results are known (HARKing) is a QRP where a researcher changes their hypothesis based on or informed by the results, but present their hypothesis as if it were a priori (Kerr 1998).\n\n\n\np-Hacking is a QRP which describes the many ways researchers can artificially increase the likelihood of obtaining a statistically significant result (Pennington 2023). p-Hacking increases the amount of false positive results and inflates effect sizes published in the literature. There is even an app that let’s you play around with different p-hacking strategies! Warning: the app is designed to understand how p-Hacking works, please do not intentionally p-Hack in your own work!",
-    "crumbs": [
-      "Home",
-      "Introduction and context",
-      "Questionable research practices and biases"
-    ]
-  },
-  {
-    "objectID": "introduction-and-context/qrps.html#questionable-research-practices-the-grey-zone",
-    "href": "introduction-and-context/qrps.html#questionable-research-practices-the-grey-zone",
-    "title": "Questionable research practices and biases",
-    "section": "",
-    "text": "From one end of the research integrity spectrum of clear misconduct (e.g. falsifying results or plagiarizing someones work) to acceptable and responsible research practices (i.e. what Open Science movement strives to create), where do the selective reporting or misrepresentations of data fit in? This grey zone of Questionable Research Practices (QRPs) of less overt and subtle behaviors (compared to misconduct) nonetheless damages the credibility of science (Entradas et al. 2026). The prevalence and impact of QRPs has received less attention than the clear cut examples of serious research misconduct (although see case study below).\n\n\nHypothesizing after the results are known (HARKing) is a QRP where a researcher changes their hypothesis based on or informed by the results, but present their hypothesis as if it were a priori (Kerr 1998).\n\n\n\np-Hacking is a QRP which describes the many ways researchers can artificially increase the likelihood of obtaining a statistically significant result (Pennington 2023). p-Hacking increases the amount of false positive results and inflates effect sizes published in the literature. There is even an app that let’s you play around with different p-hacking strategies! Warning: the app is designed to understand how p-Hacking works, please do not intentionally p-Hack in your own work!",
-    "crumbs": [
-      "Home",
-      "Introduction and context",
-      "Questionable research practices and biases"
-    ]
-  },
-  {
-    "objectID": "introduction-and-context/qrps.html#researcher-biases",
-    "href": "introduction-and-context/qrps.html#researcher-biases",
-    "title": "Questionable research practices and biases",
-    "section": "Researcher biases",
-    "text": "Researcher biases\nThere are wide range of cognitive biases (e.g. hindsight bias, confirmatory bias, bias blind spot) that lead to systematic differences in how we perceive information and make decisions.\n\nHindsight bias\nThe “I knew it all along” is the phrase associated with hindsight bias, which is the tendency to frame previous decisions or events as more predictable after the outcome is known (Hardwicke and Wagenmakers 2023).\n\n\nConfirmatory bias\nThe tendency to seek out, interpret, favor and recall information in a way that supports one’s prior values, beliefs, expectations, or hypothesis (Parsons et al. 2022).\n\n\nBias blind spot\nThe lack of awareness of how one’s decisions are shaped by bias (Hardwicke and Wagenmakers 2023).\nThe range of biases highlights that we are all human and it is important to be aware of how cognitive biases influence how we do our research!",
-    "crumbs": [
-      "Home",
-      "Introduction and context",
-      "Questionable research practices and biases"
-    ]
-  },
-  {
-    "objectID": "introduction-and-context/qrps.html#summary",
-    "href": "introduction-and-context/qrps.html#summary",
-    "title": "Questionable research practices and biases",
-    "section": "Summary",
-    "text": "Summary\n\n\n\n\n\n\nNoteCase study\n\n\n\nInterested in learning more about questionable research practices? Take a look at the recent study by Entradas et al. (2026) where they examined how ~1500 researchers understand and engage in questionable research practices.\n\n\n\n\n\n\n\n\nNote\n\n\n\nMax’s dilemma link",
-    "crumbs": [
-      "Home",
-      "Introduction and context",
-      "Questionable research practices and biases"
-    ]
-  },
-  {
-    "objectID": "introduction-and-context/qrps.html#quick-quiz-on-qrps",
-    "href": "introduction-and-context/qrps.html#quick-quiz-on-qrps",
-    "title": "Questionable research practices and biases",
-    "section": "Quick Quiz on QRPs!",
-    "text": "Quick Quiz on QRPs!\nTest your knowledge on questionable research practices by taking this short quiz.\n\nHARKing - Hypothesizing after the results are known is a:\n\n\nA. type of cognitive bias\nB. questionable research practice\nC. name of a website to report research misconduct\n\n\n\n\n\n\n\nNoteShow solution\n\n\n\n\n\nThe correct answer is B, HARKing is a questionable research practice.\nRefer back to Section 1.1 for more information\n\n\n\n\nThe tendency to frame previous decisions or events as more predictable after the outcome is known, is an example of which type of cognitive bias?\n\n\nA. confirmatory bias\nB. bias blind spot\nC. hindsight bias\n\n\n\n\n\n\n\nNoteShow solution\n\n\n\n\n\nThe answer is C. Hindsight bias can be summarized as “I knew it all along” type of thinking.\nRefer back to Section 2.1 for more information",
-    "crumbs": [
-      "Home",
-      "Introduction and context",
-      "Questionable research practices and biases"
-    ]
-  },
-  {
-    "objectID": "LICENSE-CODE.html",
-    "href": "LICENSE-CODE.html",
-    "title": "",
-    "section": "",
-    "text": "Code\n\n\n\n\n\n\nCreative Commons Zero v1.0 Universal\nCREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN “AS-IS” BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER.\n\nStatement of Purpose\nThe laws of most jurisdictions throughout the world automatically confer exclusive Copyright and Related Rights (defined below) upon the creator and subsequent owner(s) (each and all, an “owner”) of an original work of authorship and/or a database (each, a “Work”).\nCertain owners wish to permanently relinquish those rights to a Work for the purpose of contributing to a commons of creative, cultural and scientific works (“Commons”) that the public can reliably and without fear of later claims of infringement build upon, modify, incorporate in other works, reuse and redistribute as freely as possible in any form whatsoever and for any purposes, including without limitation commercial purposes. These owners may contribute to the Commons to promote the ideal of a free culture and the further production of creative, cultural and scientific works, or to gain reputation or greater distribution for their Work in part through the use and efforts of others.\nFor these and/or other purposes and motivations, and without any expectation of additional consideration or compensation, the person associating CC0 with a Work (the “Affirmer”), to the extent that he or she is an owner of Copyright and Related Rights in the Work, voluntarily elects to apply CC0 to the Work and publicly distribute the Work under its terms, with knowledge of his or her Copyright and Related Rights in the Work and the meaning and intended legal effect of CC0 on those rights.\n\nCopyright and Related Rights. A Work made available under CC0 may be protected by copyright and related or neighboring rights (“Copyright and Related Rights”). Copyright and Related Rights include, but are not limited to, the following:\n\nthe right to reproduce, adapt, distribute, perform, display, communicate, and translate a Work;\nmoral rights retained by the original author(s) and/or performer(s);\npublicity and privacy rights pertaining to a person’s image or likeness depicted in a Work;\nrights protecting against unfair competition in regards to a Work, subject to the limitations in paragraph 4(a), below;\nrights protecting the extraction, dissemination, use and reuse of data in a Work;\ndatabase rights (such as those arising under Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, and under any national implementation thereof, including any amended or successor version of such directive); and\nother similar, equivalent or corresponding rights throughout the world based on applicable law or treaty, and any national implementations thereof.\n\nWaiver. To the greatest extent permitted by, but not in contravention of, applicable law, Affirmer hereby overtly, fully, permanently, irrevocably and unconditionally waives, abandons, and surrenders all of Affirmer’s Copyright and Related Rights and associated claims and causes of action, whether now known or unknown (including existing as well as future claims and causes of action), in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the “Waiver”). Affirmer makes the Waiver for the benefit of each member of the public at large and to the detriment of Affirmer’s heirs and successors, fully intending that such Waiver shall not be subject to revocation, rescission, cancellation, termination, or any other legal or equitable action to disrupt the quiet enjoyment of the Work by the public as contemplated by Affirmer’s express Statement of Purpose.\nPublic License Fallback. Should any part of the Waiver for any reason be judged legally invalid or ineffective under applicable law, then the Waiver shall be preserved to the maximum extent permitted taking into account Affirmer’s express Statement of Purpose. In addition, to the extent the Waiver is so judged Affirmer hereby grants to each affected person a royalty-free, non transferable, non sublicensable, non exclusive, irrevocable and unconditional license to exercise Affirmer’s Copyright and Related Rights in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the “License”). The License shall be deemed effective as of the date CC0 was applied by Affirmer to the Work. Should any part of the License for any reason be judged legally invalid or ineffective under applicable law, such partial invalidity or ineffectiveness shall not invalidate the remainder of the License, and in such case Affirmer hereby affirms that he or she will not (i) exercise any of his or her remaining Copyright and Related Rights in the Work or (ii) assert any associated claims and causes of action with respect to the Work, in either case contrary to Affirmer’s express Statement of Purpose.\nLimitations and Disclaimers.\n\nNo trademark or patent rights held by Affirmer are waived, abandoned, surrendered, licensed or otherwise affected by this document.\nAffirmer offers the Work as-is and makes no representations or warranties of any kind concerning the Work, express, implied, statutory or otherwise, including without limitation warranties of title, merchantability, fitness for a particular purpose, non infringement, or the absence of latent or other defects, accuracy, or the present or absence of errors, whether or not discoverable, all to the greatest extent permissible under applicable law.\nAffirmer disclaims responsibility for clearing rights of other persons that may apply to the Work or any use thereof, including without limitation any person’s Copyright and Related Rights in the Work. Further, Affirmer disclaims responsibility for obtaining any necessary consents, permissions or other rights required for any use of the Work.\nAffirmer understands and acknowledges that Creative Commons is not a party to this document and has no duty or obligation with respect to this CC0 or use of the Work.\n\n\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "footer/accessibilty.html",
-    "href": "footer/accessibilty.html",
-    "title": "Accessibility",
-    "section": "",
-    "text": "The Ludwig-Maximilians-Universität München strives to make its offers accessible in accordance with § 9 Act on Digitalisation in the Free State of Bavaria (Bayerisches Digitalgesetz – BayDig).\nThis Accessibility Statement applies to applications available at https://www.lmu.de/de/index.html, https://www.lmu.de/de/index.html and all subdomain pages."
-  },
-  {
-    "objectID": "footer/accessibilty.html#status-of-compliance",
-    "href": "footer/accessibilty.html#status-of-compliance",
-    "title": "Accessibility",
-    "section": "Status of Compliance",
-    "text": "Status of Compliance\nPartially compliant: This application partially corresponds to § 1 BayEGovV.\n\nLegal Name\nLudwig-Maximilians-Universität München\n\n\nWebsite(s):\nhttps://www.lmu.de/de/index.html, https://www.lmu.de/de/index.html and all subdomain pages."
-  },
-  {
-    "objectID": "footer/accessibilty.html#known-accessibility-issues",
-    "href": "footer/accessibilty.html#known-accessibility-issues",
-    "title": "Accessibility",
-    "section": "Known Accessibility Issues",
-    "text": "Known Accessibility Issues\nList and explanation of the problems encountered when implementing the accessibility of these websites\n\nContent Not Accessible to People With Disabilities\n\nApart from the main pages, alternative text-based content for images and tables may be missing. There may also be errors in content hierarchy and links may be unintelligible.\nPDF documents created before 09/23/2018 have not yet been converted to a fully accessible format.\nSome documents have been provided by institutions of the LMU, which are not yet all available in a fully accessible version.\nMany of our videos also lack subtitles and audio descriptions. We will be adding written directions for the maps used to give directions.\nQuotes are often not indicated as such using the appropriate HTML tag.\nResponsive design (for viewing on mobile devices) is only partially available for the websites, screen orientation is otherwise limited to landscape format. For non-responsive pages, texts do not wrap correctly in a small viewport.\nFields for inputting user data are not always sufficiently designated as such.\nWords or passages in other languages are not always indicated as such.\nBecause of the Google Search plugin, the criteria for “valid HTML text” is not being fulfilled."
-  },
-  {
-    "objectID": "footer/accessibilty.html#explanation",
-    "href": "footer/accessibilty.html#explanation",
-    "title": "Accessibility",
-    "section": "Explanation",
-    "text": "Explanation\nAll LMU websites are currently undergoing a complete relaunch. It therefore no longer makes sense to revise the existing websites.\nThe deficiencies of the old website have been listed above.\nCreation Date: 09/22/2019\nMethodology: Self-assessment"
-  },
-  {
-    "objectID": "footer/accessibilty.html#feedback-mechanism",
-    "href": "footer/accessibilty.html#feedback-mechanism",
-    "title": "Accessibility",
-    "section": "Feedback Mechanism",
-    "text": "Feedback Mechanism\nAs a user, you can inform us of any shortcomings in complying with accessibility requirements or request information in an accessible format that is not required to be displayed in an accessible format.\n\nContact Information\nUnit VI.5 Internet Services\nMartiusstraße 4\n80802 Munich\nMail: it.internet@verwaltung.uni-muenchen.de\nPhone: +49 (0) 89 / 2180-9832"
-  },
-  {
-    "objectID": "footer/accessibilty.html#enforcement-procedure",
-    "href": "footer/accessibilty.html#enforcement-procedure",
-    "title": "Accessibility",
-    "section": "Enforcement Procedure",
-    "text": "Enforcement Procedure\nIf a request for contact remains unanswered in whole or in part within six weeks, the Landesamt für Digitalisierung, Breitband und Vermessung (Agency for Digitisation, High-Speed Internet and Surveying) will, at the request of the user, examine whether measures are necessary with regard to the monitoring of the obligated party.\n\nContact information of the agency responsible for the enforcement procedure\nLandesamt für Digitalisierung, Breitband und Vermessung Alexandrastraße 4\n80538 Munich\nPhone: +49 89 2129-1111\nFax: +49 89 2129-1113\nEmail:service@geodaten.bayern.de\nhttps://www.ldbv.bayern.de/service/kontakt/\n\n\nOther Help Services\nStudents with disabilities are supported by the Beratungsstelle für Studierende mit Behinderung und chronischer Erkrankung (Counselling Center for Students with Disabilities and Chronic Illnesses).\nThe Schwerbehindertenvertretung (Representative for Disabled Persons) (access protected on the service portal) can support employees."
   },
   {
     "objectID": "footer/imprint.html",
@@ -537,28 +192,6 @@
     "text": "Disclaimer\nThe information offered by the LMU contains cross-references (“links”) to other internet offers by the LMU or by external, third-parties. Basically the internet pages will open automatically in a new window.\nThrough this cross-reference, the LMU handles access for use of this content (§ 5 Telemedia Law). We are not responsible for this “foreign” content since we do not initiate the transmission of the information, have not selected the addressee of the transmitted information and also have not selected or changed the transmitted information.\nAn automatic, short-term interim saving of this “foreign information” by the LMU does not occur due to the selected call-up and linking method, so that the LMU does not thereby assume any responsibility for this foreign content.\nHowever, upon initial linking with these internet offers, the LMU has checked the foreign content to determine whether it may trigger a potential responsibility under civil or penal law. But we do not receive any automatic information about changes to the foreign internet offers and thus cannot constantly monitor their content for any changes. Therefore we also cannot assume any responsibility for them. Solely the particular merchant of the foreign internet offer is liable for illegal, erroneous or incomplete content, and in particular for damages which arise from the use or non-use of information by third parties. However, we endeavor to check the included links regularly with regard to these named criteria."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Preregistration: the what, why and how?",
-    "section": "",
-    "text": "This self-paced tutorial will introduce you to the key concepts, practices and tools involved in preregistration. Preregistration is an open science practice that is increasingly adopted.\nThis tutorial is intended to take X hours to complete.\nThe tutorial is split into the following five sections:\n\nIntroduction to preregistration provides an introduction to the context of why preregistration exists as an open science practice. This section discusses key concepts and topics such as different research methodologies (e.g. qualitative, experimental, observational), confirmatory vs exploratory analysis, questionable research practices.\nHow to do a preregistration briefly outlines the essential and recommended elements to include in a study preregistration, with resources to find templates by research method.\nChallenges and opportunities of preregistration explores the challenges and opportunities of doing a preregistration from an individual researcher perspective to the wider research ecosystem.\nBuilding a preregistration toolkit provides opportunities to practice improving parts of a study preregistration from research questions to analysis plans.\nEvaluating preregistration quality provides guidance and resources to critically evaluate existing preregistration, to equip learners with the tools to complete their own study preregistration.\n\nThis tutorial will take you on a journey from:\n“I am not sure what preregistration is or why it is important” to: “I feel empowered to adopt the principles of preregistration”\nLearning objectives  By the end of this tutorial, you should be able to:\n\nidentify the components of a preregistration,\nrecognize challenges and opportunities of preregistration,\npropose solutions to navigating barriers to implementing a preregistration, and\nevaluate the quality of a preregistration.\n\n\n\n\n\n\n\nTipPrerequisites\n\n\n\nThis tutorial assumes you have the following:\nFamiliarity with the steps in the research life cycle, the different types of variables (independent, dependent and covariates)\n\n\n\n\n\n\n\n\n\n\nTipSupport the LMU Open Science Center!\n\n\n\nLike this tutorial? Be sure to give the repository a star and follow us on GitHub!\n\n\n\n\n\n\n\n\n\n\n\nTipQuestions about this tutorial?\n\n\n\nIf you have questions for the author of this tutorial, please take a look at the About page.",
-    "crumbs": [
-      "Home",
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "index.html#tutorial-overview",
-    "href": "index.html#tutorial-overview",
-    "title": "Preregistration: the what, why and how?",
-    "section": "",
-    "text": "This self-paced tutorial will introduce you to the key concepts, practices and tools involved in preregistration. Preregistration is an open science practice that is increasingly adopted.\nThis tutorial is intended to take X hours to complete.\nThe tutorial is split into the following five sections:\n\nIntroduction to preregistration provides an introduction to the context of why preregistration exists as an open science practice. This section discusses key concepts and topics such as different research methodologies (e.g. qualitative, experimental, observational), confirmatory vs exploratory analysis, questionable research practices.\nHow to do a preregistration briefly outlines the essential and recommended elements to include in a study preregistration, with resources to find templates by research method.\nChallenges and opportunities of preregistration explores the challenges and opportunities of doing a preregistration from an individual researcher perspective to the wider research ecosystem.\nBuilding a preregistration toolkit provides opportunities to practice improving parts of a study preregistration from research questions to analysis plans.\nEvaluating preregistration quality provides guidance and resources to critically evaluate existing preregistration, to equip learners with the tools to complete their own study preregistration.\n\nThis tutorial will take you on a journey from:\n“I am not sure what preregistration is or why it is important” to: “I feel empowered to adopt the principles of preregistration”\nLearning objectives  By the end of this tutorial, you should be able to:\n\nidentify the components of a preregistration,\nrecognize challenges and opportunities of preregistration,\npropose solutions to navigating barriers to implementing a preregistration, and\nevaluate the quality of a preregistration.\n\n\n\n\n\n\n\nTipPrerequisites\n\n\n\nThis tutorial assumes you have the following:\nFamiliarity with the steps in the research life cycle, the different types of variables (independent, dependent and covariates)\n\n\n\n\n\n\n\n\n\n\nTipSupport the LMU Open Science Center!\n\n\n\nLike this tutorial? Be sure to give the repository a star and follow us on GitHub!\n\n\n\n\n\n\n\n\n\n\n\nTipQuestions about this tutorial?\n\n\n\nIf you have questions for the author of this tutorial, please take a look at the About page.",
-    "crumbs": [
-      "Home",
-      "Overview"
-    ]
-  },
-  {
     "objectID": "footer/privacy.html",
     "href": "footer/privacy.html",
     "title": "Privacy Policy",
@@ -573,99 +206,25 @@
     "text": "Matomo Tracking Opt-Out\nThis opt-out is only for the Matomo web analytics tool in use directly the LMU Open Science Center website. It does not affect any other tracking or analytics tools that may be in use on this site, including those used by GitHub Pages."
   },
   {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
-    "title": "",
+    "objectID": "build-a-preregistration-toolkit/Preregistration toolkit.html",
+    "href": "build-a-preregistration-toolkit/Preregistration toolkit.html",
+    "title": "Building up your preregistration toolkit!",
     "section": "",
-    "text": "Code"
+    "text": "In the spirit of an “Open Science buffet” (Bergmann, 2023), let’s start to build up your pregistration toolkit! Starting small can help manage the feeling of overwhelm with trying out a practice for the first time! Remember that one of the common challenges is feelings of overwhelm with doing a preregistration, and uncertainty about where to start."
   },
   {
-    "objectID": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
-    "href": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
-    "title": "",
-    "section": "Creative Commons Attribution-ShareAlike 4.0 International Public License",
-    "text": "Creative Commons Attribution-ShareAlike 4.0 International Public License\nBy exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License (“Public License”). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.\n\nSection 1 – Definitions.\n\nAdapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.\nAdapter’s License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.\nBY-SA Compatible License means a license listed at creativecommons.org/compatiblelicenses, approved by Creative Commons as essentially the equivalent of this Public License.\nCopyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.\nEffective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.\nExceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.\nLicense Elements means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.\nLicensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.\nLicensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.\nLicensor means the individual(s) or entity(ies) granting rights under this Public License.\nShare means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.\nSui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.\nYou means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.\n\n\n\nSection 2 – Scope.\n\nLicense grant.\n\nSubject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:\nA. reproduce and Share the Licensed Material, in whole or in part; and\nB. produce, reproduce, and Share Adapted Material.\nExceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.\nTerm. The term of this Public License is specified in Section 6(a).\nMedia and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.\nDownstream recipients.\nA. Offer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.\nB. Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.\nC. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.\nNo endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).\n\nOther rights.\n\nMoral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.\nPatent and trademark rights are not licensed under this Public License.\nTo the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.\n\n\n\n\nSection 3 – License Conditions.\nYour exercise of the Licensed Rights is expressly made subject to the following conditions.\n\nAttribution.\n\nIf You Share the Licensed Material (including in modified form), You must:\nA. retain the following if it is supplied by the Licensor with the Licensed Material:\n\nidentification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);\na copyright notice;\na notice that refers to this Public License;\na notice that refers to the disclaimer of warranties;\na URI or hyperlink to the Licensed Material to the extent reasonably practicable;\n\nB. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and\nC. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.\nYou may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.\nIf requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.\n\nShareAlike.\n\nIn addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.\n\nThe Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.\nYou must include the text of, or the URI or hyperlink to, the Adapter’s License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.\nYou may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter’s License You apply.\n\n\n\nSection 4 – Sui Generis Database Rights.\nWhere the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:\n\nfor the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;\nif You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and\nYou must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.\n\nFor the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.\n\n\nSection 5 – Disclaimer of Warranties and Limitation of Liability.\n\nUnless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.\nTo the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.\nThe disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.\n\n\n\nSection 6 – Term and Termination.\n\nThis Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.\nWhere Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:\n\nautomatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or\nupon express reinstatement by the Licensor.\n\nFor the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.\nFor the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.\nSections 1, 5, 6, 7, and 8 survive termination of this Public License.\n\n\n\nSection 7 – Other Terms and Conditions.\n\nThe Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.\nAny arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.\n\n\n\nSection 8 – Interpretation.\n\nFor the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.\nTo the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.\nNo term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.\nNothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.\n\n\nCreative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the CC0 Public Domain Dedication. Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.\nCreative Commons may be contacted at creativecommons.org."
+    "objectID": "build-a-preregistration-toolkit/Preregistration toolkit.html#self-check",
+    "href": "build-a-preregistration-toolkit/Preregistration toolkit.html#self-check",
+    "title": "Building up your preregistration toolkit!",
+    "section": "Self check",
+    "text": "Self check\nAfter doing the snippet exercise, reflect on which component of a preregistration you feel like you need more practice in. You can take a look at the table under “additional resources” for further information on a specific preregistration component.\n\nResearch questions and hypotheses\nSampling plan\nVariable description\nOutliers and exceptions\nAnalysis plan\nReporting study preregistration"
   },
   {
-    "objectID": "introduction-and-context/introduction.html",
-    "href": "introduction-and-context/introduction.html",
-    "title": "Introduction to preregistration",
-    "section": "",
-    "text": "When reading a typical journal article, can you tell if the research questions or hypotheses were formulated before or after the study findings were known, and does this matter? Short answer is: no, you can’t really tell and yes it does matter!\nRecognizing the difference between planned work and unplanned work both as a contributor to and consumer of research is critical for transparent and credible science (Nosek et al 2018). Conflating predictions and postdictions can lead to… Presenting postdictions as predictions can increase publishability of findings (e.g. positive and novel results) by falsely reducing uncertainty….\nPreregistration is a practice which aims to clarify prediction vs postdiction in a research study. This is works by producing an uneditable time-stamped document that outlines a study plan including research questions/hypotheses, research design, data analysis before data collection and analysis. A study preregistration is then uploaded onto a verified repository so that it can be publicly shared with others (possibly after an embargo period) (Nosek, 2018; Parsons et al. 2022). Importantly, preregistration remains agnostic when it comes to prediction vs postdiction approach to research, it aims to clearly differentiate between the two.\n\n\n\n\n\n\nWarningTerminology\n\n\n\nYou may notice in the literature different terms relating to preregistration like study registration. Some researchers are advocating for a reform of terms to avoid ambiguity, as some terms can refer to different practices occurring at various stages of the research life cycle (mayo-wilson2025?). In this tutorial, we will use the term preregistration.",
-    "crumbs": [
-      "Home",
-      "Introduction and context"
-    ]
-  },
-  {
-    "objectID": "introduction-and-context/introduction.html#what-even-is-preregistration",
-    "href": "introduction-and-context/introduction.html#what-even-is-preregistration",
-    "title": "Introduction to preregistration",
-    "section": "",
-    "text": "When reading a typical journal article, can you tell if the research questions or hypotheses were formulated before or after the study findings were known, and does this matter? Short answer is: no, you can’t really tell and yes it does matter!\nRecognizing the difference between planned work and unplanned work both as a contributor to and consumer of research is critical for transparent and credible science (Nosek et al 2018). Conflating predictions and postdictions can lead to… Presenting postdictions as predictions can increase publishability of findings (e.g. positive and novel results) by falsely reducing uncertainty….\nPreregistration is a practice which aims to clarify prediction vs postdiction in a research study. This is works by producing an uneditable time-stamped document that outlines a study plan including research questions/hypotheses, research design, data analysis before data collection and analysis. A study preregistration is then uploaded onto a verified repository so that it can be publicly shared with others (possibly after an embargo period) (Nosek, 2018; Parsons et al. 2022). Importantly, preregistration remains agnostic when it comes to prediction vs postdiction approach to research, it aims to clearly differentiate between the two.\n\n\n\n\n\n\nWarningTerminology\n\n\n\nYou may notice in the literature different terms relating to preregistration like study registration. Some researchers are advocating for a reform of terms to avoid ambiguity, as some terms can refer to different practices occurring at various stages of the research life cycle (mayo-wilson2025?). In this tutorial, we will use the term preregistration.",
-    "crumbs": [
-      "Home",
-      "Introduction and context"
-    ]
-  },
-  {
-    "objectID": "introduction-and-context/introduction.html#why-did-the-practice-of-preregistration-come-about",
-    "href": "introduction-and-context/introduction.html#why-did-the-practice-of-preregistration-come-about",
-    "title": "Introduction to preregistration",
-    "section": "Why did the practice of preregistration come about?",
-    "text": "Why did the practice of preregistration come about?\nThe practice of pregistration came about as a response to the credibility crisis and wider research culture (). It acknowledges the tension between researchers’ motivations to advance knowledge and to obtain a sustainable career with opportunities for progression, promotion, funding and awards.\nThe current research culture rewards study outcomes that positive and novel\nThe lack of clarity between postdiction and prediction creates opportunities for….\nprovides the opportunity to select, rationalize, and report tests that maximize reward over accuracy. Moreover, good intentions are not sufficient to overcome the fallibility of memory, motivated reasoning, and cognitive biases that can occur outside of conscious awareness or control\nPresenting postdictions as predictions can increase the attractiveness and publishability of findings by falsely reducing uncertainty. The current research culture Preregistration as a practice should be\n\n\n\n\n\n\nTipDid you know?\n\n\n\nThe concept of pregistration is not new! The scientist and philosopher Charles Sanders Peirce in ~1880s created a set of rules to test “the truth”, with one being that hypotheses should be stated before data collection (peirce1883?).\n\n\n\nOne of the earliest formal implementations of registrations comes from medical clinical trials.\nMore recently, researchers and journals in the field of psychology have rapidly adopted this practice\n\n\n\n\n\n\n\nTipDid you know?\n\n\n\nThe percentage of medical study findings reporting a significant benefit for an intervention dropped by ~50% after the year 2000 when the registry for clinical trials - clinicaltrials.gov was launched (kaplan2015?)!\n\n\n\nThe replicability crisis\n\n\n\n\n\nQuestionable research practicess\nQuestionable research practices (QRPs) are a set of intentional or unintentional behaviors where researchers distort study findings. Examples include p-hacking and HARKing (Parsons et al. 2022). We will cover the topic of QRPs in more detail in the Questionable research practices page.\n\n\nApproaches to research\nThere is no single one way to do research! It all depends on what information you are trying to gather. Research can be:\n\nQualitative (interview study, focus groups, ethnographic)\nReview-based (systematic, narrative)\nIntervention/experimental (randomized control trials, factorial design)\nObservational (case study, natural experiment, longitudinal)\n\n\n\n\n\n\n\nNoteWhat is your research approach?\n\n\n\nBeing able to understand the different research approaches, study designs and key concepts will help provide context for the steps required to do a study registration.\n\n\n\n\nWhat would you do?\nImagine if your PhD lab mate Max came to you with this dilemma: “I’ve been analyzing the data from my first thesis chapter (which I really want to publish, as it will help with my chances of getting a post doc). One of my hypotheses is that X influences Y. I’ve measured many variables to test this hypothesis. However during the data analysis, results seem to show X has no effect on Y, unless I remove a variable. Do you have any suggestions of what I should do?”\nWhat would you recommend Max does from the options listed below? A) Remove that variable from the analysis B) Tweak the hypothesis to match the results C) Collect more data in the hope, a larger sample size will show an effect D) Try out a new statistical test to see if there is a significant effect E) Leave that variable in and write up the results as they are\nWe will revisit Max’s dilemma throughout this tutorial and hopefully by the end you will be more confident at identifying potential issues and recognize how preregistration can help safeguard against questionable research practice and promote more credible research.\n\n\n\n\n\n\nTipSummary",
-    "crumbs": [
-      "Home",
-      "Introduction and context"
-    ]
-  },
-  {
-    "objectID": "introduction-and-context/research-cycle.html",
-    "href": "introduction-and-context/research-cycle.html",
-    "title": "Research cycle",
-    "section": "",
-    "text": "Qualitative research approaches focus on examining the meanings, experiences, and perspectives of individuals or groups. Data collection involves primary, first-hand, text-based data that is analyzed using specific interpretive methods. Sometimes text-based data is ‘coded’ to identify key themes and patterns (Braun and Clarke 2008).\n\n\n\nReview-based research involves collating and synthesizing previously published work on a topic. These approaches can be used to generate new insights and identify knowledge gaps. Reviews can be more or less done systematically, with systematic review and meta-analyses having well-established protocols (e.g. PRISMA guidelines).\n\n\n\nIntervention and experimental research approaches are closely related. They involve deliberate manipulations to a physical entity (e.g. individuals, groups, organisms) intended to measure changes to that entity. Intervention studies typically focuses on the application of a treatment or action to observe its effect. In experimental studies, a researcher typically observes a problem or situation, then develops a testable hypothesis from which experiments under controlled conditions are used to test specific hypotheses. Based on the outcomes, the hypothesis is adapted. A hypothesis is an unproven statement relating the connection between variables.\n\n\n\n\n\n\nNoteHypothesis generating vs testing\n\n\n\nHypothesis generating vs testing are two modes of research inquiry that influence study designs and underpin the practice of study registrations. Hypothesis generating: - exploratory, discovery-focused research (asks questions like: what is happening? Why is it happening, How is it happening?)\nHypothesis testing: - confirmatory, justification-focused research (asks questions like: what does X do to Y?)\nThe distinctions between hypothesis generating vs testing research are often not clearly differentiated in practice, which leads to questionable research practices and reduced credibility of research.\n\n\n\n\n\nObservational research gathers information about individuals or populations without manipulating the environment or variables. Researchers observe and collect data on subjects as they naturally occur in their usual settings. An example of observational research:\n\n\n\nFor research that adopts one or more theoretical frameworks (social and biological sciences) or data types (e.g. participant surveys, visual data, geospatial), would be described as a mixed-method approach.",
-    "crumbs": [
-      "Home",
-      "Introduction and context",
-      "Research cycle"
-    ]
-  },
-  {
-    "objectID": "introduction-and-context/research-cycle.html#research-approaches-101",
-    "href": "introduction-and-context/research-cycle.html#research-approaches-101",
-    "title": "Research cycle",
-    "section": "",
-    "text": "Qualitative research approaches focus on examining the meanings, experiences, and perspectives of individuals or groups. Data collection involves primary, first-hand, text-based data that is analyzed using specific interpretive methods. Sometimes text-based data is ‘coded’ to identify key themes and patterns (Braun and Clarke 2008).\n\n\n\nReview-based research involves collating and synthesizing previously published work on a topic. These approaches can be used to generate new insights and identify knowledge gaps. Reviews can be more or less done systematically, with systematic review and meta-analyses having well-established protocols (e.g. PRISMA guidelines).\n\n\n\nIntervention and experimental research approaches are closely related. They involve deliberate manipulations to a physical entity (e.g. individuals, groups, organisms) intended to measure changes to that entity. Intervention studies typically focuses on the application of a treatment or action to observe its effect. In experimental studies, a researcher typically observes a problem or situation, then develops a testable hypothesis from which experiments under controlled conditions are used to test specific hypotheses. Based on the outcomes, the hypothesis is adapted. A hypothesis is an unproven statement relating the connection between variables.\n\n\n\n\n\n\nNoteHypothesis generating vs testing\n\n\n\nHypothesis generating vs testing are two modes of research inquiry that influence study designs and underpin the practice of study registrations. Hypothesis generating: - exploratory, discovery-focused research (asks questions like: what is happening? Why is it happening, How is it happening?)\nHypothesis testing: - confirmatory, justification-focused research (asks questions like: what does X do to Y?)\nThe distinctions between hypothesis generating vs testing research are often not clearly differentiated in practice, which leads to questionable research practices and reduced credibility of research.\n\n\n\n\n\nObservational research gathers information about individuals or populations without manipulating the environment or variables. Researchers observe and collect data on subjects as they naturally occur in their usual settings. An example of observational research:\n\n\n\nFor research that adopts one or more theoretical frameworks (social and biological sciences) or data types (e.g. participant surveys, visual data, geospatial), would be described as a mixed-method approach.",
-    "crumbs": [
-      "Home",
-      "Introduction and context",
-      "Research cycle"
-    ]
-  },
-  {
-    "objectID": "introduction-and-context/research-cycle.html#research-approaches-and-preregistration",
-    "href": "introduction-and-context/research-cycle.html#research-approaches-and-preregistration",
-    "title": "Research cycle",
-    "section": "Research approaches and preregistration",
-    "text": "Research approaches and preregistration\nThis page outlined 5 methodological and philosophical approaches to research sometimes referred to as “research paradigms”.\n\n\n\n\n\n\nNoteReflection point\n\n\n\nWhich research approach do you use? Have you used more than one approach in your research journey? It is good to be aware of other approaches to research from your own as it broadens your perspectives, especially in an increasingly interdisciplinary and collaborative research ecosystem (e.g. Big Team Science).\n\n\n\nnote focus of this tutorial is more for hypothesis driven research",
-    "crumbs": [
-      "Home",
-      "Introduction and context",
-      "Research cycle"
-    ]
-  },
-  {
-    "objectID": "introduction-and-context/glossary.html",
-    "href": "introduction-and-context/glossary.html",
-    "title": "Glossary",
-    "section": "",
-    "text": "This page provides the glossary of key terms used in this preregistration tutorial.\n\n\n\n\n\n\n\nTerm\nDescription\n\n\n\n\nQuestionable Research Practices (QRPs)\n\n\n\nHypothesis\n\n\n\nPreregistration\n\n\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Home",
-      "Introduction and context",
-      "Glossary"
-    ]
+    "objectID": "build-a-preregistration-toolkit/Preregistration toolkit.html#additional-resources",
+    "href": "build-a-preregistration-toolkit/Preregistration toolkit.html#additional-resources",
+    "title": "Building up your preregistration toolkit!",
+    "section": "Additional resources",
+    "text": "Additional resources\nBelow are some additional resources you can use to help you improve specific components of preregistration you feel requires improvement. This list is non exhaustive and designed to be a starting point for you to explore and share additional resources with your peers.\n\n\n\n\n\n\n\n\nComponent of preregistration\nResource\n\n\n\n\n\nResearch question/hypotheses\n\nBarroga & Matanguihan (2022). A Practical Guide to Writing Quantitative and Qualitative Research Questions and Hypotheses in Scholarly Articles. Journal of Korean medical science, 37(16), e121. https://doi.org/10.3346/jkms.2022.37.e121\n\n\n\n\nSampling plan/research methods\n\nLyall, J. (2022). Preregister your ethical redlines: Vulnerable populations, policy engagement, and the perils of e-hacking. Policy Engagement, and the Perils of E-Hacking (March 25, 2022). http://dx.doi.org/10.2139/ssrn.4066842 |\nvan den Akker, O., Weston, S. J., Campbell, L., Chopik, W. J., Damian, R. I., Davis-Kean, P., … & Bakker, M. (2019). Preregistration of secondary data analysis: A template and tutorial. PsyArXiv. https://doi.org/10.15626/MP.2020.2625  | |\nKirtley, O. J., Lafit, G., Achterhof, R., Hiekkaranta, A. P., & Myin-Germeys, I. (2021). Making the black box transparent: A template and tutorial for registration of studies using experience-sampling methods. Advances in Methods and Practices in Psychological Science, 4(1), 2515245920924686. https://doi.org/10.1177/25152459209246 | |\nHaven, T. L., Errington, T. M., Gleditsch, K. S., van Grootel, L., Jacobs, A. M., Kern, F. G., Piñeiro, R., Rosenblatt, F., & Mokkink, L. B. (2020). Preregistering Qualitative Research: A Delphi Study. International Journal of Qualitative Methods, 19.https://doi.org/10.1177/1609406920976417 |\n\n\n\nVariable description\n\nWicherts, J. M., Veldkamp, C. L., Augusteijn, H. E., Bakker, M., Van Aert, R. C., & Van Assen, M. A. (2016). Degrees of freedom in planning, running, analyzing, and reporting psychological studies: A checklist to avoid p-hacking. Frontiers in psychology, 7, 1832. https://doi.org/10.3389/fpsyg.2016.01832\n\n\n\n\nDesign plan\n\nWillroth, E. C., Graham, E. K., & Mroczek, D. K. (2022). Challenges and opportunities in preregistration of coordinated data analysis: A tutorial and template. Psychology and Aging, 37(1), 136. https://doi.org/10.1037/pag0000611\n\n\n\n\nAnalysis plan\n\nLindeløv (2019). Common statistical tests are linear models (or: how to teach stats). https://lindeloev.github.io/tests-as-linear/#1_the_simplicity_underlying_common_tests\n\n\n\n\nReporting study deviation\n\nDaniël Lakens; When and How to Deviate From a Preregistration. Collabra: Psychology 16 January 2024; 10 (1): 117094. https://doi.org/10.1525/collabra.117094"
   },
   {
     "objectID": "build-a-preregistration-toolkit/page2.html",
@@ -716,94 +275,543 @@
     ]
   },
   {
-    "objectID": "evaluating-preregistration-quality/toolkit.html",
-    "href": "evaluating-preregistration-quality/toolkit.html",
-    "title": "Build up your preregistration toolkit",
+    "objectID": "introduction-and-context/hypothesis-types.html",
+    "href": "introduction-and-context/hypothesis-types.html",
+    "title": "Hypothesis types and errors",
     "section": "",
-    "text": "Recap: So far we have outlined the elements, methods and example templates of doing a preregistration.",
+    "text": "The headers below cause the table of contents/dropdown on the right to be visible.",
     "crumbs": [
       "Home",
-      "Evaluating preregistration quality"
+      "Introduction and context",
+      "Hypothesis types and errors"
     ]
   },
   {
-    "objectID": "evaluating-preregistration-quality/toolkit.html#in-this-section-exercises",
-    "href": "evaluating-preregistration-quality/toolkit.html#in-this-section-exercises",
-    "title": "Build up your preregistration toolkit",
-    "section": "In this section: exercises",
-    "text": "In this section: exercises",
+    "objectID": "introduction-and-context/hypothesis-types.html#level-two",
+    "href": "introduction-and-context/hypothesis-types.html#level-two",
+    "title": "Hypothesis types and errors",
+    "section": "Level Two",
+    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time",
     "crumbs": [
       "Home",
-      "Evaluating preregistration quality"
+      "Introduction and context",
+      "Hypothesis types and errors"
     ]
   },
   {
-    "objectID": "evaluating-preregistration-quality/toolkit.html#importance-of-precision",
-    "href": "evaluating-preregistration-quality/toolkit.html#importance-of-precision",
-    "title": "Build up your preregistration toolkit",
-    "section": "Importance of precision",
-    "text": "Importance of precision\nStudy preregistrations should aim to be as precise as possible to allow readers to be able to clearly follow your proposed plans. When preregistrations are vague, they don’t eliminate flexibility of methods and analyses. By thinking ahead of ways a reader could interpret your plan you crash-test the text to make sure unanticipated problems don’t require changes (to the extent possible). A key question to have in mind is: Is the plan precise and specific enough that anyone reading it would conduct and analyze the study using the same procedures?",
+    "objectID": "introduction-and-context/hypothesis-types.html#another-level-two",
+    "href": "introduction-and-context/hypothesis-types.html#another-level-two",
+    "title": "Hypothesis types and errors",
+    "section": "Another Level Two",
+    "text": "Another Level Two",
     "crumbs": [
       "Home",
-      "Evaluating preregistration quality"
+      "Introduction and context",
+      "Hypothesis types and errors"
     ]
   },
   {
-    "objectID": "evaluating-preregistration-quality/toolkit.html#instructions",
-    "href": "evaluating-preregistration-quality/toolkit.html#instructions",
-    "title": "Build up your preregistration toolkit",
-    "section": "Instructions",
-    "text": "Instructions\nRead through the following snippets under the major sections of a study preregistration and in a digital/paper notepad list areas of ambiguity and have a go at improving the text. The goal is to see what thinking is needed as you plan out your study. There is no “perfect” answer. Use the guiding questions to help you.\nThese exercises have been adapted from the original exercise by Anna van ‘t Veer, Daniel Simons, David Mellor, Simine Vazire, and Katy Corker, and Stephen Lindsay for the APS 2019 preregistration workshop and some of these snippets have been adapted from Ihle (2023).\n\nResearch questions and hypotheses\n\nSnippet 1\n“How do indoor plants benefit people?”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow would you measure “benefit”?\nHow would you study the interaction between plants and people?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nHow does having physical contact with indoor plants reduce psychological and physiological stress in young-adult office workers?\nNotice how the improved answer states the type of interaction between plants and people, more specific details about types of benefits of interest and the target demographic (e.g. young-adult office workers).\nNote: This research question is based on a study by Lee et al. 2015\n\n\n\n\n\nSnippet 2\n“We expect that drinking beer will increase reaction time.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow can information about beer be made more specific?\nWhat is the reaction time measured in relation to?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nFor male psychology students, drinking 5 Magic Hat IPAs will increase their reaction time as measured by machine X. We expect that the group that drinks 5 IPAs will respond at least 1 second slower, on average, than the group that did not drink alcohol.\nNotice how the improved answer states quantity and type of beer and participants involved in the study. There is also a description about the expected direction of response.\n\n\n\n\n\n\nSampling plan\n\nSnippet 3\n“We expect to collect data from 100 subjects.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nAre there any pre-selection rules?\nHow would you deal with possible exclusions?\n\n\n\n\n\n\n\n\n\nNoteShow improved answers\n\n\n\n\n\nImproved answer 1: We will over sample by 15% in order to account for possible exclusions after we apply exclusion criteria 1 and 2 (see xxx), after 115 participants have started with the study, the computer will redirect the next participants to another task.\nNotice how the improved answer states how the researchers apply pre-specified exclusion criteria to reach the expected sample size of 100 subjects.\nAlternative improved answer 2: Since data is collected via online survey the final N could result a little higher if further participants answer the questionnaire in the time between reaching N=100 and putting the survey offline, and we will include these extra participants in the final sample.\nNotice how the alternative improved answer 2 provides an alternative description of the data collection stopping rule embedding flexibility in the sample size (e.g. including extra participants who answer survey before going offline).\nAlternative improved answer 3: We plan to collect usable data from 100 participants. We will schedule slots of up to 10 participants at a time. We anticipate that not all scheduled slots will fill, so we initially will post 150 open slots. If more than 100 participants sign up for the available slots, we will test all of them. Consequently our initial tested sample could include as many as 150 participants. If this initial set of open slots results in testing fewer than 100 participants,we will open additional slots in blocks of 10 until we have tested 100 or more participants in total. We then will evaluate exclusions according to our preregistered rules. If, after exclusion, we have usable data from fewer than 100 participants, we will add enough additional open slots in blocks of 10 to potentially achieve a sample of 100 or more. After completing that testing, we will again evaluate exclusions and will repeat this step as needed until we have usable data from 100 or more participants. Thus, our final sample will include at least 100 participants and up to 150 participants, with the most likely final sample size (given typical signup rates and exclusion rates) between 100 and 109 participants.\nNotice how the alternative improved answer 3 provides detailed description of the data collection method (e.g. batching survey slots of 10 participants) and fail-safe procedures for participant exclusions and restarting (e.g. if data on &lt; 100 participants is usable).\n\n\n\n\n\n\nVariable description\n\nSnippet 4\n“Exam scores for all subjects for final-year bachelor students.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow can information about the exam scores be more specific?\nIs it clear which point in the school year exam scores are measured?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nAverage exam scores for all subjects for final-year bachelor students at the end of the first term after the intervention.\nNotice how the improved answer states how and when the variable is measured.\n\n\n\n\n\n\nDesign plan\n\nSnippet 5\n“Light levels will be manipulated four different ways over the 20 seedling growing trays.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nIs there enough information to understand how the light levels are manipulated?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nLight manipulation will be initiated at seed planting stage (day 0) and run continuously until the end of experiment (day 90). The light manipulation is implemented as a randomized, replicated block design in which four light treatments are repeated across five blocks (n = 20 seedling trays). One of the four light treatments (ambient control, procedural control, -25% light, and +25% light, with respect to ambient light levels) will be applied at the seedling tray level which is nested into the blocks. Adding a procedural control tests the effect of the light manipulation equipment (e.g. potential confounding effect of light treatment).\nNotice how the improved answer states the experimental procedures and structure (e.g. randomized replicated block design) and levels of the variables.\n\n\n\n\n\n\nExclusions and exceptions\n\nSnippet 6\n“We will exclude participants who take too long to answer survey and score low on x.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow long is too long to answer survey defined?\nWhat counts as a low score?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nWe will exclude participants who do not pass two thirds of the attention checks and if time taken to complete the survey is outside the range of 10-20 minutes. Participants will also be excluded if they score below 12 on x.\nNotice how the improved answer specifies how long is too long to answer survey (i.e. data-based outlier criteria) and defined score level for x (i.e. method-based outlier criteria).\n\n\n\n\n\n\nAnalysis plan\n\nSnippet 7\n“A two (Design: simple, complex) by two (group: manipulated, control) mixed ANOVA will be the designated statistical analysis. This statistical analysis will provide insight into the 2-way interaction between the Design (simple vs complex) and group (manipulated or control).”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nWould a reader be able to carry out this ANOVA as described?\n\n\n\n\n\n\n\n\n\nNoteShow ways to improve answer\n\n\n\n\n\nProvide statistical model expression/code, which makes it explicit to the readers the model structure and syntax used to run your analysis. Provide analysis of simulated data and plot/interpret the results (this allows you to think whether design is strong enough to conclude something meaningful whatever the results are).\n\n\n\n\n\n\nReporting study preregistration\n\nSnippet 8\n“Hypothesis:… We aimed to test (1) whether abstract thinking is positively correlated with autonomous motivation … Conclusion:… BIF scores (abstract thinking) were positively associated with trait self-control, autonomous motivation for exercise, and autonomous motivation for diet, but not with sugar or fried food consumption…”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nDo the results reported in the study match to the hypothesis stated?\n\n\n\n\n\n\n\n\n\nNoteShow ways to improve answer\n\n\n\n\n\nLink study outcomes explicitly to numbered hypotheses and contextualize them to the variables, to allow readers to more easily follow. State clearly any unplanned analyses or deviations from what was preregistered.\n\n\n\n\n\n\nExtension excercise\nIf you want more practice at doing a preregistration, have a go at filling out a preregistration template using the platform AsPredicted. A version of this extension exercise is available as a worksheet here (LINK).\nThe aim is to increase your familiarity with the process of filling out a study preregistration and noting down any challenges while you practice. For this exercise you can draw from your own research project and have a go at filling the 11 questions in 20 minutes. 20 minutes should be sufficient time to get a taster for the process. Use the reflection questions below to help you think about your experience of completing this exercise.\nAs your confidence and learning progresses you can have a go at a more comprehensive study preregistration template like the Open Science Framework (OSF).\n\n\n\n\n\n\nTipReflection questions\n\n\n\n\nDid you go through the questions in order?\nWere there any questions you were not expecting?\nWhat was the most challenging part of the preregistration process?",
+    "objectID": "introduction-and-context/hypothesis-types.html#level-two-1",
+    "href": "introduction-and-context/hypothesis-types.html#level-two-1",
+    "title": "Hypothesis types and errors",
+    "section": "Level Two",
+    "text": "Level Two",
     "crumbs": [
       "Home",
-      "Evaluating preregistration quality"
+      "Introduction and context",
+      "Hypothesis types and errors"
     ]
   },
   {
-    "objectID": "evaluating-preregistration-quality/page2.html",
-    "href": "evaluating-preregistration-quality/page2.html",
+    "objectID": "introduction-and-context/research-cycle.html",
+    "href": "introduction-and-context/research-cycle.html",
+    "title": "Research cycle",
+    "section": "",
+    "text": "Qualitative research approaches focus on examining the meanings, experiences, and perspectives of individuals or groups. Data collection involves primary, first-hand, text-based data that is analyzed using specific interpretive methods. Sometimes text-based data is ‘coded’ to identify key themes and patterns (Braun and Clarke 2008).\n\n\n\nReview-based research involves collating and synthesizing previously published work on a topic. These approaches can be used to generate new insights and identify knowledge gaps. Reviews can be more or less done systematically, with systematic review and meta-analyses having well-established protocols (e.g. PRISMA guidelines).\n\n\n\nIntervention and experimental research approaches are closely related. They involve deliberate manipulations to a physical entity (e.g. individuals, groups, organisms) intended to measure changes to that entity. Intervention studies typically focuses on the application of a treatment or action to observe its effect. In experimental studies, a researcher typically observes a problem or situation, then develops a testable hypothesis from which experiments under controlled conditions are used to test specific hypotheses. Based on the outcomes, the hypothesis is adapted. A hypothesis is an unproven statement relating the connection between variables.\n\n\n\n\n\n\nNoteHypothesis generating vs testing\n\n\n\nHypothesis generating vs testing are two modes of research inquiry that influence study designs and underpin the practice of study registrations. Hypothesis generating: - exploratory, discovery-focused research (asks questions like: what is happening? Why is it happening, How is it happening?)\nHypothesis testing: - confirmatory, justification-focused research (asks questions like: what does X do to Y?)\nThe distinctions between hypothesis generating vs testing research are often not clearly differentiated in practice, which leads to questionable research practices and reduced credibility of research.\n\n\n\n\n\nObservational research gathers information about individuals or populations without manipulating the environment or variables. Researchers observe and collect data on subjects as they naturally occur in their usual settings. An example of observational research:\n\n\n\nFor research that adopts one or more theoretical frameworks (social and biological sciences) or data types (e.g. participant surveys, visual data, geospatial), would be described as a mixed-method approach.",
+    "crumbs": [
+      "Home",
+      "Introduction and context",
+      "Research cycle"
+    ]
+  },
+  {
+    "objectID": "introduction-and-context/research-cycle.html#research-approaches-101",
+    "href": "introduction-and-context/research-cycle.html#research-approaches-101",
+    "title": "Research cycle",
+    "section": "",
+    "text": "Qualitative research approaches focus on examining the meanings, experiences, and perspectives of individuals or groups. Data collection involves primary, first-hand, text-based data that is analyzed using specific interpretive methods. Sometimes text-based data is ‘coded’ to identify key themes and patterns (Braun and Clarke 2008).\n\n\n\nReview-based research involves collating and synthesizing previously published work on a topic. These approaches can be used to generate new insights and identify knowledge gaps. Reviews can be more or less done systematically, with systematic review and meta-analyses having well-established protocols (e.g. PRISMA guidelines).\n\n\n\nIntervention and experimental research approaches are closely related. They involve deliberate manipulations to a physical entity (e.g. individuals, groups, organisms) intended to measure changes to that entity. Intervention studies typically focuses on the application of a treatment or action to observe its effect. In experimental studies, a researcher typically observes a problem or situation, then develops a testable hypothesis from which experiments under controlled conditions are used to test specific hypotheses. Based on the outcomes, the hypothesis is adapted. A hypothesis is an unproven statement relating the connection between variables.\n\n\n\n\n\n\nNoteHypothesis generating vs testing\n\n\n\nHypothesis generating vs testing are two modes of research inquiry that influence study designs and underpin the practice of study registrations. Hypothesis generating: - exploratory, discovery-focused research (asks questions like: what is happening? Why is it happening, How is it happening?)\nHypothesis testing: - confirmatory, justification-focused research (asks questions like: what does X do to Y?)\nThe distinctions between hypothesis generating vs testing research are often not clearly differentiated in practice, which leads to questionable research practices and reduced credibility of research.\n\n\n\n\n\nObservational research gathers information about individuals or populations without manipulating the environment or variables. Researchers observe and collect data on subjects as they naturally occur in their usual settings. An example of observational research:\n\n\n\nFor research that adopts one or more theoretical frameworks (social and biological sciences) or data types (e.g. participant surveys, visual data, geospatial), would be described as a mixed-method approach.",
+    "crumbs": [
+      "Home",
+      "Introduction and context",
+      "Research cycle"
+    ]
+  },
+  {
+    "objectID": "introduction-and-context/research-cycle.html#research-approaches-and-preregistration",
+    "href": "introduction-and-context/research-cycle.html#research-approaches-and-preregistration",
+    "title": "Research cycle",
+    "section": "Research approaches and preregistration",
+    "text": "Research approaches and preregistration\nThis page outlined 5 methodological and philosophical approaches to research sometimes referred to as “research paradigms”.\n\n\n\n\n\n\nNoteReflection point\n\n\n\nWhich research approach do you use? Have you used more than one approach in your research journey? It is good to be aware of other approaches to research from your own as it broadens your perspectives, especially in an increasingly interdisciplinary and collaborative research ecosystem (e.g. Big Team Science).\n\n\n\nnote focus of this tutorial is more for hypothesis driven research",
+    "crumbs": [
+      "Home",
+      "Introduction and context",
+      "Research cycle"
+    ]
+  },
+  {
+    "objectID": "challenges-and-opportunities/tips.html",
+    "href": "challenges-and-opportunities/tips.html",
+    "title": "Final recap, practical tips and resources",
+    "section": "",
+    "text": "Final recap:\nlink to Max’s dilemma",
+    "crumbs": [
+      "Home",
+      "Challenges and opportunities of preregistration",
+      "Final recap, practical tips and resources"
+    ]
+  },
+  {
+    "objectID": "challenges-and-opportunities/tips.html#practical-tips",
+    "href": "challenges-and-opportunities/tips.html#practical-tips",
+    "title": "Final recap, practical tips and resources",
+    "section": "Practical tips",
+    "text": "Practical tips\nAs we come to the end of this tutorial, you should feel more knowledgeable and confident about the Open Science practice of preregistration and how to carry out one in your own research. Even if you are not quite ready to implement a study preregistration just yet, you should have the tools to critically evaluate your own research planning approaches and existing preregistered studies. Below are X practical tips and additional resources to help you on your next steps on your preregistration journey!\n\nOpen Science Buffet\n\n\nTip 2\n\n\nTip 3\n\n\nTip 4\n\n\nTip 5",
+    "crumbs": [
+      "Home",
+      "Challenges and opportunities of preregistration",
+      "Final recap, practical tips and resources"
+    ]
+  },
+  {
+    "objectID": "challenges-and-opportunities/tips.html#additional-resources",
+    "href": "challenges-and-opportunities/tips.html#additional-resources",
+    "title": "Final recap, practical tips and resources",
+    "section": "Additional resources",
+    "text": "Additional resources\n\nA student’s perspective of doing a registered report (gya2023?)\nOSF community of support:\nDiscussion about merits vs limits of study peregistration from IEEE Visualization Conference 2022",
+    "crumbs": [
+      "Home",
+      "Challenges and opportunities of preregistration",
+      "Final recap, practical tips and resources"
+    ]
+  },
+  {
+    "objectID": "challenges-and-opportunities/challenges-and-opportunities.html",
+    "href": "challenges-and-opportunities/challenges-and-opportunities.html",
+    "title": "Challenges and opportunities of preregistration",
+    "section": "",
+    "text": "Recap: So far we have covered…\nINSERT word cloud picture here of challenges from spreadsheet",
+    "crumbs": [
+      "Home",
+      "Challenges and opportunities of preregistration"
+    ]
+  },
+  {
+    "objectID": "challenges-and-opportunities/challenges-and-opportunities.html#benefits-of-preregistration",
+    "href": "challenges-and-opportunities/challenges-and-opportunities.html#benefits-of-preregistration",
+    "title": "Challenges and opportunities of preregistration",
+    "section": "Benefits of preregistration",
+    "text": "Benefits of preregistration\n\nImproved planning and project management\n\n\n\n\n\n\nNoteDo you remember?\n\n\n\n\n\nDo you remember the dilemma Max was having? Having a well thought out analysis plan with a clear decision tree would help mitigate encountering Max’s situation in the future.\n\n\n\n\n\nClearer involvement of collaborators/project partners\n\nYou can get a badge!\nMore benefits from a student perspective outlined by (gya2023?)\n\n\n\n\n\n\n\nTipReflection point\n\n\n\n\n\nCan you think of other benefits of preregistration in your research area?",
+    "crumbs": [
+      "Home",
+      "Challenges and opportunities of preregistration"
+    ]
+  },
+  {
+    "objectID": "challenges-and-opportunities/challenges-and-opportunities.html#challenges-of-preregistration",
+    "href": "challenges-and-opportunities/challenges-and-opportunities.html#challenges-of-preregistration",
+    "title": "Challenges and opportunities of preregistration",
+    "section": "Challenges of preregistration",
+    "text": "Challenges of preregistration\nThere remains a number of barriers to the widespread adoption of preregistration. This section outlines some of the commonly perceived barriers and presents some solutions.\n\nTime: “I haven’t got time to do a study registration”\nThe time and effort needed to do a preregistration is a frequently cited challenge, especially in a ‘publish or perish’ research culture. There is a some truth to this statement, as study planning should take time. Reframing the upfront time investment as a\nCounterargument: front-loaded effort during the planning stage can help later on during write up and during peer review.\n\n\nLack of incentives: “I don’t see the point”\nCounterargument: aside from individual researcher benefits (increased reflection, reduced likelihood of systematic errors), journals are increasingly prioritizing study registrations.\n\n\nOverwhelm: “There is so much that goes into a study registration”\nCounterargument: templates and FAQ pages can guide you and if you are unable to officially register a study, adopting principles of study registration is a good step (e.g. Open Science Buffet approach, (bergma2023?))\n\n\nLack of support: “No one in my team knows or cares about study\nregistration”\nCounterargument: share resources, and suggest a group meeting to discuss and learn more about study registration to increase familiarity.",
+    "crumbs": [
+      "Home",
+      "Challenges and opportunities of preregistration"
+    ]
+  },
+  {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
+    "href": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
+    "title": "",
+    "section": "Creative Commons Attribution-ShareAlike 4.0 International Public License",
+    "text": "Creative Commons Attribution-ShareAlike 4.0 International Public License\nBy exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License (“Public License”). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.\n\nSection 1 – Definitions.\n\nAdapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.\nAdapter’s License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.\nBY-SA Compatible License means a license listed at creativecommons.org/compatiblelicenses, approved by Creative Commons as essentially the equivalent of this Public License.\nCopyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.\nEffective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.\nExceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.\nLicense Elements means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.\nLicensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.\nLicensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.\nLicensor means the individual(s) or entity(ies) granting rights under this Public License.\nShare means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.\nSui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.\nYou means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.\n\n\n\nSection 2 – Scope.\n\nLicense grant.\n\nSubject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:\nA. reproduce and Share the Licensed Material, in whole or in part; and\nB. produce, reproduce, and Share Adapted Material.\nExceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.\nTerm. The term of this Public License is specified in Section 6(a).\nMedia and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.\nDownstream recipients.\nA. Offer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.\nB. Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.\nC. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.\nNo endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).\n\nOther rights.\n\nMoral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.\nPatent and trademark rights are not licensed under this Public License.\nTo the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.\n\n\n\n\nSection 3 – License Conditions.\nYour exercise of the Licensed Rights is expressly made subject to the following conditions.\n\nAttribution.\n\nIf You Share the Licensed Material (including in modified form), You must:\nA. retain the following if it is supplied by the Licensor with the Licensed Material:\n\nidentification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);\na copyright notice;\na notice that refers to this Public License;\na notice that refers to the disclaimer of warranties;\na URI or hyperlink to the Licensed Material to the extent reasonably practicable;\n\nB. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and\nC. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.\nYou may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.\nIf requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.\n\nShareAlike.\n\nIn addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.\n\nThe Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.\nYou must include the text of, or the URI or hyperlink to, the Adapter’s License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.\nYou may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter’s License You apply.\n\n\n\nSection 4 – Sui Generis Database Rights.\nWhere the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:\n\nfor the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;\nif You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and\nYou must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.\n\nFor the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.\n\n\nSection 5 – Disclaimer of Warranties and Limitation of Liability.\n\nUnless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.\nTo the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.\nThe disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.\n\n\n\nSection 6 – Term and Termination.\n\nThis Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.\nWhere Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:\n\nautomatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or\nupon express reinstatement by the Licensor.\n\nFor the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.\nFor the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.\nSections 1, 5, 6, 7, and 8 survive termination of this Public License.\n\n\n\nSection 7 – Other Terms and Conditions.\n\nThe Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.\nAny arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.\n\n\n\nSection 8 – Interpretation.\n\nFor the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.\nTo the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.\nNo term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.\nNothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.\n\n\nCreative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the CC0 Public Domain Dedication. Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.\nCreative Commons may be contacted at creativecommons.org."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This site was authored by Sara Lil Middleton, and edits/contributions were made by Malika Ihle."
+  },
+  {
+    "objectID": "about.html#contributors",
+    "href": "about.html#contributors",
+    "title": "About",
+    "section": "",
+    "text": "This site was authored by Sara Lil Middleton, and edits/contributions were made by Malika Ihle."
+  },
+  {
+    "objectID": "about.html#licenses",
+    "href": "about.html#licenses",
+    "title": "About",
+    "section": "Licenses",
+    "text": "Licenses\nThe overall project is available under the CC BY-SA 4.0 license found at LICENSE; all code without any narrative text is also (at your option) available under the CC0 1.0 Universal license found at LICENSE-CODE.\nWhy two licenses? The CC BY-SA 4.0 license is for the content of the website, while the CC0 1.0 Universal license is for the code and configuration files. This is a common practice for websites that include code snippets and other content that may be reused in other projects, particularly because the CC BY-SA 4.0 license is not intended to be used with software."
+  },
+  {
+    "objectID": "about.html#notes",
+    "href": "about.html#notes",
+    "title": "About",
+    "section": "Notes",
+    "text": "Notes\nThis tutorial was primarily written in 2026 using R version 4.5.1. Major changes to R can be found at the R website for the most up-to-date information, and to confirm that our tutorial is not out-of-date."
+  },
+  {
+    "objectID": "about.html#tutorial-template-quarto-extension",
+    "href": "about.html#tutorial-template-quarto-extension",
+    "title": "About",
+    "section": "Tutorial Template Quarto Extension",
+    "text": "Tutorial Template Quarto Extension\nThis tutorial was written using the lmu-osc/tutorial-template Quarto extension (Callahan 2026).\n\n\nCallahan, Patrick. 2026. LMU Open Science Center Tutorial Template: A Quarto Extension. https://doi.org/10.5281/zenodo.21263721."
+  },
+  {
+    "objectID": "about.html#how-to-cite",
+    "href": "about.html#how-to-cite",
+    "title": "About",
+    "section": "How to Cite",
+    "text": "How to Cite\nTo cite this tutorial, please refer to the project’s CITATION.cff file."
+  },
+  {
+    "objectID": "challenges-and-opportunities/faqs.html",
+    "href": "challenges-and-opportunities/faqs.html",
+    "title": "Frequently asked questions",
+    "section": "",
+    "text": "This section contains a collection of common misconceptions, frequently asked questions and concerns around preregistration. This collection is organized according to the stages of doing a preregistration. It is designed to be used as a reference guide which you can revisit.",
+    "crumbs": [
+      "Home",
+      "Challenges and opportunities of preregistration",
+      "Frequently asked questions"
+    ]
+  },
+  {
+    "objectID": "challenges-and-opportunities/faqs.html#thinking-about-doing-a-preregistration",
+    "href": "challenges-and-opportunities/faqs.html#thinking-about-doing-a-preregistration",
+    "title": "Frequently asked questions",
+    "section": "Thinking about doing a preregistration",
+    "text": "Thinking about doing a preregistration\nI’m a student starting a new project and I feel I don’t know enough to do a good preregistration, is it worth doing one?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nThe data I am working with is descriptive, is a study preregistration still useful?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nI work with secondary data and I know what my data look like, what is the point of doing a preregistration?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nIt is possible to preregister an analysis plan for studies that use secondary data! There are many benefits to preregistration of secondary data that overlap with general benefits of preregistration (e.g. distinguishing between confirmatory and exploratory analysis, mitigating researcher degrees of freedom). See a template for preregistration of secondary data by Mertens and Krypotos (2019).\n\n\n\nIs it true that doing a preregistration increases the risk of being scooped?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nConcerns around being scooped can be mitigated by putting an embargo on your preregistration which will make it private until you are ready to share it. Depending on the platform used to upload your preregistration, it can be private indefinitely (e.g. AsPredicted) or a maximum or 4 years from creation date for Open Science Foundation. In addition, by preregistering you are informing others your research plans and they are unlikely to put time, effort and resources to do the same study as you.",
+    "crumbs": [
+      "Home",
+      "Challenges and opportunities of preregistration",
+      "Frequently asked questions"
+    ]
+  },
+  {
+    "objectID": "challenges-and-opportunities/faqs.html#preparing-a-preregistration",
+    "href": "challenges-and-opportunities/faqs.html#preparing-a-preregistration",
+    "title": "Frequently asked questions",
+    "section": "Preparing a preregistration",
+    "text": "Preparing a preregistration\nThe data I am working with is descriptive, is a study preregistration still useful?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nI work with secondary data and I know what my data look like, what is the point of doing a preregistration?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nWhat is the difference between a preregistration and a registered report?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer",
+    "crumbs": [
+      "Home",
+      "Challenges and opportunities of preregistration",
+      "Frequently asked questions"
+    ]
+  },
+  {
+    "objectID": "challenges-and-opportunities/faqs.html#submitting-a-preregistration",
+    "href": "challenges-and-opportunities/faqs.html#submitting-a-preregistration",
+    "title": "Frequently asked questions",
+    "section": "Submitting a preregistration",
+    "text": "Submitting a preregistration\nCan I modify a document in my registration?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer",
+    "crumbs": [
+      "Home",
+      "Challenges and opportunities of preregistration",
+      "Frequently asked questions"
+    ]
+  },
+  {
+    "objectID": "challenges-and-opportunities/faqs.html#post-preregistration-reporting-research",
+    "href": "challenges-and-opportunities/faqs.html#post-preregistration-reporting-research",
+    "title": "Frequently asked questions",
+    "section": "Post preregistration: reporting research",
+    "text": "Post preregistration: reporting research\nMy data collection plans changed due to unforeseen circumstances, how do I report this in my paper?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nDoes it matter if the author list differs from the preregistration document and the final publication?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nWhere can I find information on which journals accept preregistrations or registered reports?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nIncreasingly more journals are accepting study preregistrations. See this up-to-date list of particpating journals by the Center of Open Science.\n\n\n\nHow do I publish a study coming from two preregistrations?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer\n\n\n\nHow do I publish a study that doesn’t cover the entire preregistration?\n\n\n\n\n\n\nTipAnswer\n\n\n\n\n\nAnswer",
+    "crumbs": [
+      "Home",
+      "Challenges and opportunities of preregistration",
+      "Frequently asked questions"
+    ]
+  },
+  {
+    "objectID": "introduction-and-context/glossary.html",
+    "href": "introduction-and-context/glossary.html",
+    "title": "Glossary",
+    "section": "",
+    "text": "This page provides the glossary of key terms used in this preregistration tutorial.\n\n\n\n\n\n\n\nTerm\nDescription\n\n\n\n\nQuestionable Research Practices (QRPs)\n\n\n\nHypothesis\n\n\n\nPreregistration\n\n\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Home",
+      "Introduction and context",
+      "Glossary"
+    ]
+  },
+  {
+    "objectID": "introduction-and-context/qrps.html",
+    "href": "introduction-and-context/qrps.html",
+    "title": "Questionable research practices and biases",
+    "section": "",
+    "text": "From one end of the research integrity spectrum of clear misconduct (e.g. falsifying results or plagiarizing someones work) to acceptable and responsible research practices (i.e. what Open Science movement strives to create), where do the selective reporting or misrepresentations of data fit in? This grey zone of Questionable Research Practices (QRPs) of less overt and subtle behaviors (compared to misconduct) nonetheless damages the credibility of science (Entradas et al. 2026). The prevalence and impact of QRPs has received less attention than the clear cut examples of serious research misconduct (although see case study below).\n\n\nHypothesizing after the results are known (HARKing) is a QRP where a researcher changes their hypothesis based on or informed by the results, but present their hypothesis as if it were a priori (Kerr 1998).\n\n\n\np-Hacking is a QRP which describes the many ways researchers can artificially increase the likelihood of obtaining a statistically significant result (Pennington 2023). p-Hacking increases the amount of false positive results and inflates effect sizes published in the literature. There is even an app that let’s you play around with different p-hacking strategies! Warning: the app is designed to understand how p-Hacking works, please do not intentionally p-Hack in your own work!",
+    "crumbs": [
+      "Home",
+      "Introduction and context",
+      "Questionable research practices and biases"
+    ]
+  },
+  {
+    "objectID": "introduction-and-context/qrps.html#questionable-research-practices-the-grey-zone",
+    "href": "introduction-and-context/qrps.html#questionable-research-practices-the-grey-zone",
+    "title": "Questionable research practices and biases",
+    "section": "",
+    "text": "From one end of the research integrity spectrum of clear misconduct (e.g. falsifying results or plagiarizing someones work) to acceptable and responsible research practices (i.e. what Open Science movement strives to create), where do the selective reporting or misrepresentations of data fit in? This grey zone of Questionable Research Practices (QRPs) of less overt and subtle behaviors (compared to misconduct) nonetheless damages the credibility of science (Entradas et al. 2026). The prevalence and impact of QRPs has received less attention than the clear cut examples of serious research misconduct (although see case study below).\n\n\nHypothesizing after the results are known (HARKing) is a QRP where a researcher changes their hypothesis based on or informed by the results, but present their hypothesis as if it were a priori (Kerr 1998).\n\n\n\np-Hacking is a QRP which describes the many ways researchers can artificially increase the likelihood of obtaining a statistically significant result (Pennington 2023). p-Hacking increases the amount of false positive results and inflates effect sizes published in the literature. There is even an app that let’s you play around with different p-hacking strategies! Warning: the app is designed to understand how p-Hacking works, please do not intentionally p-Hack in your own work!",
+    "crumbs": [
+      "Home",
+      "Introduction and context",
+      "Questionable research practices and biases"
+    ]
+  },
+  {
+    "objectID": "introduction-and-context/qrps.html#researcher-biases",
+    "href": "introduction-and-context/qrps.html#researcher-biases",
+    "title": "Questionable research practices and biases",
+    "section": "Researcher biases",
+    "text": "Researcher biases\nThere are wide range of cognitive biases (e.g. hindsight bias, confirmatory bias, bias blind spot) that lead to systematic differences in how we perceive information and make decisions.\n\nHindsight bias\nThe “I knew it all along” is the phrase associated with hindsight bias, which is the tendency to frame previous decisions or events as more predictable after the outcome is known (Hardwicke and Wagenmakers 2023).\n\n\nConfirmatory bias\nThe tendency to seek out, interpret, favor and recall information in a way that supports one’s prior values, beliefs, expectations, or hypothesis (Parsons et al. 2022).\n\n\nBias blind spot\nThe lack of awareness of how one’s decisions are shaped by bias (Hardwicke and Wagenmakers 2023).\nThe range of biases highlights that we are all human and it is important to be aware of how cognitive biases influence how we do our research!",
+    "crumbs": [
+      "Home",
+      "Introduction and context",
+      "Questionable research practices and biases"
+    ]
+  },
+  {
+    "objectID": "introduction-and-context/qrps.html#summary",
+    "href": "introduction-and-context/qrps.html#summary",
+    "title": "Questionable research practices and biases",
+    "section": "Summary",
+    "text": "Summary\n\n\n\n\n\n\nNoteCase study\n\n\n\nInterested in learning more about questionable research practices? Take a look at the recent study by Entradas et al. (2026) where they examined how ~1500 researchers understand and engage in questionable research practices.\n\n\n\n\n\n\n\n\nNote\n\n\n\nMax’s dilemma link",
+    "crumbs": [
+      "Home",
+      "Introduction and context",
+      "Questionable research practices and biases"
+    ]
+  },
+  {
+    "objectID": "introduction-and-context/qrps.html#quick-quiz-on-qrps",
+    "href": "introduction-and-context/qrps.html#quick-quiz-on-qrps",
+    "title": "Questionable research practices and biases",
+    "section": "Quick Quiz on QRPs!",
+    "text": "Quick Quiz on QRPs!\nTest your knowledge on questionable research practices by taking this short quiz.\n\nHARKing - Hypothesizing after the results are known is a:\n\n\nA. type of cognitive bias\nB. questionable research practice\nC. name of a website to report research misconduct\n\n\n\n\n\n\n\nNoteShow solution\n\n\n\n\n\nThe correct answer is B, HARKing is a questionable research practice.\nRefer back to Section 1.1 for more information\n\n\n\n\nThe tendency to frame previous decisions or events as more predictable after the outcome is known, is an example of which type of cognitive bias?\n\n\nA. confirmatory bias\nB. bias blind spot\nC. hindsight bias\n\n\n\n\n\n\n\nNoteShow solution\n\n\n\n\n\nThe answer is C. Hindsight bias can be summarized as “I knew it all along” type of thinking.\nRefer back to Section 2.1 for more information",
+    "crumbs": [
+      "Home",
+      "Introduction and context",
+      "Questionable research practices and biases"
+    ]
+  },
+  {
+    "objectID": "introduction-and-context/introduction.html",
+    "href": "introduction-and-context/introduction.html",
+    "title": "Introduction to preregistration",
+    "section": "",
+    "text": "When reading a typical journal article, can you tell if the research questions or hypotheses were formulated before or after the study findings were known, and does this matter? Short answer is: no, you can’t really tell and yes it does matter!\nRecognizing the difference between planned work and unplanned work both as a contributor to and consumer of research is critical for transparent and credible science (Nosek et al 2018). Conflating predictions and postdictions can lead to… Presenting postdictions as predictions can increase publishability of findings (e.g. positive and novel results) by falsely reducing uncertainty….\nPreregistration is a practice which aims to clarify prediction vs postdiction in a research study. This is works by producing an uneditable time-stamped document that outlines a study plan including research questions/hypotheses, research design, data analysis before data collection and analysis. A study preregistration is then uploaded onto a verified repository so that it can be publicly shared with others (possibly after an embargo period) (Nosek, 2018; Parsons et al. 2022). Importantly, preregistration remains agnostic when it comes to prediction vs postdiction approach to research, it aims to clearly differentiate between the two.\n\n\n\n\n\n\nWarningTerminology\n\n\n\nYou may notice in the literature different terms relating to preregistration like study registration. Some researchers are advocating for a reform of terms to avoid ambiguity, as some terms can refer to different practices occurring at various stages of the research life cycle (mayo-wilson2025?). In this tutorial, we will use the term preregistration.",
+    "crumbs": [
+      "Home",
+      "Introduction and context"
+    ]
+  },
+  {
+    "objectID": "introduction-and-context/introduction.html#what-even-is-preregistration",
+    "href": "introduction-and-context/introduction.html#what-even-is-preregistration",
+    "title": "Introduction to preregistration",
+    "section": "",
+    "text": "When reading a typical journal article, can you tell if the research questions or hypotheses were formulated before or after the study findings were known, and does this matter? Short answer is: no, you can’t really tell and yes it does matter!\nRecognizing the difference between planned work and unplanned work both as a contributor to and consumer of research is critical for transparent and credible science (Nosek et al 2018). Conflating predictions and postdictions can lead to… Presenting postdictions as predictions can increase publishability of findings (e.g. positive and novel results) by falsely reducing uncertainty….\nPreregistration is a practice which aims to clarify prediction vs postdiction in a research study. This is works by producing an uneditable time-stamped document that outlines a study plan including research questions/hypotheses, research design, data analysis before data collection and analysis. A study preregistration is then uploaded onto a verified repository so that it can be publicly shared with others (possibly after an embargo period) (Nosek, 2018; Parsons et al. 2022). Importantly, preregistration remains agnostic when it comes to prediction vs postdiction approach to research, it aims to clearly differentiate between the two.\n\n\n\n\n\n\nWarningTerminology\n\n\n\nYou may notice in the literature different terms relating to preregistration like study registration. Some researchers are advocating for a reform of terms to avoid ambiguity, as some terms can refer to different practices occurring at various stages of the research life cycle (mayo-wilson2025?). In this tutorial, we will use the term preregistration.",
+    "crumbs": [
+      "Home",
+      "Introduction and context"
+    ]
+  },
+  {
+    "objectID": "introduction-and-context/introduction.html#why-did-the-practice-of-preregistration-come-about",
+    "href": "introduction-and-context/introduction.html#why-did-the-practice-of-preregistration-come-about",
+    "title": "Introduction to preregistration",
+    "section": "Why did the practice of preregistration come about?",
+    "text": "Why did the practice of preregistration come about?\nThe practice of pregistration came about as a response to the credibility crisis and wider research culture (). It acknowledges the tension between researchers’ motivations to advance knowledge and to obtain a sustainable career with opportunities for progression, promotion, funding and awards.\nThe current research culture rewards study outcomes that positive and novel\nThe lack of clarity between postdiction and prediction creates opportunities for….\nprovides the opportunity to select, rationalize, and report tests that maximize reward over accuracy. Moreover, good intentions are not sufficient to overcome the fallibility of memory, motivated reasoning, and cognitive biases that can occur outside of conscious awareness or control\nPresenting postdictions as predictions can increase the attractiveness and publishability of findings by falsely reducing uncertainty. The current research culture Preregistration as a practice should be\n\n\n\n\n\n\nTipDid you know?\n\n\n\nThe concept of pregistration is not new! The scientist and philosopher Charles Sanders Peirce in ~1880s created a set of rules to test “the truth”, with one being that hypotheses should be stated before data collection (peirce1883?).\n\n\n\nOne of the earliest formal implementations of registrations comes from medical clinical trials.\nMore recently, researchers and journals in the field of psychology have rapidly adopted this practice\n\n\n\n\n\n\n\nTipDid you know?\n\n\n\nThe percentage of medical study findings reporting a significant benefit for an intervention dropped by ~50% after the year 2000 when the registry for clinical trials - clinicaltrials.gov was launched (kaplan2015?)!\n\n\n\nThe replicability crisis\n\n\n\n\n\nQuestionable research practicess\nQuestionable research practices (QRPs) are a set of intentional or unintentional behaviors where researchers distort study findings. Examples include p-hacking and HARKing (Parsons et al. 2022). We will cover the topic of QRPs in more detail in the Questionable research practices page.\n\n\nApproaches to research\nThere is no single one way to do research! It all depends on what information you are trying to gather. Research can be:\n\nQualitative (interview study, focus groups, ethnographic)\nReview-based (systematic, narrative)\nIntervention/experimental (randomized control trials, factorial design)\nObservational (case study, natural experiment, longitudinal)\n\n\n\n\n\n\n\nNoteWhat is your research approach?\n\n\n\nBeing able to understand the different research approaches, study designs and key concepts will help provide context for the steps required to do a study registration.\n\n\n\n\nWhat would you do?\nImagine if your PhD lab mate Max came to you with this dilemma: “I’ve been analyzing the data from my first thesis chapter (which I really want to publish, as it will help with my chances of getting a post doc). One of my hypotheses is that X influences Y. I’ve measured many variables to test this hypothesis. However during the data analysis, results seem to show X has no effect on Y, unless I remove a variable. Do you have any suggestions of what I should do?”\nWhat would you recommend Max does from the options listed below? A) Remove that variable from the analysis B) Tweak the hypothesis to match the results C) Collect more data in the hope, a larger sample size will show an effect D) Try out a new statistical test to see if there is a significant effect E) Leave that variable in and write up the results as they are\nWe will revisit Max’s dilemma throughout this tutorial and hopefully by the end you will be more confident at identifying potential issues and recognize how preregistration can help safeguard against questionable research practice and promote more credible research.\n\n\n\n\n\n\nTipSummary",
+    "crumbs": [
+      "Home",
+      "Introduction and context"
+    ]
+  },
+  {
+    "objectID": "build-a-preregistration-toolkit/page3.html",
+    "href": "build-a-preregistration-toolkit/page3.html",
     "title": "Page Title Here",
     "section": "",
     "text": "The headers below cause the table of contents/dropdown on the right to be visible.",
     "crumbs": [
       "Home",
-      "Evaluating preregistration quality",
+      "Building a preregistration toolkit",
       "Page Title Here"
     ]
   },
   {
-    "objectID": "evaluating-preregistration-quality/page2.html#level-two",
-    "href": "evaluating-preregistration-quality/page2.html#level-two",
+    "objectID": "build-a-preregistration-toolkit/page3.html#level-two",
+    "href": "build-a-preregistration-toolkit/page3.html#level-two",
     "title": "Page Title Here",
     "section": "Level Two",
     "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time",
     "crumbs": [
       "Home",
-      "Evaluating preregistration quality",
+      "Building a preregistration toolkit",
       "Page Title Here"
     ]
   },
   {
-    "objectID": "evaluating-preregistration-quality/page2.html#another-level-two",
-    "href": "evaluating-preregistration-quality/page2.html#another-level-two",
+    "objectID": "build-a-preregistration-toolkit/page3.html#another-level-two",
+    "href": "build-a-preregistration-toolkit/page3.html#another-level-two",
     "title": "Page Title Here",
     "section": "Another Level Two",
     "text": "Another Level Two",
     "crumbs": [
       "Home",
-      "Evaluating preregistration quality",
+      "Building a preregistration toolkit",
       "Page Title Here"
     ]
   },
   {
-    "objectID": "evaluating-preregistration-quality/page2.html#level-two-1",
-    "href": "evaluating-preregistration-quality/page2.html#level-two-1",
+    "objectID": "build-a-preregistration-toolkit/page3.html#level-two-1",
+    "href": "build-a-preregistration-toolkit/page3.html#level-two-1",
     "title": "Page Title Here",
     "section": "Level Two",
     "text": "Level Two",
     "crumbs": [
       "Home",
-      "Evaluating preregistration quality",
+      "Building a preregistration toolkit",
+      "Page Title Here"
+    ]
+  },
+  {
+    "objectID": "LICENSE-CODE.html",
+    "href": "LICENSE-CODE.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\n\nCreative Commons Zero v1.0 Universal\nCREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN “AS-IS” BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER.\n\nStatement of Purpose\nThe laws of most jurisdictions throughout the world automatically confer exclusive Copyright and Related Rights (defined below) upon the creator and subsequent owner(s) (each and all, an “owner”) of an original work of authorship and/or a database (each, a “Work”).\nCertain owners wish to permanently relinquish those rights to a Work for the purpose of contributing to a commons of creative, cultural and scientific works (“Commons”) that the public can reliably and without fear of later claims of infringement build upon, modify, incorporate in other works, reuse and redistribute as freely as possible in any form whatsoever and for any purposes, including without limitation commercial purposes. These owners may contribute to the Commons to promote the ideal of a free culture and the further production of creative, cultural and scientific works, or to gain reputation or greater distribution for their Work in part through the use and efforts of others.\nFor these and/or other purposes and motivations, and without any expectation of additional consideration or compensation, the person associating CC0 with a Work (the “Affirmer”), to the extent that he or she is an owner of Copyright and Related Rights in the Work, voluntarily elects to apply CC0 to the Work and publicly distribute the Work under its terms, with knowledge of his or her Copyright and Related Rights in the Work and the meaning and intended legal effect of CC0 on those rights.\n\nCopyright and Related Rights. A Work made available under CC0 may be protected by copyright and related or neighboring rights (“Copyright and Related Rights”). Copyright and Related Rights include, but are not limited to, the following:\n\nthe right to reproduce, adapt, distribute, perform, display, communicate, and translate a Work;\nmoral rights retained by the original author(s) and/or performer(s);\npublicity and privacy rights pertaining to a person’s image or likeness depicted in a Work;\nrights protecting against unfair competition in regards to a Work, subject to the limitations in paragraph 4(a), below;\nrights protecting the extraction, dissemination, use and reuse of data in a Work;\ndatabase rights (such as those arising under Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, and under any national implementation thereof, including any amended or successor version of such directive); and\nother similar, equivalent or corresponding rights throughout the world based on applicable law or treaty, and any national implementations thereof.\n\nWaiver. To the greatest extent permitted by, but not in contravention of, applicable law, Affirmer hereby overtly, fully, permanently, irrevocably and unconditionally waives, abandons, and surrenders all of Affirmer’s Copyright and Related Rights and associated claims and causes of action, whether now known or unknown (including existing as well as future claims and causes of action), in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the “Waiver”). Affirmer makes the Waiver for the benefit of each member of the public at large and to the detriment of Affirmer’s heirs and successors, fully intending that such Waiver shall not be subject to revocation, rescission, cancellation, termination, or any other legal or equitable action to disrupt the quiet enjoyment of the Work by the public as contemplated by Affirmer’s express Statement of Purpose.\nPublic License Fallback. Should any part of the Waiver for any reason be judged legally invalid or ineffective under applicable law, then the Waiver shall be preserved to the maximum extent permitted taking into account Affirmer’s express Statement of Purpose. In addition, to the extent the Waiver is so judged Affirmer hereby grants to each affected person a royalty-free, non transferable, non sublicensable, non exclusive, irrevocable and unconditional license to exercise Affirmer’s Copyright and Related Rights in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the “License”). The License shall be deemed effective as of the date CC0 was applied by Affirmer to the Work. Should any part of the License for any reason be judged legally invalid or ineffective under applicable law, such partial invalidity or ineffectiveness shall not invalidate the remainder of the License, and in such case Affirmer hereby affirms that he or she will not (i) exercise any of his or her remaining Copyright and Related Rights in the Work or (ii) assert any associated claims and causes of action with respect to the Work, in either case contrary to Affirmer’s express Statement of Purpose.\nLimitations and Disclaimers.\n\nNo trademark or patent rights held by Affirmer are waived, abandoned, surrendered, licensed or otherwise affected by this document.\nAffirmer offers the Work as-is and makes no representations or warranties of any kind concerning the Work, express, implied, statutory or otherwise, including without limitation warranties of title, merchantability, fitness for a particular purpose, non infringement, or the absence of latent or other defects, accuracy, or the present or absence of errors, whether or not discoverable, all to the greatest extent permissible under applicable law.\nAffirmer disclaims responsibility for clearing rights of other persons that may apply to the Work or any use thereof, including without limitation any person’s Copyright and Related Rights in the Work. Further, Affirmer disclaims responsibility for obtaining any necessary consents, permissions or other rights required for any use of the Work.\nAffirmer understands and acknowledges that Creative Commons is not a party to this document and has no duty or obligation with respect to this CC0 or use of the Work.\n\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Preregistration: the what, why and how?",
+    "section": "",
+    "text": "This self-paced tutorial will introduce you to the key concepts, practices and tools involved in preregistration. Preregistration is an open science practice that is increasingly adopted.\nThis tutorial is intended to take X hours to complete.\nThe tutorial is split into the following five sections:\n\nIntroduction to preregistration provides an introduction to the context of why preregistration exists as an open science practice. This section discusses key concepts and topics such as different research methodologies (e.g. qualitative, experimental, observational), confirmatory vs exploratory analysis, questionable research practices.\nHow to do a preregistration briefly outlines the essential and recommended elements to include in a study preregistration, with resources to find templates by research method.\nChallenges and opportunities of preregistration explores the challenges and opportunities of doing a preregistration from an individual researcher perspective to the wider research ecosystem.\nBuilding a preregistration toolkit provides opportunities to practice improving parts of a study preregistration from research questions to analysis plans.\nEvaluating preregistration quality provides guidance and resources to critically evaluate existing preregistration, to equip learners with the tools to complete their own study preregistration.\n\nThis tutorial will take you on a journey from:\n“I am not sure what preregistration is or why it is important” to: “I feel empowered to adopt the principles of preregistration”\nLearning objectives  By the end of this tutorial, you should be able to:\n\nidentify the components of a preregistration,\nrecognize challenges and opportunities of preregistration,\npropose solutions to navigating barriers to implementing a preregistration, and\nevaluate the quality of a preregistration.\n\n\n\n\n\n\n\nTipPrerequisites\n\n\n\nThis tutorial assumes you have the following:\nFamiliarity with the steps in the research life cycle, the different types of variables (independent, dependent and covariates)\n\n\n\n\n\n\n\n\n\n\nTipSupport the LMU Open Science Center!\n\n\n\nLike this tutorial? Be sure to give the repository a star and follow us on GitHub!\n\n\n\n\n\n\n\n\n\n\n\nTipQuestions about this tutorial?\n\n\n\nIf you have questions for the author of this tutorial, please take a look at the About page.",
+    "crumbs": [
+      "Home",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#tutorial-overview",
+    "href": "index.html#tutorial-overview",
+    "title": "Preregistration: the what, why and how?",
+    "section": "",
+    "text": "This self-paced tutorial will introduce you to the key concepts, practices and tools involved in preregistration. Preregistration is an open science practice that is increasingly adopted.\nThis tutorial is intended to take X hours to complete.\nThe tutorial is split into the following five sections:\n\nIntroduction to preregistration provides an introduction to the context of why preregistration exists as an open science practice. This section discusses key concepts and topics such as different research methodologies (e.g. qualitative, experimental, observational), confirmatory vs exploratory analysis, questionable research practices.\nHow to do a preregistration briefly outlines the essential and recommended elements to include in a study preregistration, with resources to find templates by research method.\nChallenges and opportunities of preregistration explores the challenges and opportunities of doing a preregistration from an individual researcher perspective to the wider research ecosystem.\nBuilding a preregistration toolkit provides opportunities to practice improving parts of a study preregistration from research questions to analysis plans.\nEvaluating preregistration quality provides guidance and resources to critically evaluate existing preregistration, to equip learners with the tools to complete their own study preregistration.\n\nThis tutorial will take you on a journey from:\n“I am not sure what preregistration is or why it is important” to: “I feel empowered to adopt the principles of preregistration”\nLearning objectives  By the end of this tutorial, you should be able to:\n\nidentify the components of a preregistration,\nrecognize challenges and opportunities of preregistration,\npropose solutions to navigating barriers to implementing a preregistration, and\nevaluate the quality of a preregistration.\n\n\n\n\n\n\n\nTipPrerequisites\n\n\n\nThis tutorial assumes you have the following:\nFamiliarity with the steps in the research life cycle, the different types of variables (independent, dependent and covariates)\n\n\n\n\n\n\n\n\n\n\nTipSupport the LMU Open Science Center!\n\n\n\nLike this tutorial? Be sure to give the repository a star and follow us on GitHub!\n\n\n\n\n\n\n\n\n\n\n\nTipQuestions about this tutorial?\n\n\n\nIf you have questions for the author of this tutorial, please take a look at the About page.",
+    "crumbs": [
+      "Home",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "footer/accessibilty.html",
+    "href": "footer/accessibilty.html",
+    "title": "Accessibility",
+    "section": "",
+    "text": "The Ludwig-Maximilians-Universität München strives to make its offers accessible in accordance with § 9 Act on Digitalisation in the Free State of Bavaria (Bayerisches Digitalgesetz – BayDig).\nThis Accessibility Statement applies to applications available at https://www.lmu.de/de/index.html, https://www.lmu.de/de/index.html and all subdomain pages."
+  },
+  {
+    "objectID": "footer/accessibilty.html#status-of-compliance",
+    "href": "footer/accessibilty.html#status-of-compliance",
+    "title": "Accessibility",
+    "section": "Status of Compliance",
+    "text": "Status of Compliance\nPartially compliant: This application partially corresponds to § 1 BayEGovV.\n\nLegal Name\nLudwig-Maximilians-Universität München\n\n\nWebsite(s):\nhttps://www.lmu.de/de/index.html, https://www.lmu.de/de/index.html and all subdomain pages."
+  },
+  {
+    "objectID": "footer/accessibilty.html#known-accessibility-issues",
+    "href": "footer/accessibilty.html#known-accessibility-issues",
+    "title": "Accessibility",
+    "section": "Known Accessibility Issues",
+    "text": "Known Accessibility Issues\nList and explanation of the problems encountered when implementing the accessibility of these websites\n\nContent Not Accessible to People With Disabilities\n\nApart from the main pages, alternative text-based content for images and tables may be missing. There may also be errors in content hierarchy and links may be unintelligible.\nPDF documents created before 09/23/2018 have not yet been converted to a fully accessible format.\nSome documents have been provided by institutions of the LMU, which are not yet all available in a fully accessible version.\nMany of our videos also lack subtitles and audio descriptions. We will be adding written directions for the maps used to give directions.\nQuotes are often not indicated as such using the appropriate HTML tag.\nResponsive design (for viewing on mobile devices) is only partially available for the websites, screen orientation is otherwise limited to landscape format. For non-responsive pages, texts do not wrap correctly in a small viewport.\nFields for inputting user data are not always sufficiently designated as such.\nWords or passages in other languages are not always indicated as such.\nBecause of the Google Search plugin, the criteria for “valid HTML text” is not being fulfilled."
+  },
+  {
+    "objectID": "footer/accessibilty.html#explanation",
+    "href": "footer/accessibilty.html#explanation",
+    "title": "Accessibility",
+    "section": "Explanation",
+    "text": "Explanation\nAll LMU websites are currently undergoing a complete relaunch. It therefore no longer makes sense to revise the existing websites.\nThe deficiencies of the old website have been listed above.\nCreation Date: 09/22/2019\nMethodology: Self-assessment"
+  },
+  {
+    "objectID": "footer/accessibilty.html#feedback-mechanism",
+    "href": "footer/accessibilty.html#feedback-mechanism",
+    "title": "Accessibility",
+    "section": "Feedback Mechanism",
+    "text": "Feedback Mechanism\nAs a user, you can inform us of any shortcomings in complying with accessibility requirements or request information in an accessible format that is not required to be displayed in an accessible format.\n\nContact Information\nUnit VI.5 Internet Services\nMartiusstraße 4\n80802 Munich\nMail: it.internet@verwaltung.uni-muenchen.de\nPhone: +49 (0) 89 / 2180-9832"
+  },
+  {
+    "objectID": "footer/accessibilty.html#enforcement-procedure",
+    "href": "footer/accessibilty.html#enforcement-procedure",
+    "title": "Accessibility",
+    "section": "Enforcement Procedure",
+    "text": "Enforcement Procedure\nIf a request for contact remains unanswered in whole or in part within six weeks, the Landesamt für Digitalisierung, Breitband und Vermessung (Agency for Digitisation, High-Speed Internet and Surveying) will, at the request of the user, examine whether measures are necessary with regard to the monitoring of the obligated party.\n\nContact information of the agency responsible for the enforcement procedure\nLandesamt für Digitalisierung, Breitband und Vermessung Alexandrastraße 4\n80538 Munich\nPhone: +49 89 2129-1111\nFax: +49 89 2129-1113\nEmail:service@geodaten.bayern.de\nhttps://www.ldbv.bayern.de/service/kontakt/\n\n\nOther Help Services\nStudents with disabilities are supported by the Beratungsstelle für Studierende mit Behinderung und chronischer Erkrankung (Counselling Center for Students with Disabilities and Chronic Illnesses).\nThe Schwerbehindertenvertretung (Representative for Disabled Persons) (access protected on the service portal) can support employees."
+  },
+  {
+    "objectID": "how-to-preregister/page2.html",
+    "href": "how-to-preregister/page2.html",
+    "title": "Page Title Here",
+    "section": "",
+    "text": "The headers below cause the table of contents/dropdown on the right to be visible.",
+    "crumbs": [
+      "Home",
+      "How to do a preregistration",
+      "Page Title Here"
+    ]
+  },
+  {
+    "objectID": "how-to-preregister/page2.html#level-two",
+    "href": "how-to-preregister/page2.html#level-two",
+    "title": "Page Title Here",
+    "section": "Level Two",
+    "text": "Level Two\n\nL3\n\n\nL3 Again\n\n\nAnd one more time",
+    "crumbs": [
+      "Home",
+      "How to do a preregistration",
+      "Page Title Here"
+    ]
+  },
+  {
+    "objectID": "how-to-preregister/page2.html#another-level-two",
+    "href": "how-to-preregister/page2.html#another-level-two",
+    "title": "Page Title Here",
+    "section": "Another Level Two",
+    "text": "Another Level Two",
+    "crumbs": [
+      "Home",
+      "How to do a preregistration",
+      "Page Title Here"
+    ]
+  },
+  {
+    "objectID": "how-to-preregister/page2.html#level-two-1",
+    "href": "how-to-preregister/page2.html#level-two-1",
+    "title": "Page Title Here",
+    "section": "Level Two",
+    "text": "Level Two",
+    "crumbs": [
+      "Home",
+      "How to do a preregistration",
       "Page Title Here"
     ]
   },
@@ -856,78 +864,47 @@
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "evaluating-preregistration-quality/toolkit.html",
+    "href": "evaluating-preregistration-quality/toolkit.html",
+    "title": "Build up your preregistration toolkit",
     "section": "",
-    "text": "This site was authored by Sara Lil Middleton, and edits/contributions were made by Malika Ihle."
-  },
-  {
-    "objectID": "about.html#contributors",
-    "href": "about.html#contributors",
-    "title": "About",
-    "section": "",
-    "text": "This site was authored by Sara Lil Middleton, and edits/contributions were made by Malika Ihle."
-  },
-  {
-    "objectID": "about.html#licenses",
-    "href": "about.html#licenses",
-    "title": "About",
-    "section": "Licenses",
-    "text": "Licenses\nThe overall project is available under the CC BY-SA 4.0 license found at LICENSE; all code without any narrative text is also (at your option) available under the CC0 1.0 Universal license found at LICENSE-CODE.\nWhy two licenses? The CC BY-SA 4.0 license is for the content of the website, while the CC0 1.0 Universal license is for the code and configuration files. This is a common practice for websites that include code snippets and other content that may be reused in other projects, particularly because the CC BY-SA 4.0 license is not intended to be used with software."
-  },
-  {
-    "objectID": "about.html#notes",
-    "href": "about.html#notes",
-    "title": "About",
-    "section": "Notes",
-    "text": "Notes\nThis tutorial was primarily written in 2026 using R version 4.5.1. Major changes to R can be found at the R website for the most up-to-date information, and to confirm that our tutorial is not out-of-date."
-  },
-  {
-    "objectID": "about.html#tutorial-template-quarto-extension",
-    "href": "about.html#tutorial-template-quarto-extension",
-    "title": "About",
-    "section": "Tutorial Template Quarto Extension",
-    "text": "Tutorial Template Quarto Extension\nThis tutorial was written using the lmu-osc/tutorial-template Quarto extension (Callahan 2026).\n\n\nCallahan, Patrick. 2026. LMU Open Science Center Tutorial Template: A Quarto Extension. https://doi.org/10.5281/zenodo.21263721."
-  },
-  {
-    "objectID": "about.html#how-to-cite",
-    "href": "about.html#how-to-cite",
-    "title": "About",
-    "section": "How to Cite",
-    "text": "How to Cite\nTo cite this tutorial, please refer to the project’s CITATION.cff file."
-  },
-  {
-    "objectID": "challenges-and-opportunities/challenges-and-opportunities.html",
-    "href": "challenges-and-opportunities/challenges-and-opportunities.html",
-    "title": "Challenges and opportunities of preregistration",
-    "section": "",
-    "text": "Recap: So far we have covered…\nINSERT word cloud picture here of challenges from spreadsheet",
+    "text": "Recap: So far we have outlined the elements, methods and example templates of doing a preregistration.",
     "crumbs": [
       "Home",
-      "Challenges and opportunities of preregistration"
+      "Evaluating preregistration quality"
     ]
   },
   {
-    "objectID": "challenges-and-opportunities/challenges-and-opportunities.html#benefits-of-preregistration",
-    "href": "challenges-and-opportunities/challenges-and-opportunities.html#benefits-of-preregistration",
-    "title": "Challenges and opportunities of preregistration",
-    "section": "Benefits of preregistration",
-    "text": "Benefits of preregistration\n\nImproved planning and project management\n\n\n\n\n\n\nNoteDo you remember?\n\n\n\n\n\nDo you remember the dilemma Max was having? Having a well thought out analysis plan with a clear decision tree would help mitigate encountering Max’s situation in the future.\n\n\n\n\n\nClearer involvement of collaborators/project partners\n\nYou can get a badge!\nMore benefits from a student perspective outlined by (gya2023?)\n\n\n\n\n\n\n\nTipReflection point\n\n\n\n\n\nCan you think of other benefits of preregistration in your research area?",
+    "objectID": "evaluating-preregistration-quality/toolkit.html#in-this-section-exercises",
+    "href": "evaluating-preregistration-quality/toolkit.html#in-this-section-exercises",
+    "title": "Build up your preregistration toolkit",
+    "section": "In this section: exercises",
+    "text": "In this section: exercises",
     "crumbs": [
       "Home",
-      "Challenges and opportunities of preregistration"
+      "Evaluating preregistration quality"
     ]
   },
   {
-    "objectID": "challenges-and-opportunities/challenges-and-opportunities.html#challenges-of-preregistration",
-    "href": "challenges-and-opportunities/challenges-and-opportunities.html#challenges-of-preregistration",
-    "title": "Challenges and opportunities of preregistration",
-    "section": "Challenges of preregistration",
-    "text": "Challenges of preregistration\nThere remains a number of barriers to the widespread adoption of preregistration. This section outlines some of the commonly perceived barriers and presents some solutions.\n\nTime: “I haven’t got time to do a study registration”\nThe time and effort needed to do a preregistration is a frequently cited challenge, especially in a ‘publish or perish’ research culture. There is a some truth to this statement, as study planning should take time. Reframing the upfront time investment as a\nCounterargument: front-loaded effort during the planning stage can help later on during write up and during peer review.\n\n\nLack of incentives: “I don’t see the point”\nCounterargument: aside from individual researcher benefits (increased reflection, reduced likelihood of systematic errors), journals are increasingly prioritizing study registrations.\n\n\nOverwhelm: “There is so much that goes into a study registration”\nCounterargument: templates and FAQ pages can guide you and if you are unable to officially register a study, adopting principles of study registration is a good step (e.g. Open Science Buffet approach, (bergma2023?))\n\n\nLack of support: “No one in my team knows or cares about study\nregistration”\nCounterargument: share resources, and suggest a group meeting to discuss and learn more about study registration to increase familiarity.",
+    "objectID": "evaluating-preregistration-quality/toolkit.html#importance-of-precision",
+    "href": "evaluating-preregistration-quality/toolkit.html#importance-of-precision",
+    "title": "Build up your preregistration toolkit",
+    "section": "Importance of precision",
+    "text": "Importance of precision\nStudy preregistrations should aim to be as precise as possible to allow readers to be able to clearly follow your proposed plans. When preregistrations are vague, they don’t eliminate flexibility of methods and analyses. By thinking ahead of ways a reader could interpret your plan you crash-test the text to make sure unanticipated problems don’t require changes (to the extent possible). A key question to have in mind is: Is the plan precise and specific enough that anyone reading it would conduct and analyze the study using the same procedures?",
     "crumbs": [
       "Home",
-      "Challenges and opportunities of preregistration"
+      "Evaluating preregistration quality"
+    ]
+  },
+  {
+    "objectID": "evaluating-preregistration-quality/toolkit.html#instructions",
+    "href": "evaluating-preregistration-quality/toolkit.html#instructions",
+    "title": "Build up your preregistration toolkit",
+    "section": "Instructions",
+    "text": "Instructions\nRead through the following snippets under the major sections of a study preregistration and in a digital/paper notepad list areas of ambiguity and have a go at improving the text. The goal is to see what thinking is needed as you plan out your study. There is no “perfect” answer. Use the guiding questions to help you.\nThese exercises have been adapted from the original exercise by Anna van ‘t Veer, Daniel Simons, David Mellor, Simine Vazire, and Katy Corker, and Stephen Lindsay for the APS 2019 preregistration workshop and some of these snippets have been adapted from Ihle (2023).\n\nResearch questions and hypotheses\n\nSnippet 1\n“How do indoor plants benefit people?”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow would you measure “benefit”?\nHow would you study the interaction between plants and people?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nHow does having physical contact with indoor plants reduce psychological and physiological stress in young-adult office workers?\nNotice how the improved answer states the type of interaction between plants and people, more specific details about types of benefits of interest and the target demographic (e.g. young-adult office workers).\nNote: This research question is based on a study by Lee et al. 2015\n\n\n\n\n\nSnippet 2\n“We expect that drinking beer will increase reaction time.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow can information about beer be made more specific?\nWhat is the reaction time measured in relation to?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nFor male psychology students, drinking 5 Magic Hat IPAs will increase their reaction time as measured by machine X. We expect that the group that drinks 5 IPAs will respond at least 1 second slower, on average, than the group that did not drink alcohol.\nNotice how the improved answer states quantity and type of beer and participants involved in the study. There is also a description about the expected direction of response.\n\n\n\n\n\n\nSampling plan\n\nSnippet 3\n“We expect to collect data from 100 subjects.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nAre there any pre-selection rules?\nHow would you deal with possible exclusions?\n\n\n\n\n\n\n\n\n\nNoteShow improved answers\n\n\n\n\n\nImproved answer 1: We will over sample by 15% in order to account for possible exclusions after we apply exclusion criteria 1 and 2 (see xxx), after 115 participants have started with the study, the computer will redirect the next participants to another task.\nNotice how the improved answer states how the researchers apply pre-specified exclusion criteria to reach the expected sample size of 100 subjects.\nAlternative improved answer 2: Since data is collected via online survey the final N could result a little higher if further participants answer the questionnaire in the time between reaching N=100 and putting the survey offline, and we will include these extra participants in the final sample.\nNotice how the alternative improved answer 2 provides an alternative description of the data collection stopping rule embedding flexibility in the sample size (e.g. including extra participants who answer survey before going offline).\nAlternative improved answer 3: We plan to collect usable data from 100 participants. We will schedule slots of up to 10 participants at a time. We anticipate that not all scheduled slots will fill, so we initially will post 150 open slots. If more than 100 participants sign up for the available slots, we will test all of them. Consequently our initial tested sample could include as many as 150 participants. If this initial set of open slots results in testing fewer than 100 participants,we will open additional slots in blocks of 10 until we have tested 100 or more participants in total. We then will evaluate exclusions according to our preregistered rules. If, after exclusion, we have usable data from fewer than 100 participants, we will add enough additional open slots in blocks of 10 to potentially achieve a sample of 100 or more. After completing that testing, we will again evaluate exclusions and will repeat this step as needed until we have usable data from 100 or more participants. Thus, our final sample will include at least 100 participants and up to 150 participants, with the most likely final sample size (given typical signup rates and exclusion rates) between 100 and 109 participants.\nNotice how the alternative improved answer 3 provides detailed description of the data collection method (e.g. batching survey slots of 10 participants) and fail-safe procedures for participant exclusions and restarting (e.g. if data on &lt; 100 participants is usable).\n\n\n\n\n\n\nVariable description\n\nSnippet 4\n“Exam scores for all subjects for final-year bachelor students.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow can information about the exam scores be more specific?\nIs it clear which point in the school year exam scores are measured?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nAverage exam scores for all subjects for final-year bachelor students at the end of the first term after the intervention.\nNotice how the improved answer states how and when the variable is measured.\n\n\n\n\n\n\nDesign plan\n\nSnippet 5\n“Light levels will be manipulated four different ways over the 20 seedling growing trays.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nIs there enough information to understand how the light levels are manipulated?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nLight manipulation will be initiated at seed planting stage (day 0) and run continuously until the end of experiment (day 90). The light manipulation is implemented as a randomized, replicated block design in which four light treatments are repeated across five blocks (n = 20 seedling trays). One of the four light treatments (ambient control, procedural control, -25% light, and +25% light, with respect to ambient light levels) will be applied at the seedling tray level which is nested into the blocks. Adding a procedural control tests the effect of the light manipulation equipment (e.g. potential confounding effect of light treatment).\nNotice how the improved answer states the experimental procedures and structure (e.g. randomized replicated block design) and levels of the variables.\n\n\n\n\n\n\nExclusions and exceptions\n\nSnippet 6\n“We will exclude participants who take too long to answer survey and score low on x.”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nHow long is too long to answer survey defined?\nWhat counts as a low score?\n\n\n\n\n\n\n\n\n\nNoteShow improved answer\n\n\n\n\n\nWe will exclude participants who do not pass two thirds of the attention checks and if time taken to complete the survey is outside the range of 10-20 minutes. Participants will also be excluded if they score below 12 on x.\nNotice how the improved answer specifies how long is too long to answer survey (i.e. data-based outlier criteria) and defined score level for x (i.e. method-based outlier criteria).\n\n\n\n\n\n\nAnalysis plan\n\nSnippet 7\n“A two (Design: simple, complex) by two (group: manipulated, control) mixed ANOVA will be the designated statistical analysis. This statistical analysis will provide insight into the 2-way interaction between the Design (simple vs complex) and group (manipulated or control).”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nWould a reader be able to carry out this ANOVA as described?\n\n\n\n\n\n\n\n\n\nNoteShow ways to improve answer\n\n\n\n\n\nProvide statistical model expression/code, which makes it explicit to the readers the model structure and syntax used to run your analysis. Provide analysis of simulated data and plot/interpret the results (this allows you to think whether design is strong enough to conclude something meaningful whatever the results are).\n\n\n\n\n\n\nReporting study preregistration\n\nSnippet 8\n“Hypothesis:… We aimed to test (1) whether abstract thinking is positively correlated with autonomous motivation … Conclusion:… BIF scores (abstract thinking) were positively associated with trait self-control, autonomous motivation for exercise, and autonomous motivation for diet, but not with sugar or fried food consumption…”\n\n\n\n\n\n\nTipGuiding questions\n\n\n\n\nDo the results reported in the study match to the hypothesis stated?\n\n\n\n\n\n\n\n\n\nNoteShow ways to improve answer\n\n\n\n\n\nLink study outcomes explicitly to numbered hypotheses and contextualize them to the variables, to allow readers to more easily follow. State clearly any unplanned analyses or deviations from what was preregistered.\n\n\n\n\n\n\nExtension excercise\nIf you want more practice at doing a preregistration, have a go at filling out a preregistration template using the platform AsPredicted. A version of this extension exercise is available as a worksheet here (LINK).\nThe aim is to increase your familiarity with the process of filling out a study preregistration and noting down any challenges while you practice. For this exercise you can draw from your own research project and have a go at filling the 11 questions in 20 minutes. 20 minutes should be sufficient time to get a taster for the process. Use the reflection questions below to help you think about your experience of completing this exercise.\nAs your confidence and learning progresses you can have a go at a more comprehensive study preregistration template like the Open Science Framework (OSF).\n\n\n\n\n\n\nTipReflection questions\n\n\n\n\nDid you go through the questions in order?\nWere there any questions you were not expecting?\nWhat was the most challenging part of the preregistration process?",
+    "crumbs": [
+      "Home",
+      "Evaluating preregistration quality"
     ]
   }
 ]
