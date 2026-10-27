@@ -1,0 +1,177 @@
+---
+title: "Building up your preregistration toolkit!"
+---
+
+In the spirit of an “Open Science buffet” (Bergmann, 2023), let’s start to build up your pregistration toolkit! Starting small can help manage the feeling of overwhelm with trying out a practice for the first time! Remember that one of the common challenges is feelings of overwhelm with doing a preregistration, and uncertainty about where to start.
+
+::: {.callout-note title="Tip" collapse="true"}
+If you need a reminder of the essential and recommended elements that make up a preregistration document see LINK
+:::
+
+# Improving snippets exercise
+
+Study preregistrations should aim to be as precise as possible to **reduce researcher degrees of freedom** that lead to false positives and to allow readers to be able to clearly follow your proposed plans. When preregistrations are vague, they do not eliminate flexibility of methods and analyses. By thinking ahead of ways a reader could interpret your plan you crash-test the text to make sure unanticipated problems don’t require changes (to the extent possible).
+
+Key questions to have in mind are:
+
+- Is the plan precise and specific enough that there are no ambiguities in the study protocol?
+- Can someone reading it be able to follow your study plan and understand the reasons behind the decisions you made?
+
+**Instructions:**
+
+**Read** through the following snippets under the major sections of a study preregistration and **list areas of ambiguity** and have a go at **improving the text**. The goal is to see what thinking is needed as you plan out your study. There is no "perfect" answer. Use the guiding questions to help you. This exercise should take you around 45-60 minutes to complete, depending on your knowledge level.
+
+This exercise has been adapted from the original activity by Anna van ‘t Veer, Daniel Simons, David Mellor, Simine Vazire, and Katy Corker, and Stephen Lindsay for the APS 2019 preregistration workshop and content from Ihle (2023).
+
+### Research questions and hypotheses
+
+**Snippet 1: “How do indoor plants benefit people?”**
+
+*Guiding questions:*
+
+- How would you measure “benefit”?
+
+- How would you study the interaction between plants and people?
+
+::: {.callout-note title="Reveal answer" collapse="true"}
+**Improved answer**: *How does having physical contact with indoor plants reduce psychological and physiological stress in young-adult office workers?*
+
+Notice how the improved answer states the type of interaction between plants and people, more specific details about types of benefits of interest and the target demographic (e.g. young-adult office workers).
+:::
+
+**Snippet 2: “We expect that drinking beer will increase reaction time.”**
+
+*Guiding questions:*
+
+- How can information about beer be made more specific?
+
+- What is the reaction time measured in relation to?
+
+::: {.callout-note title="Reveal answer" collapse="true"}
+**Improved answer**: *For male psychology students, drinking 5 Magic Hat IPAs will increase their reaction time as measured by machine X. We expect that the group that drinks 5 IPAs will respond at least 1 second slower, on average, than the group that did not drink alcohol.*
+
+Notice how the improved answer states quantity and type of beer and participants involved in the study. There is also a description about the expected direction of response.
+:::
+
+### Sampling plan
+
+**Snippet 3: We expect to collect data from 100 subjects.**
+
+*Guiding questions:*
+
+- Are there any pre-selection rules?
+
+- How would you deal with possible exclusions?
+
+::: {.callout-note title="Reveal answer" collapse="true"}
+**Improved answer 1**: *We will over sample by 15% in order to account for possible exclusions after we apply exclusion criteria 1 and 2 (see xxx), after 115 participants have started with the study, the computer will redirect the next participants to another task.*
+
+Notice how the improved answer states how the researchers apply pre-specified exclusion criteria to reach the expected sample size of 100 subjects.
+
+**Alternative improved answer 2**: *Since data is collected via online survey the final N could result a little higher if further participants answer the questionnaire in the time between reaching N=100 and putting the survey offline, and we will include these extra participants in the final sample.*
+
+Notice how the alternative improved answer 2 provides an alternative description of the data collection stopping rule embedding flexibility in the sample size (e.g. including extra participants who answer the survey before going offline).
+:::
+
+### Variable description
+
+**Snippet 4: “Exam scores for all subjects for final-year bachelor students”**
+
+*Guiding questions:*
+
+- How can information about the exam scores be more specific? Is it clear which point in the school year exam scores are measured?
+
+::: {.callout-note title="Reveal answer" collapse="true"}
+**Improved answer**: *Average exam scores for all subjects for final-year bachelor students at the end of the first term after the intervention.*
+
+Notice how the improved answer states how and when the variable is measured.
+:::
+
+### Design plan
+
+**Snippet 5: “Light levels will be manipulated four different ways over the 20 seedling growing trays.”**
+
+*Guiding questions:*
+
+- Is there enough information to understand how the light levels are manipulated?
+
+::: {.callout-note title="Reveal answer" collapse="true"}
+**Improved answer**: *Light manipulation will be initiated at seed planting stage (day 0) and run continuously until the end of experiment (day 90). The light manipulation is implemented as a randomized, replicated block design in which four light treatments are repeated across five blocks (n = 20 seedling trays). One of the four light treatments (ambient control, procedural control, -25% light, and +25% light, with respect to ambient light levels) will be applied at the seedling tray level which is nested into the blocks. Adding a procedural control tests the effect of the light manipulation equipment (e.g. potential confounding effect of light treatment).*
+
+Notice how the improved answer states the experimental procedures and structure (e.g. randomized replicated block design) and levels of the variables.
+:::
+
+### Outliers and exceptions
+
+**Snippet 6: “We will exclude participants who take too long to answer survey and score low on x.”**
+
+*Guiding questions:*
+
+- How long is too long to answer a survey defined? What counts as a low score?
+
+::: {.callout-note title="Reveal answer" collapse="true"}
+**Improved answer**: *We will exclude participants who do not pass two thirds of the attention checks and if time taken to complete the survey is outside the range of 10-20 minutes. Participants will also be excluded if they score below 12 on x.*
+
+Notice how the improved answer specifies how long is too long to answer survey (i.e. data-based outlier criteria) and defined score level for x (i.e. method-based outlier criteria)
+:::
+
+### Analysis plan
+
+**Snippet 7: “A two (Design: simple, complex) by two (group: manipulated, control) mixed ANOVA will be the designated statistical analysis. This statistical analysis will provide insight into the 2-way interaction between the Design (simple vs complex) and group (manipulated or control).”**
+
+*Guiding questions:*
+
+- Would a reader be able to carry out this ANOVA as described?
+
+::: {.callout-note title="Reveal answer" collapse="true"}
+**Ways to improve answer:** *Provide statistical model expression/code, which makes it explicit to the readers the model structure and syntax used to run your analysis. Provide analysis of simulated data and plot/interpret the results (this allows you to think whether design is strong enough to conclude something meaningful whatever the results are).*
+:::
+
+### Reporting study preregistration
+
+**Snippet 8:** **“Hypothesis:… We aimed to test (1) whether abstract thinking is positively correlated with autonomous motivation ... Conclusion:… BIF scores (abstract thinking) were positively associated with trait self-control, autonomous motivation for exercise, and autonomous motivation for diet, but not with sugar or fried food consumption…"**
+
+*Guiding questions:*
+
+- Do the results reported in the study match to the hypothesis stated?
+
+::: {.callout-note title="Reveal answer" collapse="true"}
+**Ways to improve answer:** *Link study outcomes explicitly to numbered hypotheses and contextualize them to the variables, to allow readers to more easily follow. State clearly any unplanned analyses or deviations from what was preregistered.*
+:::
+
+## Self check
+
+After doing the snippet exercise, reflect on which component of a preregistration you feel like you need more practice in. You can take a look at the table under "additional resources" for further information on a specific preregistration component.
+
+- [ ] Research questions and hypotheses
+- [ ] Sampling plan
+- [ ] Variable description
+- [ ] Outliers and exceptions
+- [ ] Analysis plan
+- [ ] Reporting study preregistration
+
+## Additional resources
+
+Below are some additional resources you can use to help you improve specific components of preregistration you feel requires improvement. This list is non exhaustive and designed to be a starting point for you to explore and share additional resources with your peers.
+
++----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Component of preregistration** | **Resource**                                                                                                                                                                                                                                                                                                                                                                               |
++==================================+============================================================================================================================================================================================================================================================================================================================================================================================+
+| Research question/hypotheses     | - Barroga & Matanguihan (2022). A Practical Guide to Writing Quantitative and Qualitative Research Questions and Hypotheses in Scholarly Articles. Journal of Korean medical science, 37(16), e121. <https://doi.org/10.3346/jkms.2022.37.e121>                                                                                                                                            |
++----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Sampling plan/research methods   | - Lyall, J. (2022). Preregister your ethical redlines: Vulnerable populations, policy engagement, and the perils of e-hacking. Policy Engagement, and the Perils of E-Hacking (March 25, 2022). [http://dx.doi.org/10.2139/ssrn.4066842](https://dx.doi.org/10.2139/ssrn.4066842) 	                                                                                                         |
+|                                  |                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                  | - van den Akker, O., Weston, S. J., Campbell, L., Chopik, W. J., Damian, R. I., Davis-Kean, P., ... & Bakker, M. (2019). Preregistration of secondary data analysis: A template and tutorial. PsyArXiv. <https://doi.org/10.15626/MP.2020.2625>                                                                                                                                            |
+|                                  |                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                  | - Kirtley, O. J., Lafit, G., Achterhof, R., Hiekkaranta, A. P., & Myin-Germeys, I. (2021). Making the black box transparent: A template and tutorial for registration of studies using experience-sampling methods. Advances in Methods and Practices in Psychological Science, 4(1), 2515245920924686. [https://doi.org/10.1177/25152459209246](https://doi.org/10.1177/2515245920924686) |
+|                                  |                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                  | - Haven, T. L., Errington, T. M., Gleditsch, K. S., van Grootel, L., Jacobs, A. M., Kern, F. G., Piñeiro, R., Rosenblatt, F., & Mokkink, L. B. (2020). Preregistering Qualitative Research: A Delphi Study. International Journal of Qualitative Methods, 19.[ https://doi.org/10.1177/1609406920976417](https://doi.org/10.1177/1609406920976417)                                         |
++----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Variable description             | - Wicherts, J. M., Veldkamp, C. L., Augusteijn, H. E., Bakker, M., Van Aert, R. C., & Van Assen, M. A. (2016). Degrees of freedom in planning, running, analyzing, and reporting psychological studies: A checklist to avoid p-hacking. Frontiers in psychology, 7, 1832. <https://doi.org/10.3389/fpsyg.2016.01832>                                                                       |
++----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Design plan                      | - Willroth, E. C., Graham, E. K., & Mroczek, D. K. (2022). Challenges and opportunities in preregistration of coordinated data analysis: A tutorial and template. Psychology and Aging, 37(1), 136. [https://doi.org/10.1037/pag0000611](https://psycnet.apa.org/doi/10.1037/pag0000611)                                                                                                   |
++----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Analysis plan                    | - Lindeløv (2019). Common statistical tests are linear models (or: how to teach stats). <https://lindeloev.github.io/tests-as-linear/#1_the_simplicity_underlying_common_tests>                                                                                                                                                                                                            |
++----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Reporting study deviation        | - Daniël Lakens; When and How to Deviate From a Preregistration. Collabra: Psychology 16 January 2024; 10 (1): 117094. <https://doi.org/10.1525/collabra.117094>                                                                                                                                                                                                                           |
++----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
