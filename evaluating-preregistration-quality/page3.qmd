@@ -1,13 +1,102 @@
 ---
-title: "Page Title Here"
+title: "Evaluating preregistrations"
 ---
 
+This critical evaluation exercise is helpful for you to improve your understanding of doing a preregistration by examining real examples. This exercise provides guidance and resources in how to critically evaluate existing study preregistrations. By increasing familiarity with the content of study preregistrations across a wide range of research areas, you are encouraged to think and relate these concepts to your own research projects.
 
-The headers below cause the table of contents/dropdown on the right to be visible. 
+**Instructions:**
 
-# Level One Header
+- **Pick** one preregistration from the “**Experimental studies**” category and **one more** from any other study category to **evaluate two contrasting example**s of completed preregistrations.
 
-## Level Two
+- **Read** the two preregistrations and use the **guiding questions** below to help you assess them.
+
+- After evaluating the preregistrations, consider the **reflection questions**.
+
+This exercise should take about 50 minutes to complete.
+
+Note: Even if the examples use different research methods to your own it is still useful to compare. This will help broaden your perspectives in what preregistered studies can look like across research domains.
+
+## Preregistered studies
+
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Experimental studies (pick one study from here)                                                                                                                                                                                        |
++========================================================================================================================================================================================================================================+
+| 1.  The Role of Framing Effects, the Dark Triad and Empathy in Predicting Behavior in a One-shot Prisoner's Dilemma <https://osf.io/aurjt>                                                                                             |
+|                                                                                                                                                                                                                                        |
+| 2.  The role of threat expectancy and detection importance in context dependent search priority for threat <https://osf.io/vxkc2>                                                                                                      |
+|                                                                                                                                                                                                                                        |
+| 3.  Independent Manipulation of Insect Prey Color and Palatability <https://osf.io/mygb8/overview>                                                                                                                                     |
+|                                                                                                                                                                                                                                        |
+| 4.  Drosophila Oviposition Preference <https://osf.io/86asd/overview>                                                                                                                                                                  |
+|                                                                                                                                                                                                                                        |
+| 5.  Comparing Online Human-Delivered Intervention, Generative AI–Based Mobile Intervention, and Generative AI–Based Space-Embedded Intervention for Emotional Distress: A Randomized Controlled Trial <https://osf.io/8n4qu/overview>  |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
++-----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Observational studies                                                                                                                               |
++=====================================================================================================================================================+
+| 1.  Teaching about Research Practices and Reform in Psychology Courses <https://osf.io/aj3p9>                                                       |
+|                                                                                                                                                     |
+| 2.  Assessing the replicability of social and behavioural sciences research: What correlates with good judgements? <https://osf.io/5rj76/overview>  |
+|                                                                                                                                                     |
+| 3.  Local conditions explain variation in plant phenology within species <https://osf.io/6tsnj>                                                     |
+|                                                                                                                                                     |
+| 4.  Universal Biological Architecture: The Global Biosphere Discovery <https://osf.io/7qpa8/overview>                                               |
++-----------------------------------------------------------------------------------------------------------------------------------------------------+
+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Longitudinal studies                                                                                                                                        |
++=============================================================================================================================================================+
+| 1.  Preregistration: Longitudinal Dynamics between Health and Subjective Well-Being <https://osf.io/hnfn4/overview>                                         |
+|                                                                                                                                                             |
+| 2.  Coupled longitudinal change between family income, hippocampal volume, and associative memory in middle childhood <https://osf.io/7f42h/overview>       |
+|                                                                                                                                                             |
+| 3.  A longitudinal study of the effect of social isolation on auditory and cognitive function during the COVID-19 pandemic <https://osf.io/6fq9g/overview>  |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Secondary data/meta-analyses                                                                                                                                           |
++========================================================================================================================================================================+
+| 1.  Developmental Trajectories of Attachment and Depressive Symptoms <https://osf.io/4nnzy/files/xm5hr>                                                                |
+|                                                                                                                                                                        |
+| 2.  Association Between Financial Conflicts of Interest and Reported Outcomes of Labour Market Programme Evaluations: A Meta-Analysis <https://osf.io/y27qk/overview>  |
+|                                                                                                                                                                        |
+| 3.  Cross-registration and results availability of trials registered on the EUCTR <https://osf.io/r3vc5/overview>                                                      |
+|                                                                                                                                                                        |
+| 4.  Strengthening Rigour in Mixed Methods Research <https://osf.io/hgu4y/overview>                                                                                     |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Simulation studies                                                                                                                                                                                         |
++============================================================================================================================================================================================================+
+| 1.  A Simulation Study: A Protocol for Developing and Evaluating a Model to Identify and Prioritise Candidate Surrogate Endpoints for Alzheimer's Disease Clinical Trials <https://osf.io/vux6r/overview>  |
+|                                                                                                                                                                                                            |
+| 2.  Bootstrap Confidence Intervals with Multiple Imputation: Factors that Affect Inference on the Indirect Effect <https://osf.io/ush45/overview>                                                          |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Qualitative studies                                                                                                                                           |
++===============================================================================================================================================================+
+| 1.  A Delphi study to strengthen research methods training in British Psychological Society accredited undergraduate courses <https://osf.io/5h7bu/overview>  |
+|                                                                                                                                                               |
+| 2.  Validating the Expert Model of Buzzwords: Interviews with Conservation Professionals <https://osf.io/nmd42/overview>                                      |
+|                                                                                                                                                               |
+| 3.  Climate anxiety and TikTok: An Exploratory Study <https://osf.io/tjx5m/overview>                                                                          |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+::: callout-tip
+#### Guiding questions
+
+1.  What do you notice about the level of detail in the research questions and/or hypotheses?
+
+2.  How do experimental studies compare to other study types in how they handle missing data?
+
+3.  Was there additional information you weren't aware formed part of the preregistration process?
+
+4.  Do any of the preregistrations provide information about exploratory analyses?
+
+5.  What aspects of the preregistrations worked well? Which could be improved?
+:::
 
 ### L3
 
@@ -16,7 +105,6 @@ The headers below cause the table of contents/dropdown on the right to be visibl
 ### And one more time
 
 ## Another Level Two
-
 
 # Level One Again
 
