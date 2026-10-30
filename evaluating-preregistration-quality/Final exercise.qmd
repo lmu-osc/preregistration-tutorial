@@ -73,3 +73,5 @@ After 20 minutes, spend 5 minutes reflecting on the process using reflection que
 ::: {.callout-tip title="Tip" collapse="false"}
 Depending on your subject area/research methods you can do a similar exercise using different templates [here](https://osf.io/zab38/wiki?wiki=dmbcy).
 :::
+
+Well done for completing the final exercise! 

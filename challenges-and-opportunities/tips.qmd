@@ -1,19 +1,201 @@
 ---
 title: "Final recap, practical tips and resources"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 Final recap:
 
 link to Max's dilemma
 
----
+------------------------------------------------------------------------
+
+This page contains a collection of common misconceptions, frequently
+asked questions and concerns about preregistration. This page is
+designed to be used as a reference guide. This collection is organized
+according to the stages of doing a preregistration. The colored tags
+indicate the topic the question falls under.
+
+The topics include: [Terms and
+concepts]{style="background-color: #3abf57; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"},
+[Study
+type]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"},
+[Practical]{style="background-color:  #cc0066; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"},
+[Ways of
+working]{style="background-color:  #f9c002; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"},
+[Statistics]{style="background-color:  #9854F5; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+## Thinking about doing a preregistration
+
+**The data I am working with is descriptive, is a study preregistration
+still useful?**
+
+[Study
+type]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+...
+:::
+
+**What is the difference between a preregistration and a registered
+report?**
+
+[Terms and
+concepts]{style="background-color: #3abf57; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+Registered reports are a publishing format where a study undergoes *two
+stages* of peer review:
+
+- *stage 1:* introduction and methods in advance of data
+  collection/analysis and
+
+- *stage 2:* which includes the full study findings including
+  results/discussion [@parsons2022].
+
+Registered reports have been described in the literature as "Two-stage
+review with in-principle acceptance" [@mayo-wilson2025].
+:::
+
+**Is it true that doing a preregistration increases the risk of being
+scooped?**
+
+[Practical]{style="background-color:  #cc0066; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+[Ways of
+working]{style="background-color:  #f9c002; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+The fear of scooping is understandable given the current competitive
+research culture of "publish or perish". Preregistrations do not need to
+be made public right away and can be embargoed for a period of years
+(e.g. [Open Science Framework
+preregistrations](https://help.osf.io/article/634-addressing-fear-of-scooping-on-osf-preregistrations)
+can be embargoed for 4 years from first submission). The embargo period
+allows you time after preregistering your study to conduct the research,
+analyze, write up and publish the findings.
+:::
+
+## Preparing a preregistration
+
+**I am keen to try out doing a preregistration but my supervisor thinks
+it is a “waste of time”, what should I do?**
+
+[Ways of
+working]{style="background-color:  #f9c002; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+Often a reluctance to try out preregistration comes from a place of lack
+of familiarity with the process. Sharing resources, and suggest a group
+meeting to discuss/learn more about preregistration to increase
+familiarity. Reframe preregistration as a creative opportunity to plan
+great science! Planning is where the science is, as other research
+processes, like data collection can be delegated.
+
+Relate to this situation? See the preregistration [case
+study](https://zenodo.org/records/22307709) which provides a number of
+strategies to address this kind of barrier.
+:::
+
+**How do I know my planned statistical analysis is the right one?**
+
+[Statistics]{style="background-color:  #9854F5; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+To get a better understanding of your real data before your collect it
+you can run computer simulations and power analyses. Briefly this
+involves:
+
+- Simulating random data with the distribution and sample size of
+  expected real data and run the statistical test planned for the study.
+
+- Repeating the statistical test (e.g. 100 x) and check results are
+  within the false-positive finding rate of 5%.
+
+- Runing a power analysis by simulating data with the expected effect
+  size for the study and check model registers effect at least 80% of
+  the time.
+
+Take a look at our simulation tutorial
+[here](https://lmu-osc.github.io/Introduction-Simulations-in-R/) or a
+more beginner friendly guide
+[here](https://lmu-osc.github.io/teaching-material-for-novices/open-research-tools/simulations/).
+:::
+
+## Submitting a preregistration
+
+**I forgot to report a statistical test, can I modify my
+preregistration?**
+
+[Practical]{style="background-color:  #cc0066; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+Mistakes happen! If you spot the mistake before you carry out your
+analysis, you can report a "deviation from preregistration" in a new
+document where you transparently describe the change, rationale and
+effect of change to the study results (see guidance
+[here](https://osf.io/x5w7h/files/yrvcg)).
+:::
+
+**I accidentally included sensitive information in my preregistration,
+can I withdraw it?**
+
+[Practical]{style="background-color:  #cc0066; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+There are several options depending on when you decide to withdraw your
+preregistration:
+
+Depending on the preregistration platform you use, there is an author
+approval window after creation of preregistration (2 days for
+[OSF](https://help.osf.io/article/330-welcome-to-registrations#Approving-your-Registration-zN2_H),
+6 days for [AsPredicted](https://aspredicted.org/messages/edit.php))
+where you can cancel it.
+
+If you decide to withdraw after the preregistration is finalized, you
+can create a new preregistration with the sensitive information omitted
+and document the rationale for withdrawing the original preregistration.
+More information about the withdrawal process on
+[OSF](https://help.osf.io/article/330-welcome-to-registrations#Withdraw-a-Registration-QWhhB)
+:::
+
+## Post preregistration: reporting research
+
+
+
+**What sort of things from my preregistration do I need to report in my
+manuscript?**
+
+[Practical]{style="background-color:  #cc0066; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"} [Statistics]{style="background-color:  #9854F5; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"} [Study
+type]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+You will need to reference the preregistrated work in the methods section of your manuscript by providing a link to the repository. All the main components of a preregistration (e.g. hypotheses/research questions, sampling plan, variable description, design plan, outliers and exceptions, analyses) and any deviations from the preregistration. You can use this [OSF checklist](https://osf.io/x5w7h/files/zwkqj) to help you remember what should be reported in your manuscript.
+:::
+
+**Where can I find information on which journals accept
+preregistrations/registered reports?**
+
+[Practical]{style="background-color:  #cc0066; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+There are over 300 journals that adopt the registered report format (see
+list of journals
+[here](https://www.cos.io/initiatives/registered-reports)).
+:::
 
 ## Practical tips
 
-As we come to the end of this tutorial, you should feel more knowledgeable and confident about the Open Science practice of preregistration and how to carry out one in your own research. Even if you are not quite ready to implement a study preregistration just yet, you should have the tools to critically evaluate your own research planning approaches and existing preregistered studies. Below are X practical tips and additional resources to help you on your next steps on your preregistration journey! 
+As we come to the end of this tutorial, you should feel more
+knowledgeable and confident about the Open Science practice of
+preregistration and how to carry out one in your own research. Even if
+you are not quite ready to implement a study preregistration just yet,
+you should have the tools to critically evaluate your own research
+planning approaches and existing preregistered studies. Below are X
+practical tips and additional resources to help you on your next steps
+on your preregistration journey!
 
-
-### Open Science Buffet 
+### Open Science Buffet
 
 ### Tip 2
 
@@ -23,16 +205,16 @@ As we come to the end of this tutorial, you should feel more knowledgeable and c
 
 ### Tip 5
 
----
+------------------------------------------------------------------------
 
 ## Additional resources
 
--   A [student's perspective](https://doi.org/10.1002/ece3.10023) of
-    doing a registered report [@gya2023]
+- A [student's perspective](https://doi.org/10.1002/ece3.10023) of doing
+  a registered report [@gya2023]
 
--   OSF community of
-    [support](https://osf.io/e6auq/wiki/Preregistration%20Community%20Support/):
+- OSF community of
+  [support](https://osf.io/e6auq/wiki/Preregistration%20Community%20Support/):
 
--   [Discussion](https://www.youtube.com/watch?v=77YeUe_Bkco) about
-    merits vs limits of study peregistration from IEEE Visualization
-    Conference 2022
+- [Discussion](https://www.youtube.com/watch?v=77YeUe_Bkco) about merits
+  vs limits of study peregistration from IEEE Visualization Conference
+  2022
