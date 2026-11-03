@@ -3,6 +3,7 @@ title: "Final recap, practical tips and resources"
 editor: 
   markdown: 
     wrap: 72
+bibliography: references.bib
 ---
 
 Final recap:
@@ -13,7 +14,7 @@ link to Max's dilemma
 
 This page contains a collection of common misconceptions, frequently
 asked questions and concerns about preregistration. This page is
-designed to be used as a reference guide. This collection is organized
+designed to be used as a reference guide and the collection is organized
 according to the stages of doing a preregistration. The colored tags
 indicate the topic the question falls under.
 
@@ -28,14 +29,43 @@ working]{style="background-color:  #f9c002; color: #fcfcfd; padding: 3px 6px; bo
 
 ## Thinking about doing a preregistration
 
-**The data I am working with is descriptive, is a study preregistration
-still useful?**
+**The data I use comes from a large database, can I still preregister my
+study with existing data?**
+
+[Study
+type]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"} , [Practical]{style="background-color:  #cc0066; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+Yes, with some additional considerations needed.
+
+Increasingly researchers conduct new analyses on existing data from
+large-scale databases. The analytical decisions made for pre-existing
+data can be influenced quite strongly by a researcher's prior knowledge,
+which can contribute to questionable research practices.
+
+@vandenakkera provide a template and a detailed worked example for how
+to carry out a preregistration for pre-existing data. Some additional
+considerations covered in the template are "What prior knowledge do you have about the
+dataset that may be relevant for the proposed analysis?".
+:::
+
+**My study is descriptive (e.g. observational), is doing a
+preregistration still useful?**
 
 [Study
 type]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 ::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
-...
+There are cases where preregistration might not be appear to be
+applicable, however descriptive studies can be preregistered! You can
+preregister research questions, modelling approach and data
+wrangling/analysis steps. It can also be helpful to find examples of
+preregistered studies with a similar research approach to you to get an
+idea of what it can look like in practice (e.g. see descriptive
+preregistration [example](https://osf.io/7qpa8/overview)).
+
+See this commentary by [@dal-ré2014] for more information about
+preregistration of medical observational studies.
 :::
 
 **What is the difference between a preregistration and a registered
@@ -161,16 +191,22 @@ More information about the withdrawal process on
 
 ## Post preregistration: reporting research
 
-
-
 **What sort of things from my preregistration do I need to report in my
 manuscript?**
 
-[Practical]{style="background-color:  #cc0066; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"} [Statistics]{style="background-color:  #9854F5; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"} [Study
+[Practical]{style="background-color:  #cc0066; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+[Statistics]{style="background-color:  #9854F5; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+[Study
 type]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 ::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
-You will need to reference the preregistrated work in the methods section of your manuscript by providing a link to the repository. All the main components of a preregistration (e.g. hypotheses/research questions, sampling plan, variable description, design plan, outliers and exceptions, analyses) and any deviations from the preregistration. You can use this [OSF checklist](https://osf.io/x5w7h/files/zwkqj) to help you remember what should be reported in your manuscript.
+You will need to reference the preregistrated work in the methods
+section of your manuscript by providing a link to the repository. All
+the main components of a preregistration (e.g. hypotheses/research
+questions, sampling plan, variable description, design plan, outliers
+and exceptions, analyses) and any deviations from the preregistration.
+You can use this [OSF checklist](https://osf.io/x5w7h/files/zwkqj) to
+help you remember what should be reported in your manuscript.
 :::
 
 **Where can I find information on which journals accept
