@@ -5,7 +5,7 @@ editor:
     wrap: 72
 ---
 
-*Recap:* In the introduction we covered the context and rationale of
+**Recap:** In the introduction we covered the context and rationale of
 preregistration. Here we will learn what the practical steps involved
 are and what information is required to complete a study
 preregistration.

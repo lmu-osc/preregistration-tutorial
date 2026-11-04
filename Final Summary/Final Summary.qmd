@@ -2,21 +2,38 @@
 title: "Final summary"
 ---
 
-Add recap of main chapters.
+At the start of this tutorial you likely felt unsure what preregistration is or why it is important. Hopefully your now feel empowered to adopt the principles of preregistration!
 
-# Level One Header
+## Final summary
 
-## Next steps
+In this tutorial we covered:
 
-### L3
+- **Questionable research practices** and researcher biases (e.g. HARKing, hindsight bias)
 
-### L3 Again
+- the **essential** and **recommended** elements that make up a preregistration
 
-### And one more time
+- where to find preregistration **templates**
 
-## Another Level Two
+- common **challenges** and **opportunities** of preregistration from individual researchers to the wider ecosystem
 
+- suggestions to address **common misconceptions** and **frequently asked questions**
 
-# Level One Again
+- how we can **practice improving** our preregistrations through the snippets exercise and evaluating existing preregistrations.
 
-## Checklist
+## Reflect and check in
+
+This tutorial set out to the following objectives, where you should now be able to:
+
+- [ ] *identify* the components of a preregistration,
+
+- [ ] *recognize* challenges and opportunities of preregistration,
+
+- [ ] *propose* solutions to navigating barriers to implementing a preregistration, and
+
+- [ ] *evaluate* the quality of a preregistration.
+
+Reflect and check where you feel like you met these objectives.
+
+## Challenge yourself
+
+What is one action you will take today towards completing a preregistration? Once you have your action, tell a labmate or your PI (helps you stay accountable)!

@@ -1,93 +1,241 @@
 ---
 title: "Frequently asked questions"
+editor: 
+  markdown: 
+    wrap: 72
+bibliography: references.bib
 ---
 
-This section contains a collection of common misconceptions, frequently asked questions and concerns around preregistration. This collection is organized according to the stages of doing a preregistration. It is designed to be used as a reference guide which you can revisit.
 
-------------------------------------------------------------------------
+This page contains a collection of common misconceptions, frequently
+asked questions and concerns about preregistration. This page is
+designed to be used as a reference guide and the collection is organized
+according to the stages of doing a preregistration. The colored tags
+indicate the topic the question falls under.
+
+The topics include: [Terms and
+concepts]{style="background-color: #3abf57; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"},
+[Study
+type]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"},
+[Practical]{style="background-color:  #cc0066; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"},
+[Ways of
+working]{style="background-color:  #f9c002; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"},
+[Statistics]{style="background-color:  #9854F5; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 ## Thinking about doing a preregistration
 
-*I'm a student starting a new project and I feel I don't know enough to do a good preregistration, is it worth doing one?*
+**The data I use comes from a large database, can I still preregister my
+study with existing data?**
 
-::: {.callout-tip title="Answer" collapse="true"}
-Answer
+[Study
+type]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+,
+[Practical]{style="background-color:  #cc0066; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+Yes, with some additional considerations needed.
+
+Increasingly researchers conduct new analyses on existing data from
+large-scale databases. The analytical decisions made for pre-existing
+data can be influenced quite strongly by a researcher's prior knowledge,
+which can contribute to questionable research practices.
+
+@vandenakkera provide a template and a detailed worked example for how
+to carry out a preregistration for pre-existing data. Some additional
+considerations covered in the template are "What prior knowledge do you
+have about the dataset that may be relevant for the proposed analysis?".
 :::
 
-*The data I am working with is descriptive, is a study preregistration still useful?*
+**My study is descriptive (e.g. observational), is doing a
+preregistration still useful?**
 
-::: {.callout-tip title="Answer" collapse="true"}
-Answer
+[Study
+type]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+There are cases where preregistration might not be appear to be
+applicable, however descriptive studies can be preregistered! You can
+preregister research questions, modelling approach and data
+wrangling/analysis steps. It can also be helpful to find examples of
+preregistered studies with a similar research approach to you to get an
+idea of what it can look like in practice (e.g. see descriptive
+preregistration [example](https://osf.io/7qpa8/overview)).
+
+See this commentary by [@dal-ré2014] for more information about
+preregistration of medical observational studies.
 :::
 
-*I work with secondary data and I know what my data look like, what is the point of doing a preregistration?*
+**What is the difference between a preregistration and a registered
+report?**
 
-::: {.callout-tip title="Answer" collapse="true"}
-It is possible to preregister an analysis plan for studies that use secondary data! There are many benefits to preregistration of secondary data that overlap with general benefits of preregistration (e.g. distinguishing between confirmatory and exploratory analysis, mitigating researcher degrees of freedom). See a template for preregistration of secondary data by Mertens and Krypotos (2019).
+[Terms and
+concepts]{style="background-color: #3abf57; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+Registered reports are a publishing format where a study undergoes *two
+stages* of peer review:
+
+- *stage 1:* introduction and methods in advance of data
+  collection/analysis and
+
+- *stage 2:* which includes the full study findings including
+  results/discussion [@parsons2022].
+
+Registered reports have been described in the literature as "Two-stage
+review with in-principle acceptance" [@mayo-wilson2025].
 :::
 
-*Is it true that doing a preregistration increases the risk of being scooped?*
+**Is it true that doing a preregistration increases the risk of being
+scooped?**
 
-::: {.callout-tip title="Answer" collapse="true"}
-Concerns around being scooped can be mitigated by putting an embargo on your preregistration which will make it private until you are ready to share it. Depending on the platform used to upload your preregistration, it can be private indefinitely (e.g. [AsPredicted](https://aspredicted.org/messages/private_forever.php)) or a maximum or 4 years from creation date for [Open Science Foundation](https://help.osf.io/article/330-welcome-to-registrations#Privacy-Settings-t-8n2). In addition, by preregistering you are informing others your research plans and they are unlikely to put time, effort and resources to do the same study as you.
+[Practical]{style="background-color:  #cc0066; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+[Ways of
+working]{style="background-color:  #f9c002; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+The fear of scooping is understandable given the current competitive
+research culture of "publish or perish". Preregistrations do not need to
+be made public right away and can be embargoed for a period of years
+(e.g. [Open Science Framework
+preregistrations](https://help.osf.io/article/634-addressing-fear-of-scooping-on-osf-preregistrations)
+can be embargoed for 4 years from first submission). The embargo period
+allows you time after preregistering your study to conduct the research,
+analyze, write up and publish the findings.
 :::
 
 ## Preparing a preregistration
 
-*The data I am working with is descriptive, is a study preregistration still useful?*
+**I am keen to try out doing a preregistration but my supervisor thinks
+it is a “waste of time”, what should I do?**
 
-::: {.callout-tip title="Answer" collapse="true"}
-Answer
+[Ways of
+working]{style="background-color:  #f9c002; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+Often a reluctance to try out preregistration comes from a place of lack
+of familiarity with the process. Sharing resources, and suggest a group
+meeting to discuss/learn more about preregistration to increase
+familiarity. Reframe preregistration as a creative opportunity to plan
+great science! Planning is where the science is, as other research
+processes, like data collection can be delegated.
+
+Relate to this situation? See the preregistration [case
+study](https://zenodo.org/records/22307709) which provides a number of
+strategies to address this kind of barrier.
 :::
 
-*I work with secondary data and I know what my data look like, what is the point of doing a preregistration?*
+**How do I know my planned statistical analysis is the right one?**
 
-::: {.callout-tip title="Answer" collapse="true"}
-Answer
+[Statistics]{style="background-color:  #9854F5; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+To get a better understanding of your real data before your collect it
+you can run computer simulations and power analyses. Briefly this
+involves:
+
+- Simulating random data with the distribution and sample size of
+  expected real data and run the statistical test planned for the study.
+
+- Repeating the statistical test (e.g. 100 x) and check results are
+  within the false-positive finding rate of 5%.
+
+- Running a power analysis by simulating data with the expected effect
+  size for the study and check model registers effect at least 80% of
+  the time.
+
+Take a look at our simulation tutorial
+[here](https://lmu-osc.github.io/Introduction-Simulations-in-R/) or a
+more beginner friendly guide
+[here](https://lmu-osc.github.io/teaching-material-for-novices/open-research-tools/simulations/).
 :::
 
-*What is the difference between a preregistration and a registered report?*
+**"Preregistration keeps you in a box"**
 
-::: {.callout-tip title="Answer" collapse="true"}
-Answer
+[Statistics]{style="background-color:  #9854F5; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+[Ways of
+working]{style="background-color:  #f9c002; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+Preregistrations are sometimes perceived to be restrictive, where you
+have to strictly adhere to the study plan. This is not the case!
+Preregistrations are a “plan not a prison”, as there are different
+degrees of flexibility and you can document any deviations from your
+plan when you write up the research findings (DeHaven, 2017).
+
+Preregistrations can also be tailored to the study type (e.g incremental
+transparently documenting exploratory-confirmatory pathway or
+sequential - multi-stage contingent experiments).
+
+Binney et al. (2025) discuss practical guidance of balancing mitigating
+biases with flexibility in the research process. Lakens (2024) discusses
+when and how to deviate from a preregistration.
 :::
 
 ## Submitting a preregistration
 
-*Can I modify a document in my registration?*
+**I forgot to report a statistical test, can I modify my
+preregistration?**
 
-::: {.callout-tip title="Answer" collapse="true"}
-Answer
+[Practical]{style="background-color:  #cc0066; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+Mistakes happen! If you spot the mistake before you carry out your
+analysis, you can report a "deviation from preregistration" in a new
+document where you transparently describe the change, rationale and
+effect of change to the study results (see guidance
+[here](https://osf.io/x5w7h/files/yrvcg)).
+:::
+
+**I accidentally included sensitive information in my preregistration,
+can I withdraw it?**
+
+[Practical]{style="background-color:  #cc0066; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+There are several options depending on when you decide to withdraw your
+preregistration:
+
+Depending on the preregistration platform you use, there is an author
+approval window after creation of preregistration (2 days for
+[OSF](https://help.osf.io/article/330-welcome-to-registrations#Approving-your-Registration-zN2_H),
+6 days for [AsPredicted](https://aspredicted.org/messages/edit.php))
+where you can cancel it.
+
+If you decide to withdraw after the preregistration is finalized, you
+can create a new preregistration with the sensitive information omitted
+and document the rationale for withdrawing the original preregistration.
+More information about the withdrawal process on
+[OSF](https://help.osf.io/article/330-welcome-to-registrations#Withdraw-a-Registration-QWhhB)
 :::
 
 ## Post preregistration: reporting research
 
-*My data collection plans changed due to unforeseen circumstances, how do I report this in my paper?*
+**What sort of things from my preregistration do I need to report in my
+manuscript?**
 
-::: {.callout-tip title="Answer" collapse="true"}
-Answer
+[Practical]{style="background-color:  #cc0066; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+[Statistics]{style="background-color:  #9854F5; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+[Study
+type]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+You will need to reference the preregistrated work in the methods
+section of your manuscript by providing a link to the repository. All
+the main components of a preregistration (e.g. hypotheses/research
+questions, sampling plan, variable description, design plan, outliers
+and exceptions, analyses) and any deviations from the preregistration.
+You can use this [OSF checklist](https://osf.io/x5w7h/files/zwkqj) to
+help you remember what should be reported in your manuscript.
 :::
 
-*Does it matter if the author list differs from the preregistration document and the final publication?*
+**Where can I find information on which journals accept
+preregistrations/registered reports?**
 
-::: {.callout-tip title="Answer" collapse="true"}
-Answer
+[Practical]{style="background-color:  #cc0066; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+There are over 300 journals that adopt the registered report format (see
+list of journals
+[here](https://www.cos.io/initiatives/registered-reports)).
 :::
 
-*Where can I find information on which journals accept preregistrations or registered reports?*
-
-::: {.callout-tip title="Answer" collapse="true"}
-Increasingly more journals are accepting study preregistrations. See this up-to-date [list](https://www.cos.io/initiatives/registered-reports) of particpating journals by the Center of Open Science.
-:::
-
-*How do I publish a study coming from two preregistrations?*
-
-::: {.callout-tip title="Answer" collapse="true"}
-Answer
-:::
-
-*How do I publish a study that doesn’t cover the entire preregistration?*
-
-::: {.callout-tip title="Answer" collapse="true"}
-Answer
-:::

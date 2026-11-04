@@ -1,0 +1,65 @@
+---
+title: "Practical tips"
+---
+
+## General practical tips
+
+As we come to the end of this tutorial, you should feel more
+knowledgeable and confident about preregistration and how to carry out
+one in your own research. Even if you are not quite ready to implement a
+study preregistration just yet, you should have the tools to critically
+evaluate your own research planning approaches and existing
+preregistered studies. Below are four practical tips and additional
+resources to help you on your next steps on your preregistration
+journey!
+
+### Tip 1: Find an appropriate template
+
+A good way to get started with a preregistration is to find a template
+that aligns well with your research area and standards in your
+discipline. You can refer back to section X where examples of
+preregistration templates are listed.
+
+### Tip 2: Evaluate existing preregistrations
+
+Spending time reading and evaluating existing preregistrations can get
+you thinking critically about what is included in one, level of detail,
+etc. Reviewing other researcher's preregistered studies can act as a
+blueprint for when you come to write yours.
+
+You can find an example of a preregistered study in your own research
+area on the Open Science Framework’s Zotero library. You can filter for
+subject matter and study type.
+<https://www.zotero.org/groups/479248/osf/collections/VKXUAZM7> 
+
+### Tip 3: Embrace change and mistakes
+
+As researchers we are not perfect and our studies can change when we are
+presented with new information [@bishop2018]. Your first preregistration
+is likely to have mistakes or information left out. That is ok! Think
+about how you can take the process of writing a preregistration as a
+learning opportunity and build your knowledge and make improvements for
+the next one.
+
+### Tip 4: Add more Open Science practices to your research workflows
+
+Preregistration is one of many Open Science practices! In addition to
+preregistrering your study, you can make your research even more
+transparent and reproducible with open data (anonymized as appropriate),
+open code. You can read more about how to integrate Open Science
+practices in your workflows in the OSC's [Research Cycle
+Handbook](https://www.osc.lmu.de/training/research-cycle-handbook.html).
+
+------------------------------------------------------------------------
+
+## Additional resources
+
+- A [student's perspective](https://doi.org/10.1002/ece3.10023) of doing
+  a registered report [@gya2023]
+
+- OSF community of
+  [support](https://osf.io/e6auq/wiki/Preregistration%20Community%20Support/)
+
+- [Discussion](https://www.youtube.com/watch?v=77YeUe_Bkco) about merits
+  vs limits of study preregistration from IEEE Visualization Conference
+  2022

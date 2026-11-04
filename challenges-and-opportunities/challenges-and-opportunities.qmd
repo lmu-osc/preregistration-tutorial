@@ -1,58 +1,198 @@
 ---
 title: "Challenges and opportunities of preregistration"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-Recap: So far we have covered...
+**Recap:** So far we have covered why the practice of preregistration
+came about, and how to do a preregistration. Now we will outline some of
+the main challenges and opportunities of preregistration.
 
-INSERT word cloud picture here of challenges from spreadsheet
+![*Credit: Gracia Prum and Malika Ihle for collating comments on the
+challenges and opportunities of preregistration from participants from
+previous
+workshops.*](images/preregistration pros cons wordcloud.png){fig-alt="wordcloud of the pros and cons of preregistration."
+fig-align="center" width="704"}
 
 ------------------------------------------------------------------------
 
 ## Benefits of preregistration
 
-### Improved planning and project management
+Now we will consider how benefits and opportunities of preregistration
+exist from individual researchers all the way to the wider research
+ecosystem.
+
+### Benefits for researchers
+
+**Improved planning and project management:**
+
+- The process of filling out preregistration document helps **identify
+  key information** needed at study design stage
+
+- Outlining data collection methods and analysis plans which **reduces
+  ambiguity** and **errors** during data analysis stage
 
 ::: {.callout-note title="Do you remember?" collapse="true"}
-Do you remember the dilemma Max was having? Having a well thought out analysis plan with a clear decision tree would help mitigate encountering Max's situation in the future.
+Do you remember the dilemma Max was having? Having a well thought out
+analysis plan with a clear decision tree would help mitigate
+encountering Max's situation in the future.
 :::
 
-### Clearer involvement of collaborators/project partners
+**Builds your reputation**
 
--   You can get a badge!
+- Transparently show to the wider research community your plans and
+  tests
 
+- Signal that you have taken steps to **mitigate** against hindsight and
+  confirmation **bias** [@wagenmakersSevenSelfishReasons2016].
 
--   More benefits from a student perspective outlined by @gya2023
+**Easier to write up and publish findings**
+
+- Front loading the thinking and planning makes **writing up** results
+  and discussion a smoother process
+
+- If you preregister your analytic **code** on **simulated data** the
+  results of your confirmatory analyses will be **generated quicker**
+  once you have collected and cleaned data
+
+- If preregistration is approved as a registered report during stage 1
+  journal peer review, you have **"in-principle acceptance"**
+
+**Visible productivity**
+
+- Publicly sharing outputs that others can **evaluate** beyond a journal
+  article (as evaluation of outputs can be influenced by journal
+  prestige)
+
+## Benefits for teams
+
+**Clearer involvement of collaborators/project partners**
+
+- Provides opportunities for project partners to discuss and **refine
+  plans** before data collection
+
+- Detailed research plans provide **clarity** for project partners,
+  which is increasingly important in the era of **large-scale
+  collaborations**
+
+## Benefits to wider research ecosystem
+
+**Increase research credibility and bias**
+
+- **Mitigates** against questionable research practices
+
+- Offers more complete reporting and **transparency** of research
+  project
+
+- **Reduces publication bias**, as preregistration/registered report is
+  available to read (if not embargoed)
+
+**Check thinking**
+
+- Other people reading your findings can **follow your thought process**
+
+- Gain a deeper understanding of a project and make an **informed
+  assessment** [@binneyPracticalRoutesPreregistration2025]
 
 ::: {.callout-tip title="Reflection point" collapse="true"}
-Can you think of other benefits of preregistration in your research area?
+Can you think of other benefits of preregistration in your research
+area?
 :::
 
 ------------------------------------------------------------------------
 
 ## Challenges of preregistration
 
-There remains a number of barriers to the widespread adoption of preregistration. This section outlines some of the commonly perceived barriers and presents some solutions.
+There remains a number of barriers to the widespread adoption of
+preregistration. There are significant challenges present in the current
+**research** and **assessment** **culture** (e.g. "publish or perish")
+which influences the uptake of preregistration. Researchers have
+**different knowledge** and **experience** levels with Open Science
+practices that reflect in **attitudes** and **adoption** of
+preregistration. This section outlines some of the commonly perceived
+barriers and presents some solutions.
 
-### Time: "I haven't got time to do a study registration"
+## Challenges: time
 
-The time and effort needed to do a preregistration is a frequently cited challenge, especially in a 'publish or perish' research culture. There is a some truth to this statement, as study planning should take time. Reframing the upfront time investment as a
+*"I haven't got time to do a preregistration"*
 
-*Counterargument:* front-loaded effort during the planning stage can help later on during write up and during peer review.
+*Reframing:* front-loaded effort during the planning stage can help
+later on during write up and during peer review (remember the benefits
+to researchers above)
 
-### Lack of incentives: "I don't see the point"
+::: callout-note
+## Did you know?
 
-*Counterargument:* aside from individual researcher benefits (increased reflection, reduced likelihood of systematic errors), journals are increasingly prioritizing study registrations.
+[Peer Community in Registered
+Reports](https://rr.peercommunityin.org/PCIRegisteredReports/) is an
+initiative where the research community reviews and recommends
+registered reports. There is the option to speed up the Stage 1 peer
+review of a registered report with the 'scheduled review'
+[track](https://rr.peercommunityin.org/help/guide_for_reviewers#h_61998243643551613309672490).
+Authors initially submit a one-page “snapshot” instead of a full stage 1
+report.
+:::
 
-### Overwhelm: "There is so much that goes into a study registration"
+## Challenges: statistical confidence
 
-*Counterargument:* templates and FAQ pages can guide you and if you
-    are unable to officially register a study, adopting principles of
-    study registration is a good step (e.g. Open Science Buffet
-    approach, @bergma2023)
+*"How do I know my planned statistical analysis is the right one?"*
 
-### Lack of support: "No one in my team knows or cares about study
-registration"
+*Strategy:* Simulate random data with the distribution and sample size
+of expected real data and run the statistical test planned for the
+study. Repeat the statistical test (e.g. 100 x) and check results are
+within the false-positive finding rate of 5%. Run a power analysis by
+simulating data with the expected effect size for the study and check
+model registers effect at least 80% of the time.
 
-*Counterargument:* share resources, and suggest a group meeting to
-    discuss and learn more about study registration to increase
-    familiarity.
+::: callout-tip
+Take a look at our simulation tutorial
+[here](https://lmu-osc.github.io/Introduction-Simulations-in-R/) or a
+more beginner friendly guide
+[here](https://lmu-osc.github.io/teaching-material-for-novices/open-research-tools/simulations/).
+:::
+
+## Challenges: lack of incentives
+
+*"I don't see the point"*
+
+*Counterargument:* aside from individual researcher benefits (increased
+reflection, reduced likelihood of systematic errors), journals are
+increasingly prioritizing study preregistrations.
+
+::: callout-note
+## Find out more
+
+Next time you read a journal article in your field, take a look at the
+journal's webpage and see if they accept preregistered studies and if
+there are guidelines for publishing registered reports. This information
+is usually in the author resources/guidelines section.
+:::
+
+## Challenges: overwhelm
+
+*"There is so much that goes into a study registration"*
+
+*Counterargument:* templates and FAQ pages can guide you and if you are
+unable to officially register a study, adopting principles of study
+preregistration is a good step (e.g. Open Science Buffet approach,
+@bergma2023)
+
+## Challenges: lack of support
+
+*"No one in my team knows or cares about study preregistration"*
+
+*Strategy:* Often a reluctance to try out preregistration comes from a
+place of lack of familiarity with the process.Sharing resources, and
+suggest a group meeting to discuss/learn more about preregistration to
+increase familiarity. Reframe preregistration as a creative opportunity
+to plan great science! Planning is where the science is, as other
+research processes, like data collection can be delegated.
+
+::: callout-note
+## Additional resource
+
+Relate to this challenge? See the preregistration [case
+study](https://zenodo.org/records/22307709) which provides a number of
+strategies.
+:::

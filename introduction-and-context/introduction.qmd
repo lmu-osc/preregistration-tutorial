@@ -5,7 +5,7 @@ editor:
     wrap: 72
 ---
 
-## A researcher's freedom to decide
+## A researcher's freedom to decide 
 
 As researchers we make lots of decisions throughout the life cycle of a
 research project: Which hypotheses to test? How big a sample size is
