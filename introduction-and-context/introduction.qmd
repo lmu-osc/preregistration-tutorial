@@ -4,7 +4,7 @@ title: "Introduction to preregistration"
 
 ## What even is preregistration?
 
-When reading a typical journal article, can you tell if the research questions or hypotheses were formulated *before* or *after* the study findings were known, and does this matter? Short answer is: no, you can't really tell and yes it does matter!
+When reading a typical journal article, can you tell if the research questions or hypotheses were formulated *before* or *after* the study findings were known, and does this matter? Short answer is: no, you cannot really tell and yes it does matter!
 
 Recognizing the difference between planned work and unplanned work both as a *contributor* to and *consumer* of research is critical for transparent and credible science (Nosek et al 2018). Conflating predictions and postdictions can lead to...  Presenting postdictions as predictions can increase publishability of findings (e.g. positive and novel results) by falsely reducing uncertainty....
 

@@ -33,7 +33,9 @@ working]{style="background-color:  #f9c002; color: #fcfcfd; padding: 3px 6px; bo
 study with existing data?**
 
 [Study
-type]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"} , [Practical]{style="background-color:  #cc0066; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+type]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+,
+[Practical]{style="background-color:  #cc0066; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 ::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
 Yes, with some additional considerations needed.
@@ -45,8 +47,8 @@ which can contribute to questionable research practices.
 
 @vandenakkera provide a template and a detailed worked example for how
 to carry out a preregistration for pre-existing data. Some additional
-considerations covered in the template are "What prior knowledge do you have about the
-dataset that may be relevant for the proposed analysis?".
+considerations covered in the template are "What prior knowledge do you
+have about the dataset that may be relevant for the proposed analysis?".
 :::
 
 **My study is descriptive (e.g. observational), is doing a
@@ -152,6 +154,28 @@ more beginner friendly guide
 [here](https://lmu-osc.github.io/teaching-material-for-novices/open-research-tools/simulations/).
 :::
 
+**"Preregistration keeps you in a box"**
+
+[Statistics]{style="background-color:  #9854F5; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+[Ways of
+working]{style="background-color:  #f9c002; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+
+::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
+Preregistrations are sometimes perceived to be restrictive, where you
+have to strictly adhere to the study plan. This is not the case!
+Preregistrations are a “plan not a prison”, as there are different
+degrees of flexibility and you can document any deviations from your
+plan when you write up the research findings (DeHaven, 2017).
+
+Preregistrations can also be tailored to the study type (e.g incremental
+transparently documenting exploratory-confirmatory pathway or
+sequential - multi-stage contingent experiments).
+
+Binney et al. (2025) discuss practical guidance of balancing mitigating
+biases with flexibility in the research process. Lakens (2024) discusses
+when and how to deviate from a preregistration.
+:::
+
 ## Submitting a preregistration
 
 **I forgot to report a statistical test, can I modify my
@@ -220,26 +244,53 @@ list of journals
 [here](https://www.cos.io/initiatives/registered-reports)).
 :::
 
-## Practical tips
+## General practical tips
 
 As we come to the end of this tutorial, you should feel more
-knowledgeable and confident about the Open Science practice of
-preregistration and how to carry out one in your own research. Even if
-you are not quite ready to implement a study preregistration just yet,
-you should have the tools to critically evaluate your own research
-planning approaches and existing preregistered studies. Below are X
-practical tips and additional resources to help you on your next steps
-on your preregistration journey!
+knowledgeable and confident about preregistration and how to carry out
+one in your own research. Even if you are not quite ready to implement a
+study preregistration just yet, you should have the tools to critically
+evaluate your own research planning approaches and existing
+preregistered studies. Below are four practical tips and additional
+resources to help you on your next steps on your preregistration
+journey!
 
-### Open Science Buffet
+### Tip 1: Find an appropriate template
 
-### Tip 2
+A good way to get started with a preregistration is to find a template
+that aligns well with your research area and standards in your
+discipline. You can refer back to section X where examples of
+preregistration templates are listed.
 
-### Tip 3
+### Tip 2: Evaluate existing preregistrations
 
-### Tip 4
+Spending time reading and evaluating existing preregistrations can get
+you thinking critically about what is included in one, level of detail,
+etc. Reviewing other researcher's preregistered studies can act as a
+blueprint for when you come to write yours.
 
-### Tip 5
+You can find an example of a preregistered study in your own research
+area on the Open Science Framework’s Zotero library. You can filter for
+subject matter and study type.
+<https://www.zotero.org/groups/479248/osf/collections/VKXUAZM7> 
+
+### Tip 3: Embrace change and mistakes
+
+As researchers we are not perfect and our studies can change when we are
+presented with new information [@bishop2018]. Your first preregistration
+is likely to have mistakes or information left out. That is ok! Think
+about how you can take the process of writing a preregistration as a
+learning opportunity and build your knowledge and make improvements for
+the next one.
+
+### Tip 4: Add more Open Science practices to your research workflows
+
+Preregistration is one of many Open Science practices! In addition to
+preregistrering your study, you can make your research even more
+transparent and reproducible with open data (anonymized as appropriate),
+open code. You can read more about how to integrate Open Science
+practices in your workflows in the OSC's [Research Cycle
+Handbook](https://www.osc.lmu.de/training/research-cycle-handbook.html).
 
 ------------------------------------------------------------------------
 
@@ -249,8 +300,8 @@ on your preregistration journey!
   a registered report [@gya2023]
 
 - OSF community of
-  [support](https://osf.io/e6auq/wiki/Preregistration%20Community%20Support/):
+  [support](https://osf.io/e6auq/wiki/Preregistration%20Community%20Support/)
 
 - [Discussion](https://www.youtube.com/watch?v=77YeUe_Bkco) about merits
-  vs limits of study peregistration from IEEE Visualization Conference
+  vs limits of study preregistration from IEEE Visualization Conference
   2022
