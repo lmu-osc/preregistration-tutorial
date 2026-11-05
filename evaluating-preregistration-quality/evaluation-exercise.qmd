@@ -2,9 +2,11 @@
 title: "Evaluating preregistrations"
 ---
 
-This critical evaluation exercise is helpful for you to improve your understanding of doing a preregistration by examining real examples. This exercise provides guidance and resources in how to critically evaluate existing study preregistrations. By increasing familiarity with the content of study preregistrations across a wide range of research areas, you are encouraged to think and relate these concepts to your own research projects.
+**Recap:** We practiced improving individual elements of preregistration.
 
-**Learning objective:** To be able to evaluate the quality of study preregistrations.
+Now we will turn our attention to This critical evaluation exercise is helpful for you to improve your understanding of doing a preregistration by examining real examples. This exercise provides guidance and resources in how to critically evaluate existing study preregistrations. By increasing familiarity with the content of study preregistrations across a wide range of research areas, you are encouraged to think and relate these concepts to your own research projects.
+
+**Learning objective:** To be able to *evaluate* the quality of study preregistrations.
 
 **Instructions:**
 

@@ -39,7 +39,7 @@ research approaches there is guidance on what to include (e.g.
 
 ### Part 1: Hypotheses
 
-**Essential:**
+ [**Essential:**]{style="background-color: #3abf57; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 - *State* your research questions clearly
 
@@ -51,7 +51,7 @@ research approaches there is guidance on what to include (e.g.
 - If you are manipulating a variable, *make predictions* for successful
   check variables or explain why no manipulation check is included.
 
-**Recommendations:**
+ [**Recommendations:**]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 - *Adding* a table/figure to describe complex interaction
 
@@ -60,7 +60,7 @@ research approaches there is guidance on what to include (e.g.
 
 ### Part 2: Design {#sec-part-2-design}
 
-**Essential:**
+ [**Essential:**]{style="background-color: #3abf57; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 *List* of variables based on your hypotheses:
 
@@ -73,7 +73,7 @@ research approaches there is guidance on what to include (e.g.
 
 ### Part 3: Planned sample
 
-**Essential:**
+ [**Essential:**]{style="background-color: #3abf57; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 - If applicable, *state* any pre-selection rules (e.g. age limits)
 
@@ -85,7 +85,7 @@ research approaches there is guidance on what to include (e.g.
 
 ### Part 4: Exclusion criteria {#sec-part-4-exclusion-criteria}
 
-**Essential:**
+ [**Essential:**]{style="background-color: #3abf57; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 *Describe* anticipated specific data exclusion criteria such as:
 
@@ -99,14 +99,14 @@ research approaches there is guidance on what to include (e.g.
 
 - method-based outlier criteria (e.g. too short or long response times)
 
-**Recommendations:**
+ [**Recommendations:**]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 - *Set* fail-safe levels of exclusion at which the whole study needs to
   be stopped, altered, and restarted.
 
 ### Part 5: Analysis plan
 
-**Essential:**
+ [**Essential:**]{style="background-color: #3abf57; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 *Describe* the analyses that will test each main prediction from the
 hypotheses section. For each one, include:
@@ -124,7 +124,7 @@ hypotheses section. For each one, include:
   statistics), describe your criteria calculation of prior values or
   distributions
 
-**Recommendations:**
+ [**Recommendations:**]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 - *Specify* contingencies and assumptions (e.g. method of correcting for
   multiple testing, missing data handling, data transformations (e.g.
