@@ -3,9 +3,10 @@ title: "Introduction to preregistration"
 editor: 
   markdown: 
     wrap: 72
+bibliography: references.bib
 ---
 
-## A researcher's freedom to decide 
+## A researcher's freedom to decide
 
 As researchers we make lots of decisions throughout the life cycle of a
 research project: Which hypotheses to test? How big a sample size is
@@ -43,7 +44,7 @@ detail in the [Questionable research practices](qrps.qmd) page.
 ::: callout-important
 Recognizing the difference between exploratory and hypothesis testing
 approaches both as a *contributor* to and *consumer* of research is
-critical for transparent and credible science (Nosek et al 2018).
+critical for transparent and credible science [@nosek2018].
 :::
 
 ## Questioning how we do research
@@ -101,10 +102,10 @@ is relevant to all kinds of research:
 ::: callout-note
 ### Did you know?
 
-The concept of pregistration is not new! The scientist and philosopher
+The concept of preregistration is not new! The scientist and philosopher
 Charles Sanders Peirce in \~1880s created a set of rules to test "the
 truth", with one being that hypotheses should be stated *before* data
-collection @peirce1883.
+collection [@peirce1883].
 :::
 
 Being able to understand the different research approaches, study
@@ -112,31 +113,30 @@ designs and key concepts will help provide context for the steps
 required to do a study preregistration. We will explore some [research
 methods](research-cycle.qmd).
 
-
 ### What would you do?
 
-Imagine if your PhD lab mate Max came to you with this dilemma: 
+Imagine if your PhD lab mate Max came to you with this dilemma:
 
-"I've been analyzing the data from my first thesis chapter (which I really
-want to publish, as it will help with my chances of getting a post doc).
-One of my hypotheses is that X influences Y. I've measured many
-variables to test this hypothesis. However during the data analysis,
-results seem to show X has no effect on Y, unless I remove a variable.
-Do you have any suggestions of what I should do?"
+"I've been analyzing the data from my first thesis chapter (which I
+really want to publish, as it will help with my chances of getting a
+post doc). One of my hypotheses is that X influences Y. I've measured
+many variables to test this hypothesis. However during the data
+analysis, results seem to show X has no effect on Y, unless I remove a
+variable. Do you have any suggestions of what I should do?"
 
 What would you recommend Max does from the options listed below?
 
-- [ ] A\) Remove that variable from the analysis
+- [ ] A) Remove that variable from the analysis
 
-- [ ] B\) Tweak the hypothesis to match the results
+- [ ] B) Tweak the hypothesis to match the results
 
-- [ ] C\) Collect more data in the hope, a larger sample size will show an
-effect
+- [ ] C) Collect more data in the hope, a larger sample size will show
+  an effect
 
-- [ ] D\) Try out a new statistical test to see if there is a significant
-effect
+- [ ] D) Try out a new statistical test to see if there is a significant
+  effect
 
-- [ ] E\) Leave that variable in and write up the results as they are
+- [ ] E) Leave that variable in and write up the results as they are
 
 We will revisit Max's dilemma throughout this tutorial and hopefully by
 the end you will be more confident at identifying potential issues and

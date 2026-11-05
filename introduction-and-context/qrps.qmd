@@ -7,6 +7,8 @@ bibliography: references.bib
 
 From one end of the research integrity spectrum of clear misconduct (e.g. falsifying results or plagiarizing someones work) to acceptable and responsible research practices (i.e. what Open Science movement strives to create), where do the selective reporting or misrepresentations of data fit in? This grey zone of Questionable Research Practices (QRPs) of less overt and subtle behaviors (compared to misconduct) nonetheless damages the credibility of science [@entradas2026]. The prevalence and impact of QRPs has received less attention than the clear cut examples of serious research misconduct (although see case study below).
 
+![](images/research-cycle-qrps-01.png){fig-align="center" width="553"}
+
 ### HARKing {#sec-harking}
 
 Hypothesizing after the results are known (HARKing) is a QRP where a researcher changes their hypothesis based on or informed by the results, but present their hypothesis as if it were a priori [@kerr1998].
@@ -31,9 +33,9 @@ The tendency to seek out, interpret, favor and recall information in a way that 
 
 The *lack of awareness* of how one's decisions are shaped by bias [@hardwicke2023].
 
-The range of biases highlights that we are all human and it is important to be *aware* of how cognitive biases *influence* how we do our research!
-
 ## Summary
+
+The range of biases highlights that we are all human and it is important to be *aware* of how cognitive biases *influence* how we do our research!
 
 ::: {.callout-note title="Case study"}
 Interested in learning more about questionable research practices? Take a look at the recent study by @entradas2026 where they examined how \~1500 researchers understand and engage in questionable research practices.

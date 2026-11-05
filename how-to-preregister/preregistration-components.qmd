@@ -3,6 +3,7 @@ title: "Components of a preregistration"
 editor: 
   markdown: 
     wrap: 72
+bibliography: references.bib
 ---
 
 **Recap:** In the introduction we covered the context and rationale of
@@ -16,13 +17,13 @@ preregistration.
 
 There are a number of *essential* elements within a registration
 document (with a subset of *recommended* things to also include
-[@stefan2023]):
+@stefan2023):
 
-- 1 Hypotheses
-- 2 Design
-- 3 Planned sample
-- 4 Exclusion criteria
-- 5 Analysis plan
+1.  Hypotheses
+2.  Design
+3.  Planned sample
+4.  Exclusion criteria
+5.  Analysis plan
 
 ::: callout-note
 These mirror some of the stages in the research life cycle we have seen
@@ -33,8 +34,8 @@ registrations.
 We will go through each element in turn. Note that the five
 preregistration components detailed below are more focused for
 hypothesis-testing research. For hypothesis-generating or exploratory
-research approaches there is guidance on what to include (e.g. Dirnagl
-(2020)).
+research approaches there is guidance on what to include (e.g.
+@dirnagl2020).
 
 ### Part 1: Hypotheses
 
@@ -145,11 +146,11 @@ related Open Science practice known as a registered report. *Registered
 reports* are a publishing format where a study undergoes *two stages* of
 peer review: *stage 1:* introduction and methods in advance of data
 collection/analysis and *stage 2:* which includes the full study
-findings including results/discussion (Parsons et al. 2022). Registered
-reports can help safeguard against finding potential study design issues
-after data collection.
+findings including results/discussion @parsons2022. Registered reports
+can help safeguard against finding potential study design issues after
+data collection.
 
-::: callout-warning
+::: callout-caution
 You may come across registered reports being described in the literature
 as "two-stage review with in-principle acceptance" [@mayo-wilson2025].
 Some meta-science researchers are working calling for the Open Science

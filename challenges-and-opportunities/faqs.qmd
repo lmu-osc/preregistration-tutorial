@@ -6,7 +6,6 @@ editor:
 bibliography: references.bib
 ---
 
-
 This page contains a collection of common misconceptions, frequently
 asked questions and concerns about preregistration. This page is
 designed to be used as a reference guide and the collection is organized
@@ -166,9 +165,9 @@ Preregistrations can also be tailored to the study type (e.g incremental
 transparently documenting exploratory-confirmatory pathway or
 sequential - multi-stage contingent experiments).
 
-Binney et al. (2025) discuss practical guidance of balancing mitigating
-biases with flexibility in the research process. Lakens (2024) discusses
-when and how to deviate from a preregistration.
+@binney2025a discuss practical guidance of balancing mitigating biases
+with flexibility in the research process. @lakens2024 discusses when and
+how to deviate from a preregistration.
 :::
 
 ## Submitting a preregistration
@@ -205,7 +204,7 @@ If you decide to withdraw after the preregistration is finalized, you
 can create a new preregistration with the sensitive information omitted
 and document the rationale for withdrawing the original preregistration.
 More information about the withdrawal process on
-[OSF](https://help.osf.io/article/330-welcome-to-registrations#Withdraw-a-Registration-QWhhB)
+[OSF](https://help.osf.io/article/330-welcome-to-registrations#Withdraw-a-Registration-QWhhB).
 :::
 
 ## Post preregistration: reporting research
@@ -238,4 +237,3 @@ There are over 300 journals that adopt the registered report format (see
 list of journals
 [here](https://www.cos.io/initiatives/registered-reports)).
 :::
-

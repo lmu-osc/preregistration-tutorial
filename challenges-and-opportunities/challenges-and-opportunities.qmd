@@ -3,12 +3,12 @@ title: "Challenges and opportunities of preregistration"
 editor: 
   markdown: 
     wrap: 72
+bibliography: references.bib
 ---
 
 **Recap:** So far we have covered why the practice of preregistration
 came about, and how to do a preregistration. Now we will outline some of
 the main challenges and opportunities of preregistration.
-
 
 ![*Credit: Gracia Prüm and Malika Ihle for collating comments on the
 challenges and opportunities of preregistration from participants from
@@ -46,7 +46,7 @@ encountering Max's situation in the future.
   tests
 
 - Signal that you have taken steps to **mitigate** against hindsight and
-  confirmation **bias** [@wagenmakersSevenSelfishReasons2016].
+  confirmation **bias** [@wagenmakers2016].
 
 **Easier to write up and publish findings**
 
@@ -94,7 +94,7 @@ encountering Max's situation in the future.
 - Other people reading your findings can **follow your thought process**
 
 - Gain a deeper understanding of a project and make an **informed
-  assessment** [@binneyPracticalRoutesPreregistration2025]
+  assessment** [@binney2025]
 
 ::: {.callout-tip title="Reflection point" collapse="true"}
 Can you think of other benefits of preregistration in your research
@@ -177,7 +177,7 @@ is usually in the author resources/guidelines section.
 *Counterargument:* templates and FAQ pages can guide you and if you are
 unable to officially register a study, adopting principles of study
 preregistration is a good step (e.g. Open Science Buffet approach,
-@bergma2023)
+[@bergmann2023])
 
 ## Challenges: lack of support
 

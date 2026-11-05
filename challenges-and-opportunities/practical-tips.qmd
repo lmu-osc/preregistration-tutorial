@@ -1,5 +1,9 @@
 ---
 title: "Practical tips"
+editor: 
+  markdown: 
+    wrap: 72
+bibliography: references.bib
 ---
 
 ## General practical tips
@@ -17,8 +21,9 @@ journey!
 
 A good way to get started with a preregistration is to find a template
 that aligns well with your research area and standards in your
-discipline. You can refer back to section X where examples of
-preregistration templates are listed.
+discipline. You can refer back to components of a preregistration
+[page](preregistration-components.qmd) where examples of preregistration
+templates are listed.
 
 ### Tip 2: Evaluate existing preregistrations
 
@@ -28,9 +33,9 @@ etc. Reviewing other researcher's preregistered studies can act as a
 blueprint for when you come to write yours.
 
 You can find an example of a preregistered study in your own research
-area on the Open Science Framework’s Zotero library. You can filter for
-subject matter and study type.
-<https://www.zotero.org/groups/479248/osf/collections/VKXUAZM7> 
+area on the Open Science Framework’s [Zotero
+library](https://www.zotero.org/groups/479248/osf/collections/VKXUAZM7).
+You can filter for subject matter and study type.
 
 ### Tip 3: Embrace change and mistakes
 

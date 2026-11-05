@@ -1,16 +1,16 @@
 ---
-title: "Final exercise"
+title: "Extension exercise"
 ---
 
 **Recap:** We practiced improving elements of a preregistration by spotting signs of ambiguity and suggesting improvements.
 
 ## Practice preregistration
 
-For this final exercise we will be using the preregistration platform AsPredicted. The aim is to increase your familiarity with the process of filling out a study preregistration and noting down any challenges while you practice. For this exercise you can draw from your own research project and have a go at filling the 11 questions in 20 minutes. 20 minutes should be sufficient time to get a taster for the process. After 20 minutes, spend 5 minutes going through the reflection questions below to help you think about your experience of completing this exercise.
+For this extension exercise we will be using the preregistration platform AsPredicted. The aim is to increase your familiarity with the process of filling out a study preregistration and noting down any challenges while you practice. For this exercise you can draw from your own research project and have a go at filling the 11 questions in 20 minutes. 20 minutes should be sufficient time to get a taster for the process. After 20 minutes, spend 5 minutes going through the reflection questions below to help you think about your experience of completing this exercise.
 
 **Prerequisites:**
 
-- Completion of the build up your preregistration toolkit [exercise](Preregistration%20toolkit.qmd).
+- Completion of the build up your preregistration toolkit [exercise](preregistration-toolkit.qmd).
 
 - Learners are currently in the conceptualization stage of research study (e.g. formulating research questions, literature review, and data collection methods).
 
@@ -63,7 +63,7 @@ For 20 minutes have a go at filling in the preregistration for an upcoming study
 
 ### Step 5: Reflect on the exercise
 
-After 20 minutes, spend 5 minutes reflecting on the process using reflection questions below
+After 20 minutes, spend 5 minutes reflecting on the process using reflection questions below.
 
 ::: {.callout-note title="Reflection questions" collapse="false"}
 1.  Did you go through the questions in order?

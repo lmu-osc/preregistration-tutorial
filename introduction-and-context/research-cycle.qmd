@@ -1,14 +1,17 @@
 ---
 title: "Research cycle"
+bibliography: references.bib
 ---
 
 Where in the research life cycle we think about analyses influences how we *interpret* and *report* our findings. It is also important to think about the type of research approach of your study.
+
+![](images/research-cycle.png){fig-align="center" width="509"}
 
 ## Research approaches 101
 
 ### Qualitative research
 
-Qualitative research approaches focus on examining the meanings, experiences, and *perspectives* of individuals or groups. Data collection involves primary, first-hand, *text-based* data that is analyzed using specific interpretive methods. Sometimes text-based data is 'coded' to identify key themes and patterns (Braun and Clarke 2008).
+Qualitative research approaches focus on examining the meanings, experiences, and *perspectives* of individuals or groups. Data collection involves primary, first-hand, *text-based* data that is analyzed using specific interpretive methods. Sometimes text-based data is 'coded' to identify key themes and patterns [@braun2006].
 
 ### Review-based research
 
@@ -30,7 +33,7 @@ The *distinctions* between hypothesis generating vs testing research are often n
 
 ### Observational research
 
-Observational research gathers information about individuals or populations *without manipulating* the environment or variables. Researchers observe and collect data on subjects as they *naturally occur* in their usual settings. An example of observational research:
+Observational research gathers information about individuals or populations *without manipulating* the environment or variables. Researchers observe and collect data on subjects as they *naturally occur* in their usual settings.
 
 ### Mixed methods research
 
@@ -38,12 +41,12 @@ For research that adopts one or more theoretical frameworks (social and biologic
 
 ## Research approaches and preregistration
 
-This page outlined 5 methodological and philosophical approaches to research sometimes referred to as "research paradigms". Being able to recognize the different research approaches, study designs and key concepts will help provide context for the steps required to do a study preregistration. It is also good to be aware of other approaches to research from your own as it broadens your perspectives, especially in an increasingly interdisciplinary and collaborative research ecosystem (e.g. Big Team Science).
+This page outlined five methodological and philosophical approaches to research sometimes referred to as "research paradigms". Being able to recognize the different research approaches, study designs and key concepts will help provide context for the steps required to do a study preregistration. It is also good to be aware of other approaches to research from your own as it broadens your perspectives, especially in an increasingly interdisciplinary and collaborative research ecosystem (e.g. Big Team Science).
 
 ::: {.callout-note title="Reflection point"}
 Which research approach do you use? Have you used more than one approach in your research journey?
 :::
 
 ::: {.callout-note title="Note"}
-The focus of this tutorial is more for hypothesis driven research. For additional guidance for preregistration of qualitative studies take a look at Haven et al 2020 <https://journals.sagepub.com/doi/10.1177/1609406920976417>
+The focus of this tutorial is more for hypothesis driven research. For additional guidance for preregistration of qualitative studies take a look at @haven2020.
 :::

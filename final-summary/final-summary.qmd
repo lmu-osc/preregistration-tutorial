@@ -2,9 +2,7 @@
 title: "Final summary"
 ---
 
-At the start of this tutorial you likely felt unsure what preregistration is or why it is important. Hopefully your now feel empowered to adopt the principles of preregistration!
-
-## Final summary
+At the start of this tutorial you likely felt unsure what preregistration is or why it is important. Hopefully you now feel empowered to adopt the principles of preregistration!
 
 In this tutorial we covered:
 
@@ -14,7 +12,7 @@ In this tutorial we covered:
 
 - where to find preregistration **templates**
 
-- common **challenges** and **opportunities** of preregistration from individual researchers to the wider ecosystem
+- common **challenges** and **opportunities** of preregistration from individual researchers to the wider research ecosystem
 
 - suggestions to address **common misconceptions** and **frequently asked questions**
 
