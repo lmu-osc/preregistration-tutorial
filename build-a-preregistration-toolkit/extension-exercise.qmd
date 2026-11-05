@@ -4,13 +4,13 @@ title: "Final exercise"
 
 **Recap:** We practiced improving elements of a preregistration by spotting signs of ambiguity and suggesting improvements.
 
-# Practice preregistration
+## Practice preregistration
 
 For this final exercise we will be using the preregistration platform AsPredicted. The aim is to increase your familiarity with the process of filling out a study preregistration and noting down any challenges while you practice. For this exercise you can draw from your own research project and have a go at filling the 11 questions in 20 minutes. 20 minutes should be sufficient time to get a taster for the process. After 20 minutes, spend 5 minutes going through the reflection questions below to help you think about your experience of completing this exercise.
 
 **Prerequisites:**
 
-- Completion of the build up your preregistration toolkit [exercise](Preregistration toolkit.qmd). 
+- Completion of the build up your preregistration toolkit [exercise](Preregistration%20toolkit.qmd).
 
 - Learners are currently in the conceptualization stage of research study (e.g. formulating research questions, literature review, and data collection methods).
 
@@ -28,9 +28,9 @@ Instructions are numbered below for setting up AsPredicted preregistration templ
 
 Visit <https://aspredicted.org> and create a new preregistration. On the AsPredicted homepage, click “create” new Pre-registration.
 
-![](images/step_1_aspredicted.png){fig-alt="A screenshot of the as predicted homepage. A green box is highlighting the \"new preregistration\" creation button." fig-align="center"}
+![](images/step-1-aspredicted.png){fig-alt="An annotated screenshot of the. homepage of the aspredicted preregistration platform. There is a green box highlighting the create new preregistration field." fig-align="center"}
 
-### Step 2: Register and verfiy email
+### Step 2: Register and verify email
 
 Submit your institutional email address to register (if you have an account already you can skip this step).
 
@@ -38,7 +38,7 @@ Submit your institutional email address to register (if you have an account alre
 You will need an **institutional email address** for verification purposes to register. Personal email addresses will not work. After registering, remember to check your email for an AsPredicted login link to **complete verification process**.
 :::
 
-![](images/step_2_aspredicted.png){fig-alt="An annotated screenshot of the registration page for the aspredicted preregistration platform. There is a green box highlighting the email address box." fig-align="center"}
+![](images/step-2-aspredicted.png){fig-alt="An annotated screenshot of the registration page for the aspredicted preregistration platform. There is a green box highlighting the email address box." fig-align="center"}
 
 ### Step 3: Create a "practice mode" new preregistration
 
@@ -48,17 +48,18 @@ Check you see your email in the top right of the screen (this is a sign that you
 **Press the self destruct button**, which is essentially the practice mode version of a study preregistration. **All your answers will be deleted after 24 hours**.
 :::
 
-![](images/step_3_aspredicted.png){fig-alt="An annotated screenshot of the aspredicted \"creating a new preregistration page\"." fig-align="center"}
+![](images/step-3-aspredicted.png){fig-alt="An annotated screenshot of the aspredicted \"creating a new preregistration page\"." fig-align="center"}
 
 Click "ok" for the warning message.
 
-![](images/step_4_aspredicted.png){fig-alt="an annotated screenshot of the aspredicted \"creating a new preregistration page\" showing a green box highlighting the ok button in the warning message." fig-align="center"}
+![](images/step-4-aspredicted.png){fig-alt="an annotated screenshot of the aspredicted \"creating a new preregistration page\" showing a green box highlighting the ok button in the warning message." fig-align="center"}
 
 ### Step 4: Fill out the preregistration template
 
 For 20 minutes have a go at filling in the preregistration for an upcoming study. There are 11 questions, see how far you get through them in 20 minutes.
 
-![](images/step_5_aspredicted.png){fig-alt="Annotated screenshot of aspredicted preregistration questions." fig-align="center"}
+![](images/step-5-aspredicted.png){fig-alt="Annotated screenshot of aspredicted preregistration questions." fig-align="center"}
+
 
 ### Step 5: Reflect on the exercise
 
@@ -76,4 +77,4 @@ After 20 minutes, spend 5 minutes reflecting on the process using reflection que
 Depending on your subject area/research methods you can do a similar exercise using different templates [here](https://osf.io/zab38/wiki?wiki=dmbcy).
 :::
 
-Well done for completing the final exercise! 
+Well done for completing the final exercise!
