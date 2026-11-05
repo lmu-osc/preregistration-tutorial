@@ -7,7 +7,7 @@ bibliography: references.bib
 
 From one end of the research integrity spectrum of clear misconduct (e.g. falsifying results or plagiarizing someones work) to acceptable and responsible research practices (i.e. what Open Science movement strives to create), where do the selective reporting or misrepresentations of data fit in? This grey zone of Questionable Research Practices (QRPs) of less overt and subtle behaviors (compared to misconduct) nonetheless damages the credibility of science [@entradas2026]. The prevalence and impact of QRPs has received less attention than the clear cut examples of serious research misconduct (although see case study below).
 
-![](images/research-cycle-qrps-01.png){fig-align="center" width="553"}
+![](images/research-cycle-qrps.png){fig-align="center" width="553"}
 
 ### HARKing {#sec-harking}
 

@@ -54,7 +54,7 @@ the credibility of science ("Credibility Crisis") as many studies were
 unable to be replicated. EDIT
 
 ::: {style="text-align: center;"}
-<img src="../assets/2-research-cycle.png" style="width:50%;"/>
+<img src="../assets/research-cycle.png" style="width:50%;"/>
 :::
 
 ## Preregistration as part of the credibility revolution
