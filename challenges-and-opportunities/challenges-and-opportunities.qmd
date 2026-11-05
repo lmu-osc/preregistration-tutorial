@@ -9,11 +9,12 @@ editor:
 came about, and how to do a preregistration. Now we will outline some of
 the main challenges and opportunities of preregistration.
 
-![*Credit: Gracia Prum and Malika Ihle for collating comments on the
+
+![*Credit: Gracia Prüm and Malika Ihle for collating comments on the
 challenges and opportunities of preregistration from participants from
 previous
-workshops.*](images/preregistration pros cons wordcloud.png){fig-alt="wordcloud of the pros and cons of preregistration."
-fig-align="center" width="704"}
+workshops.*](images/pros-cons-wordcloud.png){fig-alt="wordcloud of the pros and cons of preregistration."
+fig-align="center"}
 
 ------------------------------------------------------------------------
 

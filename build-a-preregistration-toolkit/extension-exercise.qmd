@@ -28,7 +28,7 @@ Instructions are numbered below for setting up AsPredicted preregistration templ
 
 Visit <https://aspredicted.org> and create a new preregistration. On the AsPredicted homepage, click “create” new Pre-registration.
 
-![](images/step-1-aspredicted.png){fig-alt="An annotated screenshot of the. homepage of the aspredicted preregistration platform. There is a green box highlighting the create new preregistration field." fig-align="center"}
+![](images/step-i-aspredicted.png){fig-alt="An annotated screenshot of the. homepage of the aspredicted preregistration platform. There is a green box highlighting the create new preregistration field." fig-align="center"}
 
 ### Step 2: Register and verify email
 
@@ -38,7 +38,7 @@ Submit your institutional email address to register (if you have an account alre
 You will need an **institutional email address** for verification purposes to register. Personal email addresses will not work. After registering, remember to check your email for an AsPredicted login link to **complete verification process**.
 :::
 
-![](images/step-2-aspredicted.png){fig-alt="An annotated screenshot of the registration page for the aspredicted preregistration platform. There is a green box highlighting the email address box." fig-align="center"}
+![](images/step-ii-aspredicted.png){fig-alt="An annotated screenshot of the registration page for the aspredicted preregistration platform. There is a green box highlighting the email address box." fig-align="center"}
 
 ### Step 3: Create a "practice mode" new preregistration
 
@@ -48,17 +48,17 @@ Check you see your email in the top right of the screen (this is a sign that you
 **Press the self destruct button**, which is essentially the practice mode version of a study preregistration. **All your answers will be deleted after 24 hours**.
 :::
 
-![](images/step-3-aspredicted.png){fig-alt="An annotated screenshot of the aspredicted \"creating a new preregistration page\"." fig-align="center"}
+![](images/step-iii-aspredicted.png){fig-alt="An annotated screenshot of the aspredicted \"creating a new preregistration page" fig-align="center"}
 
 Click "ok" for the warning message.
 
-![](images/step-4-aspredicted.png){fig-alt="an annotated screenshot of the aspredicted \"creating a new preregistration page\" showing a green box highlighting the ok button in the warning message." fig-align="center"}
+![](images/step-iv-aspredicted.png){fig-alt="an annotated screenshot of the aspredicted with the text creating a new preregistration page showing a green box highlighting the ok button in the warning message." fig-align="center"}
 
 ### Step 4: Fill out the preregistration template
 
 For 20 minutes have a go at filling in the preregistration for an upcoming study. There are 11 questions, see how far you get through them in 20 minutes.
 
-![](images/step-5-aspredicted.png){fig-alt="Annotated screenshot of aspredicted preregistration questions." fig-align="center"}
+![](images/step-v-aspredicted.png){fig-alt="Annotated screenshot of aspredicted preregistration questions." fig-align="center"}
 
 
 ### Step 5: Reflect on the exercise
