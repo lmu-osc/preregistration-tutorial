@@ -39,7 +39,6 @@ website:
         contents:
           - href: introduction-and-context/introduction.qmd
           - href: introduction-and-context/research-cycle.qmd
-          - href: introduction-and-context/hypothesis-types.qmd
           - href: introduction-and-context/qrps.qmd
           - href: introduction-and-context/glossary.qmd
       - section: "How to do a preregistration"
@@ -53,19 +52,21 @@ website:
         contents:
           - href: challenges-and-opportunities/challenges-and-opportunities.qmd
           - href: challenges-and-opportunities/faqs.qmd
-          - href: challenges-and-opportunities/tips.qmd
+          - href: challenges-and-opportunities/practical-tips.qmd
       - section: "Building a preregistration toolkit"
-        href: build-a-preregistration-toolkit/page1.qmd
+        href: build-a-preregistration-toolkit/preregistration-toolkit.qmd
         contents:
-          - href: build-a-preregistration-toolkit/page1.qmd
-          - href: build-a-preregistration-toolkit/page2.qmd
-          - href: build-a-preregistration-toolkit/page3.qmd
+          - href: build-a-preregistration-toolkit/extension-exercise.qmd
       - section: "Evaluating preregistration quality"
-        href: evaluating-preregistration-quality/toolkit.qmd
+        href: evaluating-preregistration-quality/evaluation-exercise.qmd
         contents:
           - href: evaluating-preregistration-quality/toolkit.qmd
           - href: evaluating-preregistration-quality/page2.qmd
           - href: evaluating-preregistration-quality/page3.qmd
+      - section: "Final summary"
+        href: final-summary.qmd
+        contents:
+          - href: final-summary.qmd
 # End Website
 
 # Begin Includes
