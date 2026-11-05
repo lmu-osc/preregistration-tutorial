@@ -61,7 +61,26 @@ div.sourceCode
 @media screen {
 pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -540,11 +559,16 @@ if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') {
 
 
 <p>Where in the research life cycle we think about analyses influences how we <em>interpret</em> and <em>report</em> our findings. It is also important to think about the type of research approach of your study.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/research-cycle.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="509"></p>
+</figure>
+</div>
 <section id="research-approaches-101" class="level2">
 <h2 class="anchored" data-anchor-id="research-approaches-101">Research approaches 101</h2>
 <section id="qualitative-research" class="level3">
 <h3 class="anchored" data-anchor-id="qualitative-research">Qualitative research</h3>
-<p>Qualitative research approaches focus on examining the meanings, experiences, and <em>perspectives</em> of individuals or groups. Data collection involves primary, first-hand, <em>text-based</em> data that is analyzed using specific interpretive methods. Sometimes text-based data is ‘coded’ to identify key themes and patterns (Braun and Clarke 2008).</p>
+<p>Qualitative research approaches focus on examining the meanings, experiences, and <em>perspectives</em> of individuals or groups. Data collection involves primary, first-hand, <em>text-based</em> data that is analyzed using specific interpretive methods. Sometimes text-based data is ‘coded’ to identify key themes and patterns <span class="citation" data-cites="braun2006">(<a href="#ref-braun2006" role="doc-biblioref">Braun and Clarke 2006</a>)</span>.</p>
 </section>
 <section id="review-based-research" class="level3">
 <h3 class="anchored" data-anchor-id="review-based-research">Review-based research</h3>
@@ -571,7 +595,7 @@ if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') {
 </section>
 <section id="observational-research" class="level3">
 <h3 class="anchored" data-anchor-id="observational-research">Observational research</h3>
-<p>Observational research gathers information about individuals or populations <em>without manipulating</em> the environment or variables. Researchers observe and collect data on subjects as they <em>naturally occur</em> in their usual settings. An example of observational research:</p>
+<p>Observational research gathers information about individuals or populations <em>without manipulating</em> the environment or variables. Researchers observe and collect data on subjects as they <em>naturally occur</em> in their usual settings.</p>
 </section>
 <section id="mixed-methods-research" class="level3">
 <h3 class="anchored" data-anchor-id="mixed-methods-research">Mixed methods research</h3>
@@ -580,7 +604,7 @@ if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') {
 </section>
 <section id="research-approaches-and-preregistration" class="level2">
 <h2 class="anchored" data-anchor-id="research-approaches-and-preregistration">Research approaches and preregistration</h2>
-<p>This page outlined 5 methodological and philosophical approaches to research sometimes referred to as “research paradigms”. Being able to recognize the different research approaches, study designs and key concepts will help provide context for the steps required to do a study preregistration. It is also good to be aware of other approaches to research from your own as it broadens your perspectives, especially in an increasingly interdisciplinary and collaborative research ecosystem (e.g.&nbsp;Big Team Science).</p>
+<p>This page outlined five methodological and philosophical approaches to research sometimes referred to as “research paradigms”. Being able to recognize the different research approaches, study designs and key concepts will help provide context for the steps required to do a study preregistration. It is also good to be aware of other approaches to research from your own as it broadens your perspectives, especially in an increasingly interdisciplinary and collaborative research ecosystem (e.g.&nbsp;Big Team Science).</p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -604,16 +628,24 @@ if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') {
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>The focus of this tutorial is more for hypothesis driven research. For additional guidance for preregistration of qualitative studies take a look at Haven et al 2020 <a href="https://journals.sagepub.com/doi/10.1177/1609406920976417" class="uri">https://journals.sagepub.com/doi/10.1177/1609406920976417</a></p>
+<p>The focus of this tutorial is more for hypothesis driven research. For additional guidance for preregistration of qualitative studies take a look at <span class="citation" data-cites="haven2020">Haven et al. (<a href="#ref-haven2020" role="doc-biblioref">2020</a>)</span>.</p>
 </div>
 </div>
 
 
 <!-- -->
 
+
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-braun2006" class="csl-entry" role="listitem">
+Braun, Virginia, and Victoria Clarke. 2006. <span>“Using Thematic Analysis in Psychology.”</span> <em>Qualitative Research in Psychology</em> 3 (2): 77–101. <a href="https://doi.org/10.1191/1478088706qp063oa">https://doi.org/10.1191/1478088706qp063oa</a>.
+</div>
+<div id="ref-haven2020" class="csl-entry" role="listitem">
+Haven, Tamarinde L., Timothy M. Errington, Kristian Skrede Gleditsch, et al. 2020. <span>“Preregistering Qualitative Research: A Delphi Study.”</span> <em>International Journal of Qualitative Methods</em> 19 (January): 1609406920976417. <a href="https://doi.org/10.1177/1609406920976417">https://doi.org/10.1177/1609406920976417</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
@@ -1229,53 +1261,56 @@ if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') {
 </nav><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Source Code</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class="">
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Research cycle"</span></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>Where in the research life cycle we think about analyses influences how we *interpret* and *report* our findings. It is also important to think about the type of research approach of your study.</span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="fu">## Research approaches 101</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="fu">### Qualitative research</span></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>Qualitative research approaches focus on examining the meanings, experiences, and *perspectives* of individuals or groups. Data collection involves primary, first-hand, *text-based* data that is analyzed using specific interpretive methods. Sometimes text-based data is 'coded' to identify key themes and patterns (Braun and Clarke 2008).</span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="fu">### Review-based research</span></span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>Review-based research involves collating and *synthesizing* previously *published* work on a topic. These approaches can be used to generate *new insights* and identify *knowledge gaps*. Reviews can be more or less done *systematically*, with systematic review and meta-analyses having well-established protocols (e.g. <span class="co">[</span><span class="ot">PRISMA guidelines</span><span class="co">](https://www.prisma-statement.org/)</span>).</span>
-<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="fu">### Intervention and experimental research</span></span>
-<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>Intervention and experimental research approaches are closely related. They involve *deliberate manipulations* to a physical *entity* (e.g. individuals, groups, organisms) intended to *measure changes* to that entity. Intervention studies typically focuses on the *application* of a treatment or action to observe its effect. In experimental studies, a researcher typically observes a problem or situation, then develops a testable hypothesis from which experiments under *controlled conditions* are used to test specific *hypotheses*. Based on the outcomes, the hypothesis is adapted. A hypothesis is an unproven statement relating the connection between variables.</span>
-<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>::: callout-note</span>
-<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a><span class="fu">#### Hypothesis generating vs testing</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">bibliography:</span><span class="co"> references.bib</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>Where in the research life cycle we think about analyses influences how we *interpret* and *report* our findings. It is also important to think about the type of research approach of your study.</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="al">![](images/research-cycle.png)</span>{fig-align="center" width="509"}</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="fu">## Research approaches 101</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="fu">### Qualitative research</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>Qualitative research approaches focus on examining the meanings, experiences, and *perspectives* of individuals or groups. Data collection involves primary, first-hand, *text-based* data that is analyzed using specific interpretive methods. Sometimes text-based data is 'coded' to identify key themes and patterns <span class="co">[</span><span class="ot">@braun2006</span><span class="co">]</span>.</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a><span class="fu">### Review-based research</span></span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>Review-based research involves collating and *synthesizing* previously *published* work on a topic. These approaches can be used to generate *new insights* and identify *knowledge gaps*. Reviews can be more or less done *systematically*, with systematic review and meta-analyses having well-established protocols (e.g. <span class="co">[</span><span class="ot">PRISMA guidelines</span><span class="co">](https://www.prisma-statement.org/)</span>).</span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a><span class="fu">### Intervention and experimental research</span></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>Intervention and experimental research approaches are closely related. They involve *deliberate manipulations* to a physical *entity* (e.g. individuals, groups, organisms) intended to *measure changes* to that entity. Intervention studies typically focuses on the *application* of a treatment or action to observe its effect. In experimental studies, a researcher typically observes a problem or situation, then develops a testable hypothesis from which experiments under *controlled conditions* are used to test specific *hypotheses*. Based on the outcomes, the hypothesis is adapted. A hypothesis is an unproven statement relating the connection between variables.</span>
 <span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>Hypothesis *generating* vs *testing* are two modes of research inquiry that influence study designs and underpin the practice of study registrations. Hypothesis generating: - exploratory, discovery-focused research (asks questions like: what is happening? Why is it happening, How is it happening?)</span>
-<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>Hypothesis testing: - confirmatory, justification-focused research (asks questions like: what does X do to Y?)</span>
-<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a>The *distinctions* between hypothesis generating vs testing research are often not clearly differentiated in *practice*, which leads to *questionable research practices* and *reduced credibility* of research.</span>
-<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>::: callout-note</span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a><span class="fu">#### Hypothesis generating vs testing</span></span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>Hypothesis *generating* vs *testing* are two modes of research inquiry that influence study designs and underpin the practice of study registrations. Hypothesis generating: - exploratory, discovery-focused research (asks questions like: what is happening? Why is it happening, How is it happening?)</span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>Hypothesis testing: - confirmatory, justification-focused research (asks questions like: what does X do to Y?)</span>
 <span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a><span class="fu">### Observational research</span></span>
-<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>Observational research gathers information about individuals or populations *without manipulating* the environment or variables. Researchers observe and collect data on subjects as they *naturally occur* in their usual settings. An example of observational research:</span>
-<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a><span class="fu">### Mixed methods research</span></span>
-<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a>For research that adopts one or more theoretical frameworks (social and biological sciences) or data types (e.g. participant surveys, visual data, geospatial), would be described as a mixed-method approach.</span>
-<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a><span class="fu">## Research approaches and preregistration</span></span>
-<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a>This page outlined 5 methodological and philosophical approaches to research sometimes referred to as "research paradigms". Being able to recognize the different research approaches, study designs and key concepts will help provide context for the steps required to do a study preregistration. It is also good to be aware of other approaches to research from your own as it broadens your perspectives, especially in an increasingly interdisciplinary and collaborative research ecosystem (e.g. Big Team Science).</span>
-<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a>::: {.callout-note title="Reflection point"}</span>
-<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a>Which research approach do you use? Have you used more than one approach in your research journey?</span>
-<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a>::: {.callout-note title="Note"}</span>
-<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a>The focus of this tutorial is more for hypothesis driven research. For additional guidance for preregistration of qualitative studies take a look at Haven et al 2020 <span class="ot">&lt;https://journals.sagepub.com/doi/10.1177/1609406920976417&gt;</span></span>
-<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>:::</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a>The *distinctions* between hypothesis generating vs testing research are often not clearly differentiated in *practice*, which leads to *questionable research practices* and *reduced credibility* of research.</span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a><span class="fu">### Observational research</span></span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a>Observational research gathers information about individuals or populations *without manipulating* the environment or variables. Researchers observe and collect data on subjects as they *naturally occur* in their usual settings.</span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a><span class="fu">### Mixed methods research</span></span>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a>For research that adopts one or more theoretical frameworks (social and biological sciences) or data types (e.g. participant surveys, visual data, geospatial), would be described as a mixed-method approach.</span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a><span class="fu">## Research approaches and preregistration</span></span>
+<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a>This page outlined five methodological and philosophical approaches to research sometimes referred to as "research paradigms". Being able to recognize the different research approaches, study designs and key concepts will help provide context for the steps required to do a study preregistration. It is also good to be aware of other approaches to research from your own as it broadens your perspectives, especially in an increasingly interdisciplinary and collaborative research ecosystem (e.g. Big Team Science).</span>
+<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a>::: {.callout-note title="Reflection point"}</span>
+<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a>Which research approach do you use? Have you used more than one approach in your research journey?</span>
+<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a>::: {.callout-note title="Note"}</span>
+<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a>The focus of this tutorial is more for hypothesis driven research. For additional guidance for preregistration of qualitative studies take a look at @haven2020.</span>
+<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a>:::</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
 </div></div></div></div></div>
 </div> <!-- /content -->
 <footer class="footer">

@@ -61,7 +61,26 @@ div.sourceCode
 @media screen {
 pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -579,7 +598,7 @@ if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') {
 <p><strong>Builds your reputation</strong></p>
 <ul>
 <li><p>Transparently show to the wider research community your plans and tests</p></li>
-<li><p>Signal that you have taken steps to <strong>mitigate</strong> against hindsight and confirmation <strong>bias</strong> <span class="citation" data-cites="wagenmakersSevenSelfishReasons2016">(<a href="#ref-wagenmakersSevenSelfishReasons2016" role="doc-biblioref"><strong>wagenmakersSevenSelfishReasons2016?</strong></a>)</span>.</p></li>
+<li><p>Signal that you have taken steps to <strong>mitigate</strong> against hindsight and confirmation <strong>bias</strong> <span class="citation" data-cites="wagenmakers2016">(<a href="#ref-wagenmakers2016" role="doc-biblioref">Wagenmakers and Dutilh 2016</a>)</span>.</p></li>
 </ul>
 <p><strong>Easier to write up and publish findings</strong></p>
 <ul>
@@ -612,7 +631,7 @@ if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') {
 <p><strong>Check thinking</strong></p>
 <ul>
 <li><p>Other people reading your findings can <strong>follow your thought process</strong></p></li>
-<li><p>Gain a deeper understanding of a project and make an <strong>informed assessment</strong> <span class="citation" data-cites="binneyPracticalRoutesPreregistration2025">(<a href="#ref-binneyPracticalRoutesPreregistration2025" role="doc-biblioref"><strong>binneyPracticalRoutesPreregistration2025?</strong></a>)</span></p></li>
+<li><p>Gain a deeper understanding of a project and make an <strong>informed assessment</strong> <span class="citation" data-cites="binney2025">(<a href="#ref-binney2025" role="doc-biblioref">Binney et al. 2025</a>)</span></p></li>
 </ul>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
@@ -693,7 +712,7 @@ Tip
 <section id="challenges-overwhelm" class="level2">
 <h2 class="anchored" data-anchor-id="challenges-overwhelm">Challenges: overwhelm</h2>
 <p><em>“There is so much that goes into a study registration”</em></p>
-<p><em>Counterargument:</em> templates and FAQ pages can guide you and if you are unable to officially register a study, adopting principles of study preregistration is a good step (e.g.&nbsp;Open Science Buffet approach, <span class="citation" data-cites="bergma2023">(<a href="#ref-bergma2023" role="doc-biblioref"><strong>bergma2023?</strong></a>)</span>)</p>
+<p><em>Counterargument:</em> templates and FAQ pages can guide you and if you are unable to officially register a study, adopting principles of study preregistration is a good step (e.g.&nbsp;Open Science Buffet approach, <span class="citation" data-cites="bergmann2023">(<a href="#ref-bergmann2023" role="doc-biblioref">Bergmann 2023</a>)</span>)</p>
 </section>
 <section id="challenges-lack-of-support" class="level2">
 <h2 class="anchored" data-anchor-id="challenges-lack-of-support">Challenges: lack of support</h2>
@@ -716,9 +735,20 @@ Tip
 
 <!-- -->
 
+
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-bergmann2023" class="csl-entry" role="listitem">
+Bergmann, Christina. 2023. <em>The Buffet Approach to Open Science</em>. <a href="https://cogtales.wordpress.com/2023/04/16/the-buffet-approach-to-open-science/">https://cogtales.wordpress.com/2023/04/16/the-buffet-approach-to-open-science/</a>.
+</div>
+<div id="ref-binney2025" class="csl-entry" role="listitem">
+Binney, Richard J, Laura J Smith, Stephanie Rossit, et al. 2025. <span>“Practical Routes to Preregistration: A Guide to Enhanced Transparency and Rigour in Neuropsychological Research.”</span> <em>Brain Communications</em> 7 (3): fcaf162. <a href="https://doi.org/10.1093/braincomms/fcaf162">https://doi.org/10.1093/braincomms/fcaf162</a>.
+</div>
+<div id="ref-wagenmakers2016" class="csl-entry" role="listitem">
+Wagenmakers, Eric-Jan, and Gilles Dutilh. 2016. <em>Seven Selfish Reasons for Preregistration</em>. <a href="https://www.psychologicalscience.org/observer/seven-selfish-reasons-for-preregistration">https://www.psychologicalscience.org/observer/seven-selfish-reasons-for-preregistration</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
@@ -1337,12 +1367,12 @@ Tip
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">editor:</span><span class="co"> </span></span>
 <span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co">  markdown: </span></span>
 <span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="co">    wrap: 72</span></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>**Recap:** So far we have covered why the practice of preregistration</span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>came about, and how to do a preregistration. Now we will outline some of</span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>the main challenges and opportunities of preregistration.</span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="an">bibliography:</span><span class="co"> references.bib</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>**Recap:** So far we have covered why the practice of preregistration</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>came about, and how to do a preregistration. Now we will outline some of</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>the main challenges and opportunities of preregistration.</span>
 <span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>![*Credit: Gracia Prüm and Malika Ihle for collating comments on the</span>
 <span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>challenges and opportunities of preregistration from participants from</span>
@@ -1380,7 +1410,7 @@ Tip
 <span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a>  tests</span>
 <span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Signal that you have taken steps to **mitigate** against hindsight and</span>
-<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>  confirmation **bias** <span class="co">[</span><span class="ot">@wagenmakersSevenSelfishReasons2016</span><span class="co">]</span>.</span>
+<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>  confirmation **bias** <span class="co">[</span><span class="ot">@wagenmakers2016</span><span class="co">]</span>.</span>
 <span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a>**Easier to write up and publish findings**</span>
 <span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a></span>
@@ -1428,7 +1458,7 @@ Tip
 <span id="cb1-94"><a href="#cb1-94" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Other people reading your findings can **follow your thought process**</span>
 <span id="cb1-95"><a href="#cb1-95" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-96"><a href="#cb1-96" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Gain a deeper understanding of a project and make an **informed</span>
-<span id="cb1-97"><a href="#cb1-97" aria-hidden="true" tabindex="-1"></a>  assessment** <span class="co">[</span><span class="ot">@binneyPracticalRoutesPreregistration2025</span><span class="co">]</span></span>
+<span id="cb1-97"><a href="#cb1-97" aria-hidden="true" tabindex="-1"></a>  assessment** <span class="co">[</span><span class="ot">@binney2025</span><span class="co">]</span></span>
 <span id="cb1-98"><a href="#cb1-98" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-99"><a href="#cb1-99" aria-hidden="true" tabindex="-1"></a>::: {.callout-tip title="Reflection point" collapse="true"}</span>
 <span id="cb1-100"><a href="#cb1-100" aria-hidden="true" tabindex="-1"></a>Can you think of other benefits of preregistration in your research</span>
@@ -1511,7 +1541,7 @@ Tip
 <span id="cb1-177"><a href="#cb1-177" aria-hidden="true" tabindex="-1"></a>*Counterargument:* templates and FAQ pages can guide you and if you are</span>
 <span id="cb1-178"><a href="#cb1-178" aria-hidden="true" tabindex="-1"></a>unable to officially register a study, adopting principles of study</span>
 <span id="cb1-179"><a href="#cb1-179" aria-hidden="true" tabindex="-1"></a>preregistration is a good step (e.g. Open Science Buffet approach,</span>
-<span id="cb1-180"><a href="#cb1-180" aria-hidden="true" tabindex="-1"></a>@bergma2023)</span>
+<span id="cb1-180"><a href="#cb1-180" aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">@bergmann2023</span><span class="co">]</span>)</span>
 <span id="cb1-181"><a href="#cb1-181" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-182"><a href="#cb1-182" aria-hidden="true" tabindex="-1"></a><span class="fu">## Challenges: lack of support</span></span>
 <span id="cb1-183"><a href="#cb1-183" aria-hidden="true" tabindex="-1"></a></span>
