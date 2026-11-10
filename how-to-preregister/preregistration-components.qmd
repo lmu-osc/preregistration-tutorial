@@ -177,6 +177,7 @@ templates.
 - [PROSPERO](https://www.crd.york.ac.uk/prospero/)
 - [Preregistration in social psychology](https://osf.io/k5wns/overview)
 - [Bio-protocol](https://bio-protocol.org/exchange)
+- [preregRS](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1540)
 :::
 
 ::: {style="flex: 1;"}
@@ -187,6 +188,7 @@ templates.
 - Study protocols for systematic reviews
 - Guidelines
 - Online peer-reviewed protocol journal
+- Guidelines
 :::
 
 ::: {style="flex: 1.1;"}
@@ -197,6 +199,7 @@ templates.
 - Health related
 - Quantitative/experimental social psychology studies
 - Biological sciences
+- Research syntheses
 :::
 ::::::
 

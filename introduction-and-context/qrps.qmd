@@ -17,6 +17,14 @@ Hypothesizing after the results are known (HARKing) is a QRP where a researcher 
 
 p-Hacking is a QRP which describes the many ways researchers can artificially increase the likelihood of obtaining a statistically significant result [@pennington2023]. p-Hacking increases the amount of false positive results and inflates effect sizes published in the literature. There is even an [app](https://shinyapps.org/apps/p-hacker/) that let's you play around with different p-hacking strategies! **Warning: the app is designed to understand how p-Hacking works, please do not intentionally p-Hack in your own work!**
 
+### Cherry picking
+
+Cherry picking is where researchers select the most favorable looking results that support their hypotheses to report and omit the non-significant ones. This practice is an issue for readers interpreting findings as there is not a complete account of the findings [@andrade2021]. 
+
+### Fishing and data dredging
+
+When researchers look for associations between different combinations of variables (by mix and matching or omitting variables) with the intention of finding a statistically significant outcome. Fishing can occur with HARKing. This practice leads to increased probability of false positive [@andrade2021]. Data dredging is a more extreme case of fishing, where researcher carryout an extensive search for significant findings without a specific hypothesis to test.
+
 ## Researcher biases
 
 There are wide range of *cognitive biases* (e.g. hindsight bias, confirmatory bias, bias blind spot) that lead to systematic differences in how we perceive information and make decisions.
@@ -34,16 +42,12 @@ The tendency to seek out, interpret, favor and recall information in a way that 
 The *lack of awareness* of how one's decisions are shaped by bias [@hardwicke2023].
 
 ## Summary
-
-The range of biases highlights that we are all human and it is important to be *aware* of how cognitive biases *influence* how we do our research!
+Questionable research practices can overlap with each other and biases. Engaging in QRPs may not be intentional. The important thing is to be aware and course correct when you do know. The range of biases highlights that we are all human and it is important to be *aware* of how cognitive biases *influence* how we do our research and take steps to mitigate. 
 
 ::: {.callout-note title="Case study"}
 Interested in learning more about questionable research practices? Take a look at the recent study by @entradas2026 where they examined how \~1500 researchers understand and engage in questionable research practices.
 :::
 
-::: callout-note
-Max's dilemma link
-:::
 
 ## Quick Quiz on QRPs!
 
@@ -74,3 +78,13 @@ The answer is C. Hindsight bias can be summarized as "I knew it all along" type 
 
 *Refer back to @sec-hindsight-bias for more information*
 :::
+
+## Revisiting Max's Dilemma
+
+Remember back to Max's dilemma in the introduction, can you identify which of the questionable research practices option A ("remove that variable from the analysis") would correspond to?
+
+::: {.callout-note title="Answer" collapse="true"}
+Option A would fall under fishing, as Max would be trying to find an association between the variables by omitting a variable to produce a significant result.
+:::
+
+

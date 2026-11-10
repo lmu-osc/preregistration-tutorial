@@ -49,13 +49,32 @@ critical for transparent and credible science [@nosek2018].
 
 ## Questioning how we do research
 
-Over the past couple of decades, researchers raised major concerns about
-the credibility of science ("Credibility Crisis") as many studies were
-unable to be replicated. EDIT
+Over the past couple of decades, researchers primarily in the field of
+psychology raised major concerns about the credibility of science
+("credibility/reproducibility/replicability crisis") as many studies
+were unable to be replicated [@opensciencecollaboration2015]. Some of
+the cited reasons for this crisis were questionable research practices.
 
-::: {style="text-align: center;"}
-<img src="../assets/research-cycle.png" style="width:50%;"/>
+::: {.callout-note title="Structural contributions to the crisis" collapse="false"}
+Other cited contributors to the "crisis" were structural issues relating
+to academic incentive structure, publish or perish culture,
+prioritization of research novelty over replication. It is important to
+be aware of these factors, but note addressing them is beyond the sphere
+or influence of the majority of researchers. We will focus this tutorial
+on what concrete actions we as researchers and teams can do improve how
+we do science.
 :::
+
+![Figure adapted from @ihle2024;
+@centerforopenscience2026.](images/credibility-crisis.png){fig-alt="A screenshot of journal articles highlighting the credibility crisis over the last two decades."
+fig-align="center" width="602"}
+
+Recognizing the challenges to how science is conducted, researchers have
+calls for a more optimistic framing of the crisis to one of a
+"credibility revolution" [@vazire2018][@fanelli2018]. This reframing
+outlines where we as individual researchers have agency to adopt more
+transparent and reproducible ways of working in order to ensure
+scientific progress.
 
 ## Preregistration as part of the credibility revolution
 
@@ -73,7 +92,7 @@ outlines a study plan including research questions/hypotheses, research
 design, data analysis *before* data collection and analysis. A study
 preregistration is then uploaded onto a verified repository so that it
 can be publicly shared with others (possibly after an embargo period)
-(Nosek, 2018; Parsons et al. 2022). Importantly, preregistration remains
+[@nosek2018; @parsons2022]. Importantly, preregistration remains
 agnostic when it comes to exploratory and hypothesis testing approach to
 research, it aims to clearly differentiate between the two.
 
