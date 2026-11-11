@@ -17,7 +17,7 @@ preregistration.
 
 There are a number of *essential* elements within a registration
 document (with a subset of *recommended* things to also include
-@stefan2023):
+[@stefan2023]):
 
 1.  Hypotheses
 2.  Design
@@ -208,6 +208,17 @@ Thinking about your research area and any institutional policies or
 community standards, which template(s) do you think fit closer to your
 type of research study?
 :::
+
+## Revisiting Max's Dilemma
+Now that you have read through the five main components of a preregistration, can you describe how clarity of hypotheses and variables would have helped Max conduct more rigorous and transparent research? Reminder of case study [here](introduction.qmd).
+
+::: {.callout-note title="Possible answers"}
+Recall that Max was testing a hypothesis where variable X influences Y. They also measured many variables. The first two parts to a preregistration (describing in detail hypotheses and study design) lay the foundations for a study plan. Having well defined hypotheses grounded in theoretical frameworks would have resulted in a more detailed hypothesis to test, with a clear scope, a refined list of variables describing their relationship (e.g. expected direction of interaction between variables). Within the variable list the types of variables: independent, dependent and any covariates would have been clearly described. 
+
+Reducing ambiguity at this stage would have helped ensure Max's study had a clearer defined scope informing sampling approaching and reducing the likelihood of engaging in HARKing or other questionable research practices (options A and B).
+
+:::
+
 
 ------------------------------------------------------------------------
 

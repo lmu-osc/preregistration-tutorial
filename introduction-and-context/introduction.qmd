@@ -130,9 +130,9 @@ collection [@peirce1883].
 Being able to understand the different research approaches, study
 designs and key concepts will help provide context for the steps
 required to do a study preregistration. We will explore some [research
-methods](research-cycle.qmd).
+methods](research-cycle.qmd) later on.
 
-### What would you do?
+### What would you do? 
 
 Imagine if your PhD lab mate Max came to you with this dilemma:
 
@@ -156,6 +156,10 @@ What would you recommend Max does from the options listed below?
   effect
 
 - [ ] E) Leave that variable in and write up the results as they are
+
+::: {.callout-note title="Reveal answer" collapse="true"}
+Option E would be the recommended approach at this stage. This option acknowledges the current challenges Max is facing analyzing their data, without further compromising the integrity of their research. Max can use this first thesis chapter as a learning experience and improve their research practices in their next project.
+:::
 
 We will revisit Max's dilemma throughout this tutorial and hopefully by
 the end you will be more confident at identifying potential issues and

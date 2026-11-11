@@ -34,10 +34,12 @@ ecosystem.
 - Outlining data collection methods and analysis plans which **reduces
   ambiguity** and **errors** during data analysis stage
 
-::: {.callout-note title="Do you remember?" collapse="true"}
+::: {.callout-note title="Revisiting Max's dilemma" collapse="true"}
 Do you remember the dilemma Max was having? Having a well thought out
 analysis plan with a clear decision tree would help mitigate
-encountering Max's situation in the future.
+encountering Max's situation in the future or engaging in options C
+(collecting more data hoping a larger sample size would show effect) and
+D (trying out a new statistical test to find a significant finding).
 :::
 
 **Builds your reputation**
@@ -84,10 +86,15 @@ encountering Max's situation in the future.
 - **Mitigates** against questionable research practices
 
 - Offers more complete reporting and **transparency** of research
-  project
+  project by preventing selective reporting of more favorable findings
+  which ensures null or negative results are documented too.
 
 - **Reduces publication bias**, as preregistration/registered report is
   available to read (if not embargoed)
+
+- **Supports systematic reviews** and **meta-analyses**, as the wider
+  inclusion of null findings in the literature reducing distortion of
+  effect sizes.
 
 **Check thinking**
 

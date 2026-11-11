@@ -3,6 +3,7 @@ title: "Questionable research practices and biases"
 bibliography: references.bib
 ---
 
+
 ## Questionable research practices: the grey zone
 
 From one end of the research integrity spectrum of clear misconduct (e.g. falsifying results or plagiarizing someones work) to acceptable and responsible research practices (i.e. what Open Science movement strives to create), where do the selective reporting or misrepresentations of data fit in? This grey zone of Questionable Research Practices (QRPs) of less overt and subtle behaviors (compared to misconduct) nonetheless damages the credibility of science [@entradas2026]. The prevalence and impact of QRPs has received less attention than the clear cut examples of serious research misconduct (although see case study below).
@@ -83,8 +84,9 @@ The answer is C. Hindsight bias can be summarized as "I knew it all along" type 
 
 Remember back to Max's dilemma in the introduction, can you identify which of the questionable research practices option A ("remove that variable from the analysis") would correspond to?
 
-::: {.callout-note title="Answer" collapse="true"}
+::: {.callout-note title="Reveal answer" collapse="true"}
 Option A would fall under fishing, as Max would be trying to find an association between the variables by omitting a variable to produce a significant result.
 :::
+
 
 

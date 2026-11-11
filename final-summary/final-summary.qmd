@@ -1,12 +1,13 @@
 ---
 title: "Final summary"
+bibliography: references.bib
 ---
 
 At the start of this tutorial you likely felt unsure what preregistration is or why it is important. Hopefully you now feel empowered to adopt the principles of preregistration!
 
 In this tutorial we covered:
 
-- **Questionable research practices** and researcher biases (e.g. HARKing, hindsight bias)
+- **Questionable research practices** (QRPs) and researcher biases (e.g. HARKing, hindsight bias)
 
 - the **essential** and **recommended** elements that make up a preregistration
 
@@ -17,6 +18,18 @@ In this tutorial we covered:
 - suggestions to address **common misconceptions** and **frequently asked questions**
 
 - how we can **practice improving** our preregistrations through the snippets exercise and evaluating existing preregistrations.
+
+## Revisiting Max's dilemma
+
+We probably relate to some aspect of Max's situation: being a novice at study planning, feeling the pressure to publish, unsure how to write a clear hypothesis. These experiences are valid and quite common when we try out something for the first time! Mistakes are part of the learning process. As we have gone through this tutorial you have likely recognized how Max unintentionally engaged in questionable research practices and how doing a preregistration can help mitigate QRPs.
+
+Awareness is the first step towards taking steps to make our research practices more transparent, rigorous and credible.
+
+::: callout-tip
+*Do the best you can until you know better. Then when you know better, do better*
+
+\~ Maya Angelou
+:::
 
 ## Reflect and check in
 
@@ -33,10 +46,13 @@ This tutorial set out to the following objectives, where you should now be able 
 Reflect and check where you feel like you met these objectives.
 
 ## Challenge yourself
-Through out this tutorial you have completed a range of exercises designed to improve your knowledge and confidence for the preregistration process. In doing so you may have identified a particular part of the preregistration process you wish to improve. 
+
+Through out this tutorial you have completed a range of exercises designed to improve your knowledge and confidence for the preregistration process. In doing so you may have identified a particular part of the preregistration process you wish to improve.
 
 As a final exercise you are invited to self-reflect and commit to taking **one** action related to the preregistration process (e.g. writing out clearer hypotheses, researching a study registration template for your subject area). Once you have chosen an action, tell a peer for accountability!
 
 This exercise is designed to be an empowering and manageable action to commit to, which links to the spirit of “Open Science buffet” and the journey outlined throughout this tutorial. It also promotes self-reflection, critical thinking and a sense of agency in the choices that are made in how research is carried out.
 
+## Further reading
 
+Sarafoglou, Alexandra, Marton Kovacs, Bence Bakos, Eric-Jan Wagenmakers, and Balazs Aczel. 2022. “A Survey on How Preregistration Affects the Research Workflow: Better Science but More Work.” *Royal Society Open Science* 9 (7): 211997. <https://doi.org/10.1098/rsos.211997>
