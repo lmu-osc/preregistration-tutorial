@@ -61,7 +61,26 @@ div.sourceCode
 @media screen {
 pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -563,6 +582,10 @@ if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') {
 
 <p>This page provides the glossary of key terms used in this preregistration tutorial.</p>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 10%">
+<col style="width: 89%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Term</th>
@@ -572,15 +595,20 @@ if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') {
 <tbody>
 <tr class="odd">
 <td>Questionable Research Practices (QRPs)</td>
-<td></td>
+<td>Questionable research practices (QRPs) are a set of <em>intentional</em> or <em>unintentional</em> behaviors where researchers distort study findings. Examples include p-hacking and HARKing <span class="citation" data-cites="parsons2022">(<a href="#ref-parsons2022" role="doc-biblioref">Parsons et al. 2022</a>)</span></td>
 </tr>
 <tr class="even">
 <td>Hypothesis</td>
-<td></td>
+<td><p>A hypothesis is an unproven statement relating the connection between variables.</p>
+<h4 id="section" class="anchored"></h4></td>
 </tr>
 <tr class="odd">
 <td>Preregistration</td>
-<td></td>
+<td>An uneditable time-stamped document that outlines a study plan including research questions/hypotheses, research design, data analysis <em>before</em> data collection and analysis. A study preregistration is then uploaded onto a verified repository so that it can be publicly shared with others (possibly after an embargo period) <span class="citation" data-cites="nosek2018 parsons2022">(<a href="#ref-nosek2018" role="doc-biblioref">Nosek et al. 2018</a>; <a href="#ref-parsons2022" role="doc-biblioref">Parsons et al. 2022</a>)</span></td>
+</tr>
+<tr class="even">
+<td>Registered report</td>
+<td>A publishing format where a study undergoes <em>two stages</em> of peer review: <em>stage 1:</em> introduction and methods in advance of data collection/analysis, where high quality manuscipts are in-princple accepted for publication. After data collection, manuscripts containing full study findings including results/discussion are re-reviewed at <em>stage 2</em> <span class="citation" data-cites="parsons2022">(<a href="#ref-parsons2022" role="doc-biblioref">Parsons et al. 2022</a>)</span>.</td>
 </tr>
 </tbody>
 </table>
@@ -589,7 +617,15 @@ if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') {
 <!-- -->
 
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-nosek2018" class="csl-entry" role="listitem">
+Nosek, Brian A., Charles R. Ebersole, Alexander C. DeHaven, and David T. Mellor. 2018. <span>“The Preregistration Revolution.”</span> <em>Proceedings of the National Academy of Sciences</em> 115 (11): 2600–2606. <a href="https://doi.org/10.1073/pnas.1708274114">https://doi.org/10.1073/pnas.1708274114</a>.
+</div>
+<div id="ref-parsons2022" class="csl-entry" role="listitem">
+Parsons, Sam, Flávio Azevedo, Mahmoud M. Elsherif, et al. 2022. <span>“A Community-Sourced Glossary of Open Scholarship Terms.”</span> <em>Nature Human Behaviour</em> 6 (3): 312–18. <a href="https://doi.org/10.1038/s41562-021-01269-4">https://doi.org/10.1038/s41562-021-01269-4</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
@@ -1205,15 +1241,24 @@ if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') {
 </nav><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Source Code</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class="">
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Glossary"</span></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>This page provides the glossary of key terms used in this preregistration tutorial.</span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Term                                   <span class="pp">|</span> Description <span class="pp">|</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------------------------------------|-------------|</span></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Questionable Research Practices (QRPs) <span class="pp">|</span>             <span class="pp">|</span></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Hypothesis                             <span class="pp">|</span>             <span class="pp">|</span></span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Preregistration                        <span class="pp">|</span>             <span class="pp">|</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">bibliography:</span><span class="co"> references.bib</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>This page provides the glossary of key terms used in this preregistration tutorial.</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>+----------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Term                                   <span class="pp">|</span> Description                                                                                                                                                                                                                                                                                                                                                                <span class="pp">|</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>+======================================<span class="al">==+==</span>==========================================================================================================================================================================================================================================================================================================================================================================+</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Questionable Research Practices (QRPs) <span class="pp">|</span> Questionable research practices (QRPs) are a set of *intentional* or *unintentional* behaviors where researchers distort study findings. Examples include p-hacking and HARKing <span class="co">[</span><span class="ot">@parsons2022</span><span class="co">]</span>                                                                                                                                                                             <span class="pp">|</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>+----------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+</span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Hypothesis                             <span class="pp">|</span> A hypothesis is an unproven statement relating the connection between variables.                                                                                                                                                                                                                                                                                           <span class="pp">|</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span>                                        <span class="pp">|</span>                                                                                                                                                                                                                                                                                                                                                                            <span class="pp">|</span></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span>                                        <span class="pp">|</span> ####                                                                                                                                                                                                                                                                                                                                                                       <span class="pp">|</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>+----------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Preregistration                        <span class="pp">|</span> An uneditable time-stamped document that outlines a study plan including research questions/hypotheses, research design, data analysis *before* data collection and analysis. A study preregistration is then uploaded onto a verified repository so that it can be publicly shared with others (possibly after an embargo period) <span class="co">[</span><span class="ot">@nosek2018; @parsons2022</span><span class="co">]</span>              <span class="pp">|</span></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>+----------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+</span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Registered report                      <span class="pp">|</span> A publishing format where a study undergoes *two stages* of peer review: *stage 1:* introduction and methods in advance of data collection/analysis, where high quality manuscipts are in-princple accepted for publication. After data collection, manuscripts containing full study findings including results/discussion are re-reviewed at *stage 2* <span class="co">[</span><span class="ot">@parsons2022</span><span class="co">]</span>.   <span class="pp">|</span></span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>+----------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
 </div></div></div></div></div>
 </div> <!-- /content -->
 <footer class="footer">
