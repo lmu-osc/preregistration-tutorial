@@ -1,5 +1,6 @@
 ---
 title: "Evaluating preregistrations"
+bibliography: references.bib
 ---
 
 **Recap:** We practiced improving individual elements of preregistration.
@@ -171,3 +172,7 @@ This extension exercise helps you to compare the content of study preregistratio
 |                                                                                                                                                                                                                                      |
 | Mason, J., Pownall, M., Palmer, A., & Azevedo, F. (2023). Investigating Lay Perceptions of Psychological Measures: A Registered Report. Social Psychological Bulletin, 18, Article e9383. <https://doi.org/10.32872/spb.9383>        |
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+::: {.callout-tip title="Preregistration evaluation tip" collapse="false"}
+A good tip when comparing preregistrations with final published studies is to have both documents open and read in parallel. @simmons2021 share some other practical tips and checklist for reviewers who are evaluating a manuscript that has a preregistration.
+:::

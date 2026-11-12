@@ -7,7 +7,7 @@ description: "A self-paced tutorial on the key concepts, practices and tools inv
 
 This **self-paced tutorial** will introduce you to the key concepts, practices and tools involved in preregistration. Preregistration is an open science practice that is increasingly adopted.
 
-This tutorial is intended to take X hours to complete.
+This tutorial is intended to take about 3 hours 30 minutes to complete.
 
 The tutorial is split into the following five sections:
 
@@ -34,7 +34,7 @@ This tutorial will take you on a journey from:
 ::: {.callout-tip title="Prerequisites"}
 This tutorial assumes you have the following:
 
-Familiarity with the steps in the research life cycle, the different types of variables (independent, dependent and covariates)
+Familiarity with the steps in the research life cycle, the different types of variables (independent, dependent and covariates).
 :::
 
 :::::::: columns

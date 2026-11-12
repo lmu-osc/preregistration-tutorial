@@ -228,7 +228,7 @@ preregistration, can you describe how clarity of hypotheses and
 variables would have helped Max conduct more rigorous and transparent
 research? Reminder of case study [here](introduction.qmd).
 
-::: {.callout-note title="Possible answers"}
+::: {.callout-note title="Possible answers" collapse="true"}
 Recall that Max was testing a hypothesis where variable X influences Y.
 They also measured many variables. The first two parts to a
 preregistration (describing in detail hypotheses and study design) lay

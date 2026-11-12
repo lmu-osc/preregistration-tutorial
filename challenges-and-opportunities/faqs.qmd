@@ -28,7 +28,6 @@ study with existing data?**
 
 [Study
 type]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
-,
 [Practical]{style="background-color:  #cc0066; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 ::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
