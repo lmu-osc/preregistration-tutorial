@@ -39,7 +39,7 @@ research approaches there is guidance on what to include (e.g.
 
 ### Part 1: Hypotheses
 
- [**Essential:**]{style="background-color: #3abf57; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+[**Essential:**]{style="background-color: #3abf57; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 - *State* your research questions clearly
 
@@ -51,7 +51,7 @@ research approaches there is guidance on what to include (e.g.
 - If you are manipulating a variable, *make predictions* for successful
   check variables or explain why no manipulation check is included.
 
- [**Recommendations:**]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+[**Recommendations:**]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 - *Adding* a table/figure to describe complex interaction
 
@@ -60,7 +60,7 @@ research approaches there is guidance on what to include (e.g.
 
 ### Part 2: Design {#sec-part-2-design}
 
- [**Essential:**]{style="background-color: #3abf57; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+[**Essential:**]{style="background-color: #3abf57; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 *List* of variables based on your hypotheses:
 
@@ -73,7 +73,7 @@ research approaches there is guidance on what to include (e.g.
 
 ### Part 3: Planned sample
 
- [**Essential:**]{style="background-color: #3abf57; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+[**Essential:**]{style="background-color: #3abf57; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 - If applicable, *state* any pre-selection rules (e.g. age limits)
 
@@ -85,7 +85,7 @@ research approaches there is guidance on what to include (e.g.
 
 ### Part 4: Exclusion criteria {#sec-part-4-exclusion-criteria}
 
- [**Essential:**]{style="background-color: #3abf57; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+[**Essential:**]{style="background-color: #3abf57; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 *Describe* anticipated specific data exclusion criteria such as:
 
@@ -99,14 +99,14 @@ research approaches there is guidance on what to include (e.g.
 
 - method-based outlier criteria (e.g. too short or long response times)
 
- [**Recommendations:**]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+[**Recommendations:**]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 - *Set* fail-safe levels of exclusion at which the whole study needs to
   be stopped, altered, and restarted.
 
 ### Part 5: Analysis plan
 
- [**Essential:**]{style="background-color: #3abf57; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+[**Essential:**]{style="background-color: #3abf57; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 *Describe* the analyses that will test each main prediction from the
 hypotheses section. For each one, include:
@@ -124,7 +124,7 @@ hypotheses section. For each one, include:
   statistics), describe your criteria calculation of prior values or
   distributions
 
- [**Recommendations:**]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
+[**Recommendations:**]{style="background-color: #2b66ff; color: #fcfcfd; padding: 3px 6px; border-radius: 4px;"}
 
 - *Specify* contingencies and assumptions (e.g. method of correcting for
   multiple testing, missing data handling, data transformations (e.g.
@@ -146,9 +146,21 @@ related Open Science practice known as a registered report. *Registered
 reports* are a publishing format where a study undergoes *two stages* of
 peer review: *stage 1:* introduction and methods in advance of data
 collection/analysis and *stage 2:* which includes the full study
-findings including results/discussion @parsons2022. Registered reports
-can help safeguard against finding potential study design issues after
-data collection.
+findings including results/discussion [@parsons2022].
+
+At stage 1, authors submit a manuscript detailing the study background,
+research design, data collection strategy, analysis plan. Following peer
+review a manuscript will either be rejected and or accepted - where a
+manuscript will have "in-principle acceptance" status. Authors then
+proceed to conduct the study, analyse and write up their findings
+according to their study plan.
+
+During stage 2, authors are assessed on whether they have adequately
+followed their study plan and reported deviations where appropriate. The
+manuscript will then be published independent from the statistical
+significance (or lack of) of the findings. This process allows for
+potential errors to be detected early before data collection and
+mitigates against publication bias [@chambers2013].
 
 ::: callout-caution
 You may come across registered reports being described in the literature
@@ -210,15 +222,29 @@ type of research study?
 :::
 
 ## Revisiting Max's Dilemma
-Now that you have read through the five main components of a preregistration, can you describe how clarity of hypotheses and variables would have helped Max conduct more rigorous and transparent research? Reminder of case study [here](introduction.qmd).
+
+Now that you have read through the five main components of a
+preregistration, can you describe how clarity of hypotheses and
+variables would have helped Max conduct more rigorous and transparent
+research? Reminder of case study [here](introduction.qmd).
 
 ::: {.callout-note title="Possible answers"}
-Recall that Max was testing a hypothesis where variable X influences Y. They also measured many variables. The first two parts to a preregistration (describing in detail hypotheses and study design) lay the foundations for a study plan. Having well defined hypotheses grounded in theoretical frameworks would have resulted in a more detailed hypothesis to test, with a clear scope, a refined list of variables describing their relationship (e.g. expected direction of interaction between variables). Within the variable list the types of variables: independent, dependent and any covariates would have been clearly described. 
+Recall that Max was testing a hypothesis where variable X influences Y.
+They also measured many variables. The first two parts to a
+preregistration (describing in detail hypotheses and study design) lay
+the foundations for a study plan. Having well defined hypotheses
+grounded in theoretical frameworks would have resulted in a more
+detailed hypothesis to test, with a clear scope, a refined list of
+variables describing their relationship (e.g. expected direction of
+interaction between variables). Within the variable list the types of
+variables: independent, dependent and any covariates would have been
+clearly described.
 
-Reducing ambiguity at this stage would have helped ensure Max's study had a clearer defined scope informing sampling approaching and reducing the likelihood of engaging in HARKing or other questionable research practices (options A and B).
-
+Reducing ambiguity at this stage would have helped ensure Max's study
+had a clearer defined scope informing sampling approaching and reducing
+the likelihood of engaging in HARKing or other questionable research
+practices (options A and B).
 :::
-
 
 ------------------------------------------------------------------------
 
