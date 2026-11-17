@@ -215,6 +215,8 @@ templates.
 :::
 ::::::
 
+The OSF provide additional guidance on how to chose an appropriate preregistration template in this table [here](https://help.osf.io/article/330-welcome-to-registrations#Select-a-Registration-Template-1g4YO).
+
 ::: {.callout-note title="Reflection point"}
 Thinking about your research area and any institutional policies or
 community standards, which template(s) do you think fit closer to your
@@ -295,3 +297,8 @@ C)  After study plan and after writing up study findings
 *Refer back to @sec-preregistration-vs-registered-reports for more
 information*
 :::
+
+::: {.callout-tip title="Additional guidelines"}
+OSF have created a detailed practical [guide](https://help.osf.io/article/330-welcome-to-registrations) on how to prepare a preregistration from creating, managing, submitting and updating a preregistration.  
+:::
+

@@ -74,7 +74,7 @@ After 20 minutes, spend 5 minutes reflecting on the process using reflection que
 :::
 
 ::: {.callout-tip title="Tip" collapse="false"}
-Depending on your subject area/research methods you can do a similar exercise using different templates [here](https://osf.io/zab38/wiki?wiki=dmbcy).
+Depending on your subject area/research methods you can do a similar exercise using different templates [here](https://help.osf.io/article/330-welcome-to-registrations#Select-a-Registration-Template-1g4YO).
 :::
 
 

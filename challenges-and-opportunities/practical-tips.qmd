@@ -62,7 +62,9 @@ Handbook](https://www.osc.lmu.de/training/research-cycle-handbook.html).
 - A [student's perspective](https://doi.org/10.1002/ece3.10023) of doing
   a registered report [@gya2023]
 
-- OSF community of
+- OSF preregistration and registered report
+  [guidelines](https://help.osf.io/article/330-welcome-to-registrations)
+  and community of
   [support](https://osf.io/e6auq/wiki/Preregistration%20Community%20Support/)
 
 - [Discussion](https://www.youtube.com/watch?v=77YeUe_Bkco) about merits
