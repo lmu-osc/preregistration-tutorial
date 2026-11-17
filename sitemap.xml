@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lmu-osc.github.io/preregistration-tutorial/evaluating-preregistration-quality/evaluation-exercise.html</loc>
-    <lastmod>2026-11-16T02:38:51.621Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/preregistration-tutorial/challenges-and-opportunities/faqs.html</loc>
-    <lastmod>2026-11-16T02:38:51.621Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/preregistration-tutorial/about.html</loc>
-    <lastmod>2026-11-16T02:38:51.582Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/preregistration-tutorial/LICENSE-CODE.html</loc>
-    <lastmod>2026-11-16T02:38:51.582Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/preregistration-tutorial/build-a-preregistration-toolkit/preregistration-toolkit.html</loc>
-    <lastmod>2026-11-16T02:38:51.619Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/preregistration-tutorial/footer/privacy.html</loc>
-    <lastmod>2026-11-16T02:38:51.622Z</lastmod>
-  </url>
-  <url>
     <loc>https://lmu-osc.github.io/preregistration-tutorial/footer/accessibilty.html</loc>
-    <lastmod>2026-11-16T02:38:51.622Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/preregistration-tutorial/introduction-and-context/qrps.html</loc>
-    <lastmod>2026-11-16T02:38:51.635Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/preregistration-tutorial/introduction-and-context/glossary.html</loc>
-    <lastmod>2026-11-16T02:38:51.622Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/preregistration-tutorial/LICENSE.html</loc>
-    <lastmod>2026-11-16T02:38:51.582Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/preregistration-tutorial/how-to-preregister/preregistration-components.html</loc>
-    <lastmod>2026-11-16T02:38:51.622Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/preregistration-tutorial/introduction-and-context/research-cycle.html</loc>
-    <lastmod>2026-11-16T02:38:51.635Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/preregistration-tutorial/introduction-and-context/introduction.html</loc>
-    <lastmod>2026-11-16T02:38:51.635Z</lastmod>
+    <lastmod>2026-11-17T16:33:16.639Z</lastmod>
   </url>
   <url>
     <loc>https://lmu-osc.github.io/preregistration-tutorial/footer/imprint.html</loc>
-    <lastmod>2026-11-16T02:38:51.622Z</lastmod>
+    <lastmod>2026-11-17T16:33:16.640Z</lastmod>
   </url>
   <url>
     <loc>https://lmu-osc.github.io/preregistration-tutorial/build-a-preregistration-toolkit/extension-exercise.html</loc>
-    <lastmod>2026-11-16T02:38:51.610Z</lastmod>
+    <lastmod>2026-11-17T16:33:16.615Z</lastmod>
   </url>
   <url>
-    <loc>https://lmu-osc.github.io/preregistration-tutorial/index.html</loc>
-    <lastmod>2026-11-16T02:38:51.622Z</lastmod>
+    <loc>https://lmu-osc.github.io/preregistration-tutorial/how-to-preregister/preregistration-components.html</loc>
+    <lastmod>2026-11-17T16:33:16.640Z</lastmod>
   </url>
   <url>
-    <loc>https://lmu-osc.github.io/preregistration-tutorial/final-summary/final-summary.html</loc>
-    <lastmod>2026-11-16T02:38:51.622Z</lastmod>
+    <loc>https://lmu-osc.github.io/preregistration-tutorial/challenges-and-opportunities/faqs.html</loc>
+    <lastmod>2026-11-17T16:33:16.627Z</lastmod>
   </url>
   <url>
     <loc>https://lmu-osc.github.io/preregistration-tutorial/challenges-and-opportunities/practical-tips.html</loc>
-    <lastmod>2026-11-16T02:38:51.621Z</lastmod>
+    <lastmod>2026-11-17T16:33:16.637Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/preregistration-tutorial/about.html</loc>
+    <lastmod>2026-11-17T16:33:16.578Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/preregistration-tutorial/introduction-and-context/introduction.html</loc>
+    <lastmod>2026-11-17T16:33:16.652Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/preregistration-tutorial/introduction-and-context/qrps.html</loc>
+    <lastmod>2026-11-17T16:33:16.652Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/preregistration-tutorial/evaluating-preregistration-quality/evaluation-exercise.html</loc>
+    <lastmod>2026-11-17T16:33:16.637Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/preregistration-tutorial/introduction-and-context/glossary.html</loc>
+    <lastmod>2026-11-17T16:33:16.640Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/preregistration-tutorial/introduction-and-context/research-cycle.html</loc>
+    <lastmod>2026-11-17T16:33:16.653Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/preregistration-tutorial/final-summary/final-summary.html</loc>
+    <lastmod>2026-11-17T16:33:16.639Z</lastmod>
   </url>
   <url>
     <loc>https://lmu-osc.github.io/preregistration-tutorial/challenges-and-opportunities/challenges-and-opportunities.html</loc>
-    <lastmod>2026-11-16T02:38:51.620Z</lastmod>
+    <lastmod>2026-11-17T16:33:16.625Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/preregistration-tutorial/LICENSE-CODE.html</loc>
+    <lastmod>2026-11-17T16:33:16.576Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/preregistration-tutorial/index.html</loc>
+    <lastmod>2026-11-17T16:33:16.640Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/preregistration-tutorial/LICENSE.html</loc>
+    <lastmod>2026-11-17T16:33:16.576Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/preregistration-tutorial/build-a-preregistration-toolkit/preregistration-toolkit.html</loc>
+    <lastmod>2026-11-17T16:33:16.625Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/preregistration-tutorial/footer/privacy.html</loc>
+    <lastmod>2026-11-17T16:33:16.640Z</lastmod>
   </url>
 </urlset>
