@@ -60,7 +60,7 @@ Other cited contributors to the "crisis" were structural issues relating
 to academic incentive structure, publish or perish culture,
 prioritization of research novelty over replication. It is important to
 be aware of these factors, but note addressing them is beyond the sphere
-or influence of the majority of researchers. We will focus this tutorial
+of influence of the majority of researchers. We will focus this tutorial
 on what concrete actions we as researchers and teams can do improve how
 we do science.
 :::
@@ -71,7 +71,7 @@ fig-align="center" width="602"}
 
 Recognizing the challenges to how science is conducted, researchers have
 calls for a more optimistic framing of the crisis to one of a
-"credibility revolution" [@vazire2018][@fanelli2018]. This reframing
+"credibility revolution" [@vazire2018a; @fanelli2018a]. This reframing
 outlines where we as individual researchers have agency to adopt more
 transparent and reproducible ways of working in order to ensure
 scientific progress.
@@ -132,7 +132,7 @@ designs and key concepts will help provide context for the steps
 required to do a study preregistration. We will explore some [research
 methods](research-cycle.qmd) later on.
 
-### What would you do? 
+### What would you do?
 
 Imagine if your PhD lab mate Max came to you with this dilemma:
 
@@ -158,7 +158,11 @@ What would you recommend Max does from the options listed below?
 - [ ] E) Leave that variable in and write up the results as they are
 
 ::: {.callout-note title="Reveal answer" collapse="true"}
-Option E would be the recommended approach at this stage. This option acknowledges the current challenges Max is facing analyzing their data, without further compromising the integrity of their research. Max can use this first thesis chapter as a learning experience and improve their research practices in their next project.
+Option E would be the recommended approach at this stage. This option
+acknowledges the current challenges Max is facing analyzing their data,
+without further compromising the integrity of their research. Max can
+use this first thesis chapter as a learning experience and improve their
+research practices in their next project.
 :::
 
 We will revisit Max's dilemma throughout this tutorial and hopefully by

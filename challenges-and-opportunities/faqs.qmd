@@ -158,7 +158,7 @@ Preregistrations are sometimes perceived to be restrictive, where you
 have to strictly adhere to the study plan. This is not the case!
 Preregistrations are a “plan not a prison”, as there are different
 degrees of flexibility and you can document any deviations from your
-plan when you write up the research findings (DeHaven, 2017).
+plan when you write up the research findings [@dehaven2017].
 
 Preregistrations can also be tailored to the study type (e.g incremental
 transparently documenting exploratory-confirmatory pathway or
@@ -233,6 +233,6 @@ preregistrations/registered reports?**
 
 ::: {.callout-tip title="Suggestion" collapse="true" appearance="minimal"}
 There are over 300 journals that adopt the registered report format (see
-list of journals
+list of participating journals
 [here](https://www.cos.io/initiatives/registered-reports)).
 :::

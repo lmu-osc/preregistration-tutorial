@@ -53,7 +53,7 @@ As a final exercise you are invited to self-reflect and commit to taking **one**
 
 This exercise is designed to be an empowering and manageable action to commit to, which links to the spirit of “Open Science buffet” and the journey outlined throughout this tutorial. It also promotes self-reflection, critical thinking and a sense of agency in the choices that are made in how research is carried out.
 
-## Further reading and resources 
+## Further reading and resources
 
 Open Science Framework support page for registrations and preregistrations <https://help.osf.io/article/330-welcome-to-registrations>
 

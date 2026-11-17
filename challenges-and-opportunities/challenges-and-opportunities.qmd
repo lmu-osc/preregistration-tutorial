@@ -142,7 +142,7 @@ Authors initially submit a one-page “snapshot” instead of a full stage 1
 report.
 :::
 
-## Challenges: statistical confidence
+## Challenges: confidence in statistical skills
 
 *"How do I know my planned statistical analysis is the right one?"*
 
@@ -191,7 +191,7 @@ preregistration is a good step (e.g. Open Science Buffet approach,
 *"No one in my team knows or cares about study preregistration"*
 
 *Strategy:* Often a reluctance to try out preregistration comes from a
-place of lack of familiarity with the process.Sharing resources, and
+place of lack of familiarity with the process. Sharing resources, and
 suggest a group meeting to discuss/learn more about preregistration to
 increase familiarity. Reframe preregistration as a creative opportunity
 to plan great science! Planning is where the science is, as other
