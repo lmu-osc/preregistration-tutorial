@@ -33,9 +33,12 @@ etc. Reviewing other researcher's preregistered studies can act as a
 blueprint for when you come to write yours.
 
 You can find an example of a preregistered study in your own research
-area on the Open Science Framework’s [Zotero
-library](https://www.zotero.org/groups/479248/osf/collections/VKXUAZM7).
-You can filter for subject matter and study type.
+area on the Open Science Framework’s registrations
+[repository](https://osf.io/search?tab=3) of over 10,000+ items! You can
+filter for subject matter and study type (see image below).
+
+![](images/registration-repository.png){fig-alt="An annotated screenshot of the OSF repository homepage for study registrations. text reads: Refine your search by selecting options such as:  subject (social and behavioral sciences, social psychology, life sciences, public health etc.)  resource type (study registration, dataset)  registration template (OSF preregistration, AsPredicted, qualitative preregistration, etc.)"
+fig-align="left" width="620"}
 
 ### Tip 3: Embrace change and mistakes
 

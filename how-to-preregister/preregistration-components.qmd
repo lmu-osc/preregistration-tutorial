@@ -194,7 +194,7 @@ preregistration template in this table
 
 
 ::: {.callout-note title="Reflection point"}
-Thinking about your research area and any institutional policies or
+Thinking about your research area or
 community standards, which template(s) do you think fit closer to your
 type of research study?
 :::
