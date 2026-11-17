@@ -41,7 +41,7 @@ For research that adopts one or more theoretical frameworks (social and biologic
 
 ## Research approaches and preregistration
 
-This page outlined five methodological and philosophical approaches to research sometimes referred to as "research paradigms". Being able to recognize the different research approaches, study designs and key concepts will help provide context for the steps required to do a study preregistration. It is also good to be aware of other approaches to research from your own as it broadens your perspectives, especially in an increasingly interdisciplinary and collaborative research ecosystem (e.g. Big Team Science).
+This page outlined five methodological and philosophical approaches to research sometimes referred to as "research paradigms". Being able to recognize the different research approaches, study designs and key concepts will help provide context for the steps required to do a study preregistration. It is also good to be aware of other approaches to research from your own as it broadens your perspectives, especially in an increasingly interdisciplinary and collaborative research ecosystem (e.g. Big Team Science [@forscher2023]).
 
 ::: {.callout-note title="Reflection point"}
 Which research approach do you use? Have you used more than one approach in your research journey?

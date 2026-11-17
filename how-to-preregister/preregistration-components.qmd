@@ -173,49 +173,25 @@ community to harmonize terms to reduce ambiguity.
 
 Now that you have an overview of what things are needed in a
 preregistration, we can explore the table below of some preregistration
-templates.
+templates. The OSF provide additional guidance on how to chose an appropriate
+preregistration template in this table
+[here](https://help.osf.io/article/330-welcome-to-registrations#Select-a-Registration-Template-1g4YO).
 
 ::: {style="font-size: 0.6em; margin-top: 0.5em;"}
 <em>Adapted from @pennington and @stewart </em>
 :::
 
-:::::: {style="display: flex; gap: 0.5em;"}
-::: {style="flex: 0.75;"}
-**Template**
 
-- [AsPredicted](https://aspredicted.org/)
-- Open Science Framework
-  [(OSF)](https://help.osf.io/article/330-welcome-to-registrations)
-- [PROSPERO](https://www.crd.york.ac.uk/prospero/)
-- [Preregistration in social psychology](https://osf.io/k5wns/overview)
-- [Bio-protocol](https://bio-protocol.org/exchange)
-- [preregRS](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1540)
-:::
+| Template | Description | Discipline/study type |
+|----|----|----|
+| [AsPredicted](https://aspredicted.org/) | Standardized template | Quantitative/experimental studies |
+| Open Science Framework [(OSF)](https://help.osf.io/article/330-welcome-to-registrations) | Multiple templates for many study types | Wide-ranging |
+| [PROSPERO](https://www.crd.york.ac.uk/prospero/) | Study protocols for systematic reviews | Health related |
+| [Preregistration in social psychology](https://osf.io/k5wns/overview) | Guidelines | Quantitative/experimental social psychology studies |
+| [Bio-protocol](https://bio-protocol.org/exchange) | Online peer-reviewed protocol journal | Biological sciences |
+| [preregRS](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1540) | Guidelines | Research syntheses |
 
-::: {style="flex: 1;"}
-**Description**
 
-- Standardized template
-- Multiple templates for many study types
-- Study protocols for systematic reviews
-- Guidelines
-- Online peer-reviewed protocol journal
-- Guidelines
-:::
-
-::: {style="flex: 1.1;"}
-**Discipline/study type**
-
-- Quantitative/experimental studies
-- Wide-ranging
-- Health related
-- Quantitative/experimental social psychology studies
-- Biological sciences
-- Research syntheses
-:::
-::::::
-
-The OSF provide additional guidance on how to chose an appropriate preregistration template in this table [here](https://help.osf.io/article/330-welcome-to-registrations#Select-a-Registration-Template-1g4YO).
 
 ::: {.callout-note title="Reflection point"}
 Thinking about your research area and any institutional policies or
@@ -299,6 +275,8 @@ information*
 :::
 
 ::: {.callout-tip title="Additional guidelines"}
-OSF have created a detailed practical [guide](https://help.osf.io/article/330-welcome-to-registrations) on how to prepare a preregistration from creating, managing, submitting and updating a preregistration.  
+OSF have created a detailed practical
+[guide](https://help.osf.io/article/330-welcome-to-registrations) on how
+to prepare a preregistration from creating, managing, submitting and
+updating a preregistration.
 :::
-
