@@ -3,7 +3,6 @@ title: "Questionable research practices and biases"
 bibliography: references.bib
 ---
 
-
 ## Questionable research practices: the grey zone
 
 From one end of the research integrity spectrum of clear misconduct (e.g. falsifying results or plagiarizing someones work) to acceptable and responsible research practices (i.e. what the Open Science movement strives to create), where do the selective reporting or misrepresentations of data fit in? This grey zone of Questionable Research Practices (QRPs) of less overt and subtle behaviors (compared to misconduct) nonetheless damages the credibility of science [@entradas2026]. The prevalence and impact of QRPs has received less attention than the clear cut examples of serious research misconduct (although see case study below).
@@ -20,7 +19,7 @@ p-Hacking is a QRP which describes the many ways researchers can artificially in
 
 ### Cherry picking
 
-Cherry picking is where researchers select the most favorable looking results that support their hypotheses to report and omit the non-significant ones. This practice is an issue for readers interpreting findings as there is not a complete account of the findings [@andrade2021]. 
+Cherry picking is where researchers select the most favorable looking results that support their hypotheses to report and omit the non-significant ones. This practice is an issue for readers interpreting findings as there is not a complete account of the findings [@andrade2021].
 
 ### Fishing and data dredging
 
@@ -42,13 +41,26 @@ The tendency to seek out, interpret, favor and recall information in a way that 
 
 The *lack of awareness* of how one's decisions are shaped by bias [@hardwicke2023].
 
+### Inflation of false-positive rate
+
+It is important to keep in mind how QRPs and biases increase the false-positive rate (incorrect rejection of the null hypothesis).
+
+| Some examples that inflate the false-positive rate |
+|:---------------------------------------------------|
+| Increasing sample size after failure               |
+| Removing outliers after seeing their effect        |
+| Post-hoc categorizing or transforming predictors   |
+| Removing a treatment category                      |
+| Adding baseline measures as covariate              |
+| Controlling for covariates or interaction terms    |
+
 ## Summary
-Questionable research practices can overlap with each other and biases. Engaging in QRPs may not be intentional. The important thing is to be aware and course correct when you do know. The range of biases highlights that we are all human and it is important to be *aware* of how cognitive biases *influence* how we do our research and take steps to mitigate. 
+
+Questionable research practices can overlap with each other and biases. Engaging in QRPs may not be intentional. The important thing is to be aware and course correct when you do know. The range of biases highlights that we are all human and it is important to be *aware* of how cognitive biases *influence* how we do our research and take steps to mitigate.
 
 ::: {.callout-note title="Case study"}
 Interested in learning more about questionable research practices? Take a look at the recent study by @entradas2026 where they examined how \~1500 researchers understand and engage in questionable research practices.
 :::
-
 
 ## Quick Quiz on QRPs!
 
@@ -87,6 +99,3 @@ Remember back to Max's dilemma in the introduction, can you identify which of th
 ::: {.callout-note title="Reveal answer" collapse="true"}
 Option A would fall under fishing, as Max would be trying to find an association between the variables by omitting a variable to produce a significant result.
 :::
-
-
-

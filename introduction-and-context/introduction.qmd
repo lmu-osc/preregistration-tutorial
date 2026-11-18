@@ -47,6 +47,7 @@ advance during the study design stage! More on this in [how to
 preregister section](preregistration-components.qmd).
 
 This example has been adapted from @forstmeier2017.
+
 :::
 
 In addition to post-hoc decisions like in the example described above,
