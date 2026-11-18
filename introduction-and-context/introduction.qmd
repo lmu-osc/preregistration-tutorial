@@ -14,9 +14,71 @@ needed? How long should the data collection period be? Which statistical
 test(s) is most appropriate? Because of the great flexibility in how
 research can be conducted (known as researcher degrees of freedom),
 **how** and **when** we make these decisions matters for the credibility
-of science. Decisions made after data collection or analysis open us up
-to inadvertently influencing the findings instead of data driving the
-outcomes.
+of science.
+
+Generally researchers accept a 5% false-positive rate (*p* ≤ .05) when
+testing a hypothesis. In other words, 20 attempts to investigate a false
+hypothesis will result in one statistical result [@simmons2021]. In
+practical terms, the more statistical tests we do the more likely we are
+to falsely find a statistically significant result (see example below).
+
+::: {.callout-note title="How false positive results can happen"}
+Say you are trying to test whether female bird species X prefer males
+with larger feathers. You are unsure of the effect size or how big a
+sample size to collect, so you begin with collecting data on 10 females.
+With the sample size of 10 you run a simple regression to test whether
+feather length predicts female response Y. The regression reveals a
+trend showing females have a slight preference for larger feathers, but
+this result is not statistically significant. You are drawn to the
+result and think that a significant result can be reached by increasing
+the statistical power. You decide to collect more data on 10 more
+females, as a way to improve the statistical power, and rerun your
+regression with the 20 females.
+
+In pursuit of the significant result, you have inadvertently increased
+your false positive rate from 5% to \~7.7% (based on @simmons2011 false
+positive simulation study). This occurred because the two datasets were
+combined in the analysis and therefore are not independent resulting in
+an increased chance of reaching a significant result. The risk of
+reaching a false positive finding increases the more times you cycle
+through data collection and significance testing then collecting more
+data and so on. This is why a data collection stopping rule decided in
+advance during the study design stage! More on this in [how to
+preregister section](preregistration-components.qmd).
+
+This example has been adapted from @forstmeier2017.
+:::
+
+In addition to post-hoc decisions like in the example described above,
+researchers can follow an exploratory, hypothesis-generating approach
+and then report their outcomes as grounded in theory and planned. Other
+times researchers can decide to report the "best" studies from a series
+of studies and label the other studies as "failures". Even to refining
+the study design while exploring the data. As researchers we are keen to
+make sure our approaches are "right", yet we do not always account for
+our biases or forget what we originally planned. The issues raised by
+this flexible decision making process comes under the umbrella of
+questionable research practices (QRPs). We will cover the topic of QRPs
+in more detail in the [Questionable research practices](qrps.qmd) page.
+
+::: callout-important
+Recognizing the difference between exploratory and hypothesis testing
+approaches both as a *contributor* to and *consumer* of research is
+critical for transparent and credible science [@nosek2018].
+:::
+
+## Questioning how we do research
+
+A core role of a scientist is to discover truths about how the world
+works. We can generate hypotheses, collect data, then examine the data
+and interpret findings in relation to our hypotheses to hopefully build
+more theories about how the world works. Research is built on prior
+findings. The publication of false positive findings due to questionable
+research practices has implications within and beyond academic research.
+It can lead to incorrect conclusions potentially resulting in wasted
+resources for researchers inspired to build upon the (incorrect)
+findings. This can also result in ineffective policy recommendations or
+even harmful medical interventions [@simmons2021].
 
 ::: {.callout-note title="Reflection point" collapse="true"}
 When decisions are made in the research process are often not clearly
@@ -29,31 +91,12 @@ study findings were known, and does this matter?
 Short answer is: no, you cannot really tell and yes it does matter!
 :::
 
-These post-hoc decisions can look like researchers following an
-exploratory, hypothesis generating approach and then reporting their
-outcomes as grounded in theory and planned. Other times researchers can
-decide to report the "best" studies from a series of studies and label
-the other studies as "failures". Even to refining the study design while
-exploring the data. As researchers we are keen to make sure our
-approaches are "right", yet we do not always account for our biases or
-forget what we originally planned. The issues raised by this flexible
-decision making process comes under the umbrella of questionable
-research practices (QRPs). We will cover the topic of QRPs in more
-detail in the [Questionable research practices](qrps.qmd) page.
-
-::: callout-important
-Recognizing the difference between exploratory and hypothesis testing
-approaches both as a *contributor* to and *consumer* of research is
-critical for transparent and credible science [@nosek2018].
-:::
-
-## Questioning how we do research
-
 Over the past couple of decades, researchers primarily in the field of
 psychology raised major concerns about the credibility of science
 ("credibility/reproducibility/replicability crisis") as many studies
-were unable to be replicated [@opensciencecollaboration2015]. Some of
-the cited reasons for this crisis were questionable research practices.
+were unable to be replicated [@opensciencecollaboration2015]. Engaging
+in questionable research practices have been cited as key contributors
+to this "crisis".
 
 ::: {.callout-note title="Structural contributions to the crisis" collapse="false"}
 Other cited contributors to the "crisis" were structural issues relating
@@ -69,7 +112,7 @@ we do science.
 @centerforopenscience2026.](images/credibility-crisis.png){fig-alt="A screenshot of journal articles highlighting the credibility crisis over the last two decades."
 fig-align="center" width="602"}
 
-Recognizing the challenges to how science is conducted, researchers have
+Recognizing the challenges in how science is conducted, researchers have
 calls for a more optimistic framing of the crisis to one of a
 "credibility revolution" [@vazire2018a; @fanelli2018a]. This reframing
 outlines where we as individual researchers have agency to adopt more
@@ -81,7 +124,7 @@ scientific progress.
 A strategy to address the "crisis" is the practice of study
 preregistration. Preregistrations aim to:
 
-- reduce bias
+- reduce questionable research practices and bias
 
 - increase transparency
 
@@ -92,9 +135,9 @@ outlines a study plan including research questions/hypotheses, research
 design, data analysis *before* data collection and analysis. A study
 preregistration is then uploaded onto a verified repository so that it
 can be publicly shared with others (possibly after an embargo period)
-[@nosek2018; @parsons2022]. Importantly, preregistration remains
-agnostic when it comes to exploratory and hypothesis testing approach to
-research, it aims to clearly differentiate between the two.
+[@nosek2018; @parsons2022]. Importantly, preregistration does not favor
+hypothesis testing approach over exploratory methods to research, but
+instead aims to clearly differentiate between the two.
 
 ::: callout-caution
 ### Terminology
