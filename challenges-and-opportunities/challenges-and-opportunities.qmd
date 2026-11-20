@@ -60,7 +60,8 @@ D (trying out a new statistical test to find a significant finding).
   once you have collected and cleaned data
 
 - If preregistration is approved as a registered report during stage 1
-  journal peer review, you have **"in-principle acceptance"**
+  journal peer review, you have **"in-principle acceptance"** which you
+  can list in your CV as accepted article.
 
 **Visible productivity**
 
@@ -184,7 +185,8 @@ is usually in the author resources/guidelines section.
 *Counterargument:* templates and FAQ pages can guide you and if you are
 unable to officially register a study, adopting principles of study
 preregistration is a good step (e.g. Open Science Buffet approach,
-[@bergmann2023])
+[@bergmann2023]). It is also not all or nothing, as you can move through
+the exploratory-confirmatory continuum [@waldron2022].
 
 ## Challenges: lack of support
 
